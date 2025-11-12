@@ -15,7 +15,7 @@ Mimecast AI Analytics Engineer Take-Home Assessment
 <br> 03_Customer_Analytics.twbx – Tableau dashboard
 <br> 03_Customer Executive Analysis.pptx – Summary presentation
 
-#Tools Used
+# Tools Used
 <br> SQL – Data modeling and transformations
 <br> AI  – ChatGPT-5, Grok 3, Open AI Prompt Optimizer - Prompt-based analysis
 <br> Tableau – Visualization and dashboard design
