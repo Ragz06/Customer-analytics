@@ -1,0 +1,730 @@
+ticket_id,customer_id,created_date,ticket_type,priority,status,resolution_hours,satisfaction_score,agent_id
+TKT_000001,CUST_0001,2023-11-29 08:22:42,Account Setup,Medium,Resolved,91.0,,agent_2
+TKT_000002,CUST_0002,2024-05-18 23:18:08,Billing Question,Low,Closed,2.0,,agent_7
+TKT_000003,CUST_0002,2023-12-13 19:28:22,Billing Question,High,Closed,113.0,,agent_6
+TKT_000004,CUST_0005,2024-02-28 05:58:01,Integration Help,Low,In Progress,17.0,,agent_1
+TKT_000005,CUST_0005,2023-10-27 07:20:25,Account Setup,Medium,Resolved,104.0,1.0,agent_13
+TKT_000006,CUST_0005,2023-08-30 05:40:04,Account Setup,Medium,Closed,,,agent_1
+TKT_000007,CUST_0006,2024-05-12 20:00:31,Integration Help,Low,Closed,68.0,5.0,agent_13
+TKT_000008,CUST_0006,2024-06-16 15:42:47,Bug Report,Low,Open,,1.0,agent_6
+TKT_000009,CUST_0010,2024-02-19 07:21:04,Technical Issue,Low,Closed,,5.0,agent_14
+TKT_000010,CUST_0012,2024-03-05 22:59:45,Integration Help,Medium,Resolved,,,agent_8
+TKT_000011,CUST_0015,2024-03-28 23:52:35,Account Setup,Low,Resolved,31.0,4.0,agent_2
+TKT_000012,CUST_0017,2023-03-04 07:07:10,Account Setup,Low,Open,56.0,,agent_4
+TKT_000013,CUST_0019,2023-12-01 15:37:08,Account Setup,Low,Closed,83.0,5.0,agent_5
+TKT_000014,CUST_0021,2022-10-21 23:55:58,Account Setup,High,Open,157.0,,agent_15
+TKT_000015,CUST_0021,2024-02-26 04:54:12,Technical Issue,Low,Open,36.0,2.0,agent_2
+TKT_000016,CUST_0021,2022-09-13 07:00:40,Technical Issue,High,Closed,106.0,3.0,agent_2
+TKT_000017,CUST_0022,2023-11-10 21:28:25,Feature Request,Low,Closed,22.0,5.0,agent_15
+TKT_000018,CUST_0022,2024-05-10 20:59:19,Account Setup,High,Closed,,1.0,agent_12
+TKT_000019,CUST_0022,2024-06-23 13:23:39,Integration Help,Medium,Closed,138.0,1.0,agent_9
+TKT_000020,CUST_0022,2023-07-19 21:55:47,Billing Question,Medium,In Progress,,3.0,agent_9
+TKT_000021,CUST_0022,2023-10-16 13:43:20,Integration Help,Critical,Closed,60.0,5.0,agent_3
+TKT_000022,CUST_0022,2022-10-30 22:26:28,Billing Question,Medium,Resolved,7.0,2.0,agent_14
+TKT_000023,CUST_0022,2023-02-06 17:37:06,Integration Help,Low,Resolved,,1.0,agent_15
+TKT_000024,CUST_0022,2023-01-13 14:10:57,Account Setup,Medium,Resolved,131.0,4.0,agent_9
+TKT_000025,CUST_0022,2023-10-10 00:02:31,Account Setup,Medium,Resolved,39.0,4.0,agent_11
+TKT_000026,CUST_0022,2024-01-19 12:30:05,Billing Question,Low,Resolved,13.0,,agent_13
+TKT_000027,CUST_0022,2022-11-20 16:35:05,Account Setup,Low,Resolved,149.0,2.0,agent_3
+TKT_000028,CUST_0022,2023-09-26 15:47:06,Bug Report,High,Closed,73.0,4.0,agent_6
+TKT_000029,CUST_0022,2022-12-05 02:47:24,Integration Help,High,Closed,118.0,3.0,agent_11
+TKT_000030,CUST_0023,2023-01-09 01:59:04,Account Setup,Medium,Resolved,155.0,2.0,agent_12
+TKT_000031,CUST_0024,2023-03-26 16:48:52,Account Setup,Low,Resolved,157.0,,agent_1
+TKT_000032,CUST_0025,2022-12-31 14:21:41,Billing Question,Low,In Progress,144.0,2.0,agent_14
+TKT_000033,CUST_0025,2024-01-29 16:18:03,Integration Help,Medium,Open,71.0,2.0,agent_5
+TKT_000034,CUST_0025,2024-01-19 13:56:52,Bug Report,Medium,Closed,137.0,,agent_5
+TKT_000035,CUST_0026,2023-04-07 22:50:52,Feature Request,Critical,Closed,123.0,4.0,agent_1
+TKT_000036,CUST_0028,2024-06-13 02:01:05,Technical Issue,Low,In Progress,17.0,2.0,agent_6
+TKT_000037,CUST_0028,2024-05-25 19:01:58,Feature Request,Critical,Closed,164.0,,agent_4
+TKT_000038,CUST_0028,2024-02-19 00:41:58,Technical Issue,Low,Closed,,,agent_9
+TKT_000039,CUST_0028,2024-03-17 22:32:33,Account Setup,Low,Closed,,,agent_15
+TKT_000040,CUST_0028,2023-09-19 06:03:45,Account Setup,Low,In Progress,,1.0,agent_14
+TKT_000041,CUST_0030,2023-01-17 02:24:54,Billing Question,Low,Resolved,75.0,,agent_13
+TKT_000042,CUST_0031,2024-05-03 12:25:39,Bug Report,Low,Resolved,124.0,5.0,agent_13
+TKT_000043,CUST_0033,2023-12-01 13:45:25,Technical Issue,Medium,Closed,162.0,4.0,agent_14
+TKT_000044,CUST_0035,2024-02-13 02:14:08,Technical Issue,Low,Resolved,38.0,1.0,agent_13
+TKT_000045,CUST_0035,2023-06-05 21:47:03,Integration Help,Low,Resolved,84.0,,agent_7
+TKT_000046,CUST_0035,2024-04-03 19:47:58,Integration Help,High,In Progress,138.0,5.0,agent_9
+TKT_000047,CUST_0035,2023-11-19 00:39:22,Integration Help,Low,Resolved,80.0,,agent_6
+TKT_000048,CUST_0035,2024-03-12 23:40:47,Billing Question,High,Open,,,agent_10
+TKT_000049,CUST_0035,2024-05-22 19:13:39,Technical Issue,High,Closed,47.0,,agent_15
+TKT_000050,CUST_0037,2024-04-03 03:44:37,Billing Question,Low,Resolved,12.0,2.0,agent_14
+TKT_000051,CUST_0037,2024-06-25 11:11:00,Integration Help,High,In Progress,138.0,2.0,agent_2
+TKT_000052,CUST_0037,2024-05-24 21:03:05,Billing Question,Low,Resolved,149.0,,agent_1
+TKT_000053,CUST_0037,2024-06-24 17:34:31,Bug Report,Medium,Closed,168.0,3.0,agent_3
+TKT_000054,CUST_0040,2022-11-03 11:21:58,Account Setup,Critical,Closed,76.0,5.0,agent_10
+TKT_000055,CUST_0040,2023-08-31 19:16:22,Account Setup,Medium,Resolved,111.0,,agent_14
+TKT_000056,CUST_0044,2024-06-22 00:01:18,Billing Question,Medium,Resolved,80.0,1.0,agent_10
+TKT_000057,CUST_0044,2024-02-11 00:05:41,Billing Question,Critical,In Progress,79.0,4.0,agent_3
+TKT_000058,CUST_0044,2023-11-22 04:25:07,Billing Question,High,Closed,95.0,2.0,agent_13
+TKT_000059,CUST_0046,2024-03-28 05:46:01,Bug Report,Low,In Progress,87.0,3.0,agent_4
+TKT_000060,CUST_0046,2023-06-18 17:01:23,Bug Report,High,Resolved,3.0,,agent_3
+TKT_000061,CUST_0046,2023-12-22 10:39:04,Account Setup,Medium,Closed,47.0,4.0,agent_3
+TKT_000062,CUST_0046,2024-01-08 10:45:52,Technical Issue,Low,In Progress,,1.0,agent_2
+TKT_000063,CUST_0047,2023-06-21 08:04:33,Billing Question,Medium,Resolved,129.0,,agent_13
+TKT_000064,CUST_0051,2024-05-29 23:37:03,Technical Issue,Medium,Resolved,4.0,5.0,agent_3
+TKT_000065,CUST_0052,2023-11-06 03:32:19,Feature Request,Medium,Closed,21.0,1.0,agent_15
+TKT_000066,CUST_0052,2024-01-05 04:45:48,Feature Request,Critical,Resolved,115.0,,agent_13
+TKT_000067,CUST_0053,2023-12-03 04:42:27,Feature Request,Medium,Closed,,2.0,agent_12
+TKT_000068,CUST_0057,2024-05-05 20:01:16,Feature Request,Medium,Closed,88.0,5.0,agent_1
+TKT_000069,CUST_0057,2024-04-22 05:28:14,Billing Question,Critical,Closed,142.0,,agent_9
+TKT_000070,CUST_0057,2023-09-12 19:02:17,Feature Request,Low,Resolved,80.0,3.0,agent_6
+TKT_000071,CUST_0057,2023-11-24 10:29:42,Technical Issue,Medium,Resolved,13.0,4.0,agent_6
+TKT_000072,CUST_0057,2023-08-21 02:57:48,Technical Issue,Low,Closed,,4.0,agent_5
+TKT_000073,CUST_0057,2024-06-20 07:22:51,Bug Report,Medium,Resolved,158.0,1.0,agent_8
+TKT_000074,CUST_0058,2023-12-19 12:09:04,Feature Request,Low,Resolved,102.0,4.0,agent_3
+TKT_000075,CUST_0058,2023-02-05 20:23:04,Integration Help,Medium,Closed,50.0,3.0,agent_12
+TKT_000076,CUST_0058,2023-01-22 19:10:17,Integration Help,Low,Closed,168.0,2.0,agent_14
+TKT_000077,CUST_0061,2023-03-28 09:23:30,Billing Question,Medium,In Progress,66.0,2.0,agent_6
+TKT_000078,CUST_0061,2024-04-22 13:28:36,Feature Request,Low,Closed,129.0,,agent_5
+TKT_000079,CUST_0061,2023-03-05 04:15:11,Bug Report,High,Closed,10.0,4.0,agent_8
+TKT_000080,CUST_0061,2024-02-27 07:10:52,Billing Question,Medium,Open,130.0,3.0,agent_5
+TKT_000081,CUST_0062,2023-09-23 14:14:05,Billing Question,Low,Open,93.0,3.0,agent_12
+TKT_000082,CUST_0066,2023-03-05 05:32:05,Integration Help,Medium,Resolved,122.0,,agent_11
+TKT_000083,CUST_0066,2024-06-29 00:26:54,Bug Report,Medium,In Progress,167.0,,agent_8
+TKT_000084,CUST_0066,2024-02-07 04:16:54,Bug Report,Low,Resolved,132.0,5.0,agent_7
+TKT_000085,CUST_0068,2024-01-23 09:54:21,Integration Help,High,Closed,136.0,3.0,agent_6
+TKT_000086,CUST_0068,2023-11-02 18:58:47,Bug Report,Low,Resolved,149.0,2.0,agent_5
+TKT_000087,CUST_0069,2023-05-04 16:50:49,Technical Issue,High,Closed,60.0,4.0,agent_12
+TKT_000088,CUST_0069,2023-01-28 05:25:29,Billing Question,Low,In Progress,45.0,,agent_8
+TKT_000089,CUST_0069,2022-11-19 09:34:56,Feature Request,Low,Closed,,,agent_11
+TKT_000090,CUST_0069,2023-12-10 06:32:54,Account Setup,Low,Closed,,2.0,agent_3
+TKT_000091,CUST_0069,2023-08-21 15:05:25,Technical Issue,Medium,Resolved,,,agent_1
+TKT_000092,CUST_0069,2024-04-09 23:20:16,Technical Issue,Low,In Progress,,,agent_9
+TKT_000093,CUST_0071,2023-06-15 18:26:22,Account Setup,Low,Open,,5.0,agent_11
+TKT_000094,CUST_0071,2024-06-24 01:37:47,Bug Report,Medium,Resolved,,,agent_5
+TKT_000095,CUST_0071,2023-01-14 01:45:19,Account Setup,High,Resolved,96.0,,agent_9
+TKT_000096,CUST_0072,2023-09-02 18:07:01,Bug Report,Low,Closed,82.0,4.0,agent_5
+TKT_000097,CUST_0072,2023-12-14 02:37:17,Bug Report,Low,Resolved,141.0,3.0,agent_14
+TKT_000098,CUST_0072,2024-06-29 06:47:43,Technical Issue,Low,Closed,26.0,4.0,agent_15
+TKT_000099,CUST_0072,2023-06-11 15:47:56,Billing Question,High,Resolved,1.0,4.0,agent_8
+TKT_000100,CUST_0073,2023-06-03 21:23:36,Technical Issue,High,Open,85.0,4.0,agent_7
+TKT_000101,CUST_0073,2023-11-01 16:25:09,Technical Issue,Low,Closed,24.0,,agent_2
+TKT_000102,CUST_0073,2023-06-16 03:14:40,Billing Question,Low,Resolved,58.0,5.0,agent_5
+TKT_000103,CUST_0073,2024-04-05 14:52:47,Integration Help,Medium,Resolved,11.0,,agent_7
+TKT_000104,CUST_0073,2024-06-05 19:50:12,Billing Question,Medium,Resolved,52.0,4.0,agent_3
+TKT_000105,CUST_0073,2024-02-02 16:34:00,Account Setup,High,Resolved,156.0,5.0,agent_15
+TKT_000106,CUST_0073,2024-06-19 10:23:42,Account Setup,Medium,Closed,31.0,1.0,agent_6
+TKT_000107,CUST_0073,2023-04-30 19:04:31,Integration Help,Medium,Resolved,95.0,4.0,agent_1
+TKT_000108,CUST_0073,2023-10-07 21:17:39,Technical Issue,High,In Progress,33.0,3.0,agent_8
+TKT_000109,CUST_0073,2024-05-16 10:20:58,Integration Help,High,In Progress,,5.0,agent_14
+TKT_000110,CUST_0073,2023-04-11 12:56:48,Billing Question,High,Closed,147.0,5.0,agent_6
+TKT_000111,CUST_0073,2023-07-07 11:33:04,Account Setup,Medium,Closed,118.0,,agent_5
+TKT_000112,CUST_0073,2024-01-31 02:43:13,Feature Request,High,Open,155.0,5.0,agent_3
+TKT_000113,CUST_0073,2023-11-10 17:44:47,Integration Help,Medium,Resolved,,,agent_3
+TKT_000114,CUST_0073,2023-07-25 10:48:49,Account Setup,Low,Resolved,155.0,3.0,agent_12
+TKT_000115,CUST_0073,2024-01-16 14:57:42,Feature Request,Low,Resolved,69.0,1.0,agent_6
+TKT_000116,CUST_0073,2024-03-09 23:10:51,Feature Request,Low,Resolved,,4.0,agent_14
+TKT_000117,CUST_0073,2023-04-07 01:08:04,Technical Issue,High,Open,148.0,,agent_12
+TKT_000118,CUST_0073,2023-12-28 18:31:56,Billing Question,Critical,Resolved,,,agent_14
+TKT_000119,CUST_0073,2024-04-06 01:29:07,Integration Help,Low,Resolved,46.0,3.0,agent_1
+TKT_000120,CUST_0073,2023-05-22 08:51:20,Account Setup,Medium,Closed,23.0,,agent_12
+TKT_000121,CUST_0073,2023-10-27 08:37:59,Feature Request,Low,Closed,,5.0,agent_15
+TKT_000122,CUST_0073,2024-01-21 19:51:50,Account Setup,Low,Closed,2.0,1.0,agent_2
+TKT_000123,CUST_0074,2023-02-17 05:32:26,Billing Question,Critical,Closed,148.0,1.0,agent_14
+TKT_000124,CUST_0074,2024-04-12 06:11:53,Billing Question,Low,Open,23.0,2.0,agent_14
+TKT_000125,CUST_0076,2024-05-20 02:35:10,Integration Help,Low,Open,14.0,5.0,agent_6
+TKT_000126,CUST_0079,2022-05-13 20:16:24,Account Setup,Low,Closed,2.0,,agent_9
+TKT_000127,CUST_0079,2023-08-19 01:50:09,Bug Report,Low,Resolved,144.0,,agent_10
+TKT_000128,CUST_0080,2024-06-03 16:29:17,Account Setup,Medium,Resolved,120.0,2.0,agent_10
+TKT_000129,CUST_0081,2023-04-06 09:02:28,Account Setup,High,Resolved,72.0,5.0,agent_15
+TKT_000130,CUST_0082,2024-01-11 20:33:06,Feature Request,High,Closed,,1.0,agent_1
+TKT_000131,CUST_0083,2024-03-24 01:30:50,Technical Issue,Low,Closed,86.0,2.0,agent_2
+TKT_000132,CUST_0086,2023-12-30 10:26:52,Feature Request,Critical,Closed,76.0,5.0,agent_13
+TKT_000133,CUST_0086,2023-01-12 20:47:42,Feature Request,Medium,Open,87.0,4.0,agent_1
+TKT_000134,CUST_0087,2024-03-26 10:06:55,Feature Request,Medium,In Progress,115.0,,agent_5
+TKT_000135,CUST_0087,2024-06-21 22:31:53,Feature Request,Medium,Closed,129.0,,agent_15
+TKT_000136,CUST_0088,2024-03-06 15:57:03,Billing Question,Medium,In Progress,,4.0,agent_14
+TKT_000137,CUST_0090,2024-05-25 06:44:39,Bug Report,Low,Resolved,71.0,3.0,agent_7
+TKT_000138,CUST_0090,2024-03-30 23:07:03,Integration Help,Low,Closed,53.0,3.0,agent_15
+TKT_000139,CUST_0090,2024-05-02 00:31:26,Technical Issue,Medium,Closed,28.0,5.0,agent_2
+TKT_000140,CUST_0091,2024-01-05 17:02:22,Technical Issue,Critical,Resolved,26.0,5.0,agent_11
+TKT_000141,CUST_0091,2023-10-14 09:59:35,Billing Question,High,Closed,37.0,2.0,agent_3
+TKT_000142,CUST_0091,2024-06-09 03:52:19,Account Setup,Medium,Resolved,,3.0,agent_12
+TKT_000143,CUST_0091,2023-11-08 07:05:13,Technical Issue,High,Closed,,5.0,agent_6
+TKT_000144,CUST_0091,2023-10-30 02:46:34,Feature Request,High,Closed,3.0,,agent_6
+TKT_000145,CUST_0094,2022-08-28 10:08:55,Feature Request,High,Closed,87.0,5.0,agent_5
+TKT_000146,CUST_0094,2024-01-21 18:09:03,Integration Help,Low,Resolved,,1.0,agent_13
+TKT_000147,CUST_0096,2023-05-15 01:02:30,Feature Request,Medium,Resolved,49.0,5.0,agent_11
+TKT_000148,CUST_0097,2023-11-16 19:20:24,Technical Issue,High,Closed,165.0,,agent_7
+TKT_000149,CUST_0097,2023-07-18 03:39:45,Feature Request,Critical,Closed,,5.0,agent_2
+TKT_000150,CUST_0097,2022-05-01 16:00:16,Billing Question,Low,Open,,,agent_10
+TKT_000151,CUST_0097,2023-07-12 12:10:03,Technical Issue,Medium,Closed,17.0,3.0,agent_15
+TKT_000152,CUST_0097,2023-01-22 16:58:25,Billing Question,Low,Closed,140.0,3.0,agent_3
+TKT_000153,CUST_0097,2022-07-06 23:59:28,Account Setup,Low,Open,93.0,5.0,agent_1
+TKT_000154,CUST_0098,2022-03-26 20:37:57,Integration Help,Medium,Closed,102.0,,agent_9
+TKT_000155,CUST_0098,2023-10-18 23:05:19,Account Setup,Low,Closed,113.0,5.0,agent_5
+TKT_000156,CUST_0099,2023-11-11 08:20:02,Bug Report,High,In Progress,,3.0,agent_10
+TKT_000157,CUST_0101,2024-01-08 05:55:19,Technical Issue,Low,Resolved,58.0,2.0,agent_6
+TKT_000158,CUST_0101,2023-12-02 20:04:23,Feature Request,Low,Resolved,,4.0,agent_6
+TKT_000159,CUST_0101,2023-10-07 03:28:51,Account Setup,Low,In Progress,34.0,,agent_1
+TKT_000160,CUST_0102,2023-09-02 01:38:53,Bug Report,High,In Progress,,1.0,agent_2
+TKT_000161,CUST_0106,2023-04-15 19:58:12,Integration Help,Low,Closed,9.0,3.0,agent_4
+TKT_000162,CUST_0106,2023-04-08 08:44:17,Integration Help,Medium,Resolved,164.0,,agent_15
+TKT_000163,CUST_0107,2023-09-06 07:14:26,Account Setup,Low,In Progress,,3.0,agent_15
+TKT_000164,CUST_0107,2024-04-11 10:34:15,Account Setup,Low,Closed,86.0,5.0,agent_8
+TKT_000165,CUST_0108,2024-03-21 18:34:58,Feature Request,Low,Resolved,145.0,2.0,agent_7
+TKT_000166,CUST_0110,2022-08-16 01:26:50,Feature Request,Medium,Closed,,,agent_12
+TKT_000167,CUST_0112,2024-01-19 11:16:33,Billing Question,Low,In Progress,118.0,1.0,agent_12
+TKT_000168,CUST_0113,2024-05-30 16:48:18,Technical Issue,High,In Progress,33.0,2.0,agent_12
+TKT_000169,CUST_0113,2024-06-30 00:16:04,Technical Issue,Low,Resolved,141.0,,agent_13
+TKT_000170,CUST_0113,2024-06-02 01:27:33,Technical Issue,Low,Closed,44.0,4.0,agent_12
+TKT_000171,CUST_0115,2023-10-15 15:51:16,Integration Help,Low,In Progress,,5.0,agent_6
+TKT_000172,CUST_0115,2024-02-20 01:24:26,Integration Help,Low,Resolved,141.0,4.0,agent_3
+TKT_000173,CUST_0115,2023-11-19 13:58:25,Integration Help,Medium,Closed,98.0,2.0,agent_8
+TKT_000174,CUST_0115,2024-05-08 18:21:22,Feature Request,Low,Closed,155.0,,agent_15
+TKT_000175,CUST_0117,2024-02-22 23:33:22,Feature Request,High,Resolved,123.0,1.0,agent_11
+TKT_000176,CUST_0120,2023-07-31 13:05:38,Feature Request,Low,Closed,,,agent_9
+TKT_000177,CUST_0120,2023-10-31 00:36:56,Billing Question,Medium,Closed,158.0,,agent_11
+TKT_000178,CUST_0121,2024-06-22 09:39:55,Technical Issue,Low,Resolved,40.0,,agent_4
+TKT_000179,CUST_0122,2024-06-25 22:44:23,Bug Report,High,Closed,,3.0,agent_10
+TKT_000180,CUST_0122,2024-05-06 23:10:48,Bug Report,Low,In Progress,51.0,,agent_1
+TKT_000181,CUST_0123,2023-12-24 11:26:03,Technical Issue,Low,Closed,,2.0,agent_12
+TKT_000182,CUST_0123,2023-07-25 21:48:49,Billing Question,High,In Progress,128.0,,agent_12
+TKT_000183,CUST_0124,2023-10-29 07:52:08,Feature Request,Medium,Resolved,11.0,4.0,agent_4
+TKT_000184,CUST_0124,2023-08-16 02:53:52,Billing Question,Medium,Resolved,15.0,4.0,agent_6
+TKT_000185,CUST_0126,2023-10-06 01:05:20,Technical Issue,Medium,In Progress,150.0,2.0,agent_10
+TKT_000186,CUST_0126,2023-02-08 15:21:43,Bug Report,High,Closed,107.0,4.0,agent_14
+TKT_000187,CUST_0126,2024-03-17 08:08:59,Feature Request,Medium,Closed,,1.0,agent_5
+TKT_000188,CUST_0126,2023-06-11 13:57:51,Billing Question,Low,Resolved,,2.0,agent_2
+TKT_000189,CUST_0126,2023-10-23 01:37:51,Technical Issue,Medium,Resolved,125.0,4.0,agent_14
+TKT_000190,CUST_0126,2023-10-02 10:49:38,Technical Issue,Low,Closed,118.0,,agent_9
+TKT_000191,CUST_0126,2023-10-02 19:24:19,Billing Question,Low,Resolved,93.0,3.0,agent_11
+TKT_000192,CUST_0126,2022-12-29 02:24:07,Account Setup,Low,In Progress,113.0,2.0,agent_10
+TKT_000193,CUST_0127,2024-04-03 21:09:29,Technical Issue,Low,Closed,,,agent_14
+TKT_000194,CUST_0127,2023-12-29 14:39:56,Feature Request,Medium,Closed,,3.0,agent_4
+TKT_000195,CUST_0128,2024-01-13 08:47:30,Bug Report,Low,Closed,36.0,,agent_3
+TKT_000196,CUST_0129,2022-09-08 12:54:29,Integration Help,Medium,Closed,132.0,5.0,agent_11
+TKT_000197,CUST_0130,2022-08-20 08:54:55,Account Setup,Low,In Progress,160.0,1.0,agent_11
+TKT_000198,CUST_0132,2023-09-23 17:21:13,Feature Request,Low,Resolved,,,agent_5
+TKT_000199,CUST_0134,2024-04-27 00:49:47,Billing Question,Medium,Resolved,,,agent_4
+TKT_000200,CUST_0136,2022-05-19 22:59:43,Technical Issue,Low,Closed,62.0,4.0,agent_1
+TKT_000201,CUST_0136,2023-10-28 18:35:14,Billing Question,High,Closed,69.0,3.0,agent_8
+TKT_000202,CUST_0137,2023-12-07 23:01:41,Account Setup,Medium,Closed,117.0,,agent_13
+TKT_000203,CUST_0139,2024-01-17 14:14:22,Billing Question,Critical,Resolved,52.0,3.0,agent_7
+TKT_000204,CUST_0140,2024-03-15 07:51:01,Integration Help,Low,Closed,153.0,2.0,agent_2
+TKT_000205,CUST_0140,2023-10-04 13:04:12,Billing Question,Low,Resolved,88.0,5.0,agent_15
+TKT_000206,CUST_0140,2024-01-12 22:46:06,Technical Issue,High,In Progress,131.0,,agent_13
+TKT_000207,CUST_0140,2024-03-03 07:57:44,Account Setup,Low,Closed,,2.0,agent_1
+TKT_000208,CUST_0140,2024-05-06 00:15:59,Feature Request,Low,Closed,71.0,,agent_3
+TKT_000209,CUST_0140,2024-03-13 21:18:11,Billing Question,Low,Closed,32.0,2.0,agent_4
+TKT_000210,CUST_0141,2023-11-07 03:11:49,Technical Issue,Low,Resolved,107.0,1.0,agent_8
+TKT_000211,CUST_0143,2024-03-18 01:39:12,Feature Request,Medium,Resolved,,1.0,agent_1
+TKT_000212,CUST_0143,2024-02-21 21:25:30,Bug Report,Medium,Resolved,166.0,2.0,agent_3
+TKT_000213,CUST_0143,2023-04-06 09:34:16,Billing Question,Medium,Resolved,21.0,3.0,agent_3
+TKT_000214,CUST_0145,2024-02-18 05:05:43,Bug Report,Low,Closed,93.0,4.0,agent_5
+TKT_000215,CUST_0146,2023-12-11 10:20:45,Bug Report,Medium,In Progress,,1.0,agent_12
+TKT_000216,CUST_0146,2024-04-01 04:08:37,Bug Report,High,In Progress,88.0,5.0,agent_7
+TKT_000217,CUST_0148,2024-01-23 11:06:46,Account Setup,Low,Resolved,,1.0,agent_15
+TKT_000218,CUST_0148,2024-06-12 09:27:58,Bug Report,Low,In Progress,162.0,1.0,agent_15
+TKT_000219,CUST_0148,2024-01-10 17:13:59,Bug Report,Medium,Closed,,4.0,agent_14
+TKT_000220,CUST_0149,2024-04-02 01:12:06,Bug Report,Low,Resolved,46.0,2.0,agent_2
+TKT_000221,CUST_0151,2023-07-31 10:27:09,Integration Help,Low,Closed,7.0,,agent_15
+TKT_000222,CUST_0155,2023-09-07 12:20:04,Integration Help,High,Closed,102.0,,agent_1
+TKT_000223,CUST_0155,2023-08-31 01:46:35,Feature Request,Low,Resolved,32.0,4.0,agent_3
+TKT_000224,CUST_0157,2024-03-27 21:32:25,Integration Help,Medium,Resolved,7.0,2.0,agent_6
+TKT_000225,CUST_0158,2023-06-26 06:44:49,Integration Help,Low,Closed,96.0,,agent_4
+TKT_000226,CUST_0158,2023-07-12 05:36:17,Feature Request,Medium,Closed,44.0,2.0,agent_15
+TKT_000227,CUST_0159,2024-04-22 14:44:45,Integration Help,Low,Resolved,155.0,2.0,agent_13
+TKT_000228,CUST_0159,2023-12-13 23:45:42,Feature Request,Low,Resolved,58.0,4.0,agent_7
+TKT_000229,CUST_0160,2022-10-13 04:15:24,Integration Help,Critical,Open,,1.0,agent_13
+TKT_000230,CUST_0161,2024-04-14 18:18:16,Feature Request,Low,Open,41.0,,agent_2
+TKT_000231,CUST_0161,2023-12-19 03:09:12,Integration Help,Low,Closed,166.0,2.0,agent_12
+TKT_000232,CUST_0164,2024-01-01 19:30:38,Bug Report,High,Closed,127.0,5.0,agent_14
+TKT_000233,CUST_0165,2023-06-20 14:30:50,Account Setup,Low,Resolved,104.0,,agent_4
+TKT_000234,CUST_0165,2024-05-21 14:24:30,Feature Request,Critical,Closed,40.0,5.0,agent_5
+TKT_000235,CUST_0166,2024-03-19 13:10:48,Billing Question,Medium,Closed,40.0,,agent_14
+TKT_000236,CUST_0166,2024-02-21 12:14:19,Bug Report,Critical,Resolved,46.0,5.0,agent_6
+TKT_000237,CUST_0167,2022-12-19 21:01:08,Bug Report,Low,Resolved,96.0,4.0,agent_14
+TKT_000238,CUST_0167,2023-02-10 00:55:06,Bug Report,Low,Open,18.0,3.0,agent_2
+TKT_000239,CUST_0168,2024-04-13 21:18:23,Account Setup,Medium,In Progress,2.0,1.0,agent_11
+TKT_000240,CUST_0168,2024-06-16 01:38:24,Feature Request,Low,Closed,,4.0,agent_11
+TKT_000241,CUST_0173,2022-12-07 12:44:40,Billing Question,Medium,In Progress,131.0,3.0,agent_7
+TKT_000242,CUST_0175,2023-09-17 13:36:11,Bug Report,Low,Resolved,81.0,,agent_2
+TKT_000243,CUST_0176,2023-07-04 08:48:45,Bug Report,Low,Open,161.0,,agent_2
+TKT_000244,CUST_0178,2024-06-17 19:13:32,Billing Question,Medium,Open,88.0,,agent_12
+TKT_000245,CUST_0178,2024-01-22 00:41:12,Feature Request,Medium,Resolved,152.0,1.0,agent_8
+TKT_000246,CUST_0178,2023-04-05 09:50:29,Technical Issue,Low,Resolved,,,agent_10
+TKT_000247,CUST_0179,2024-05-17 16:16:14,Feature Request,Medium,Open,25.0,5.0,agent_4
+TKT_000248,CUST_0180,2024-03-16 00:23:24,Integration Help,Medium,Resolved,111.0,5.0,agent_9
+TKT_000249,CUST_0181,2023-08-30 14:33:36,Technical Issue,Low,Resolved,56.0,,agent_10
+TKT_000250,CUST_0181,2024-04-16 10:59:51,Feature Request,Medium,Resolved,48.0,3.0,agent_12
+TKT_000251,CUST_0181,2023-11-17 23:52:36,Integration Help,Medium,Closed,136.0,,agent_11
+TKT_000252,CUST_0181,2023-02-04 13:29:30,Bug Report,Medium,Closed,162.0,,agent_10
+TKT_000253,CUST_0181,2022-11-06 05:19:41,Account Setup,Low,In Progress,162.0,5.0,agent_11
+TKT_000254,CUST_0182,2023-07-04 02:27:03,Feature Request,Low,Open,,,agent_14
+TKT_000255,CUST_0182,2022-11-04 06:25:31,Account Setup,High,Resolved,90.0,3.0,agent_8
+TKT_000256,CUST_0183,2023-11-27 16:11:51,Technical Issue,Low,Closed,13.0,5.0,agent_11
+TKT_000257,CUST_0183,2024-05-12 00:54:09,Account Setup,Low,Resolved,128.0,1.0,agent_7
+TKT_000258,CUST_0184,2023-04-12 08:37:16,Billing Question,Medium,Closed,99.0,1.0,agent_7
+TKT_000259,CUST_0184,2023-05-15 17:24:34,Billing Question,Medium,Resolved,,3.0,agent_10
+TKT_000260,CUST_0184,2023-10-04 08:51:35,Feature Request,Critical,Resolved,,3.0,agent_3
+TKT_000261,CUST_0185,2024-03-02 06:38:19,Billing Question,Low,Closed,58.0,2.0,agent_6
+TKT_000262,CUST_0187,2023-12-10 20:02:31,Feature Request,Medium,Resolved,29.0,2.0,agent_2
+TKT_000263,CUST_0187,2024-06-23 09:34:08,Integration Help,Low,Resolved,81.0,3.0,agent_10
+TKT_000264,CUST_0187,2023-12-27 19:24:53,Billing Question,Medium,Resolved,90.0,3.0,agent_14
+TKT_000265,CUST_0187,2023-11-18 11:07:38,Billing Question,Medium,Closed,57.0,1.0,agent_7
+TKT_000266,CUST_0187,2024-03-05 03:03:26,Integration Help,Low,Closed,155.0,3.0,agent_5
+TKT_000267,CUST_0187,2024-03-08 14:19:36,Billing Question,Low,Closed,116.0,,agent_9
+TKT_000268,CUST_0187,2024-05-17 19:02:58,Feature Request,Low,Open,144.0,5.0,agent_12
+TKT_000269,CUST_0187,2024-01-29 06:13:24,Integration Help,Medium,Resolved,56.0,3.0,agent_2
+TKT_000270,CUST_0187,2023-11-01 18:30:00,Technical Issue,Critical,Closed,41.0,1.0,agent_12
+TKT_000271,CUST_0187,2023-10-03 07:37:07,Account Setup,High,Resolved,30.0,3.0,agent_4
+TKT_000272,CUST_0187,2023-11-16 11:38:36,Bug Report,High,Resolved,162.0,2.0,agent_1
+TKT_000273,CUST_0187,2023-10-30 22:17:19,Technical Issue,Low,Resolved,3.0,1.0,agent_3
+TKT_000274,CUST_0187,2024-05-03 23:49:49,Feature Request,Medium,Closed,,3.0,agent_2
+TKT_000275,CUST_0187,2023-09-18 22:58:16,Feature Request,Medium,Resolved,30.0,5.0,agent_12
+TKT_000276,CUST_0187,2024-03-15 00:55:19,Feature Request,Low,Resolved,101.0,1.0,agent_9
+TKT_000277,CUST_0187,2024-01-11 02:09:56,Integration Help,Medium,Closed,21.0,3.0,agent_4
+TKT_000278,CUST_0187,2023-11-05 17:32:57,Account Setup,Low,Open,,3.0,agent_1
+TKT_000279,CUST_0187,2023-10-15 11:58:31,Feature Request,Low,Resolved,76.0,1.0,agent_14
+TKT_000280,CUST_0187,2023-11-01 13:41:19,Billing Question,Medium,In Progress,50.0,1.0,agent_5
+TKT_000281,CUST_0187,2023-10-26 02:18:36,Bug Report,Medium,Resolved,116.0,4.0,agent_13
+TKT_000282,CUST_0187,2024-06-11 01:26:31,Technical Issue,Low,Closed,139.0,2.0,agent_10
+TKT_000283,CUST_0187,2024-06-26 03:05:38,Account Setup,High,Closed,,1.0,agent_11
+TKT_000284,CUST_0187,2024-04-10 08:28:39,Account Setup,High,Open,125.0,3.0,agent_4
+TKT_000285,CUST_0187,2024-06-18 19:05:28,Technical Issue,Low,Resolved,82.0,1.0,agent_3
+TKT_000286,CUST_0187,2023-09-28 21:49:42,Integration Help,High,Resolved,144.0,3.0,agent_12
+TKT_000287,CUST_0187,2024-06-30 16:56:23,Feature Request,Low,Resolved,,1.0,agent_3
+TKT_000288,CUST_0187,2023-08-03 07:23:01,Billing Question,Medium,Closed,,2.0,agent_1
+TKT_000289,CUST_0188,2023-12-25 05:30:41,Billing Question,Medium,Resolved,51.0,,agent_15
+TKT_000290,CUST_0188,2024-03-15 03:09:50,Billing Question,High,Open,117.0,,agent_8
+TKT_000291,CUST_0188,2024-05-24 18:33:34,Billing Question,High,Resolved,157.0,,agent_5
+TKT_000292,CUST_0188,2024-06-06 05:35:22,Feature Request,Low,Closed,,,agent_10
+TKT_000293,CUST_0189,2023-11-24 15:20:34,Feature Request,Low,In Progress,125.0,2.0,agent_1
+TKT_000294,CUST_0191,2022-12-02 16:29:30,Billing Question,Medium,Closed,139.0,1.0,agent_2
+TKT_000295,CUST_0191,2023-08-13 19:15:13,Feature Request,Medium,In Progress,,4.0,agent_14
+TKT_000296,CUST_0191,2024-03-08 23:00:49,Billing Question,Medium,Resolved,106.0,4.0,agent_11
+TKT_000297,CUST_0191,2024-01-02 01:03:38,Billing Question,High,Resolved,127.0,2.0,agent_15
+TKT_000298,CUST_0192,2022-12-16 19:54:15,Account Setup,Low,Resolved,13.0,2.0,agent_13
+TKT_000299,CUST_0193,2024-02-12 19:35:14,Feature Request,Low,Closed,,,agent_10
+TKT_000300,CUST_0193,2022-04-17 07:09:26,Bug Report,Low,Resolved,150.0,5.0,agent_12
+TKT_000301,CUST_0193,2022-10-01 00:41:44,Account Setup,Low,In Progress,64.0,2.0,agent_2
+TKT_000302,CUST_0193,2022-09-03 22:24:20,Technical Issue,Critical,In Progress,22.0,2.0,agent_12
+TKT_000303,CUST_0195,2023-04-18 06:07:44,Account Setup,High,Closed,,1.0,agent_8
+TKT_000304,CUST_0195,2024-05-17 03:25:54,Account Setup,Low,Open,13.0,,agent_3
+TKT_000305,CUST_0197,2024-01-29 19:28:56,Integration Help,Critical,Closed,27.0,,agent_6
+TKT_000306,CUST_0198,2023-04-03 23:12:50,Technical Issue,Low,In Progress,127.0,3.0,agent_4
+TKT_000307,CUST_0198,2023-06-29 02:54:50,Account Setup,Low,Open,143.0,,agent_2
+TKT_000308,CUST_0200,2023-08-19 14:23:00,Account Setup,Medium,Closed,46.0,4.0,agent_14
+TKT_000309,CUST_0200,2022-11-07 19:36:45,Bug Report,Medium,Closed,50.0,,agent_5
+TKT_000310,CUST_0201,2023-11-14 08:15:52,Account Setup,High,Closed,78.0,4.0,agent_9
+TKT_000311,CUST_0201,2024-03-11 17:08:17,Billing Question,Low,Resolved,149.0,,agent_6
+TKT_000312,CUST_0201,2024-03-17 09:29:36,Integration Help,Medium,Open,97.0,4.0,agent_8
+TKT_000313,CUST_0201,2023-10-30 22:56:34,Bug Report,High,Resolved,160.0,,agent_15
+TKT_000314,CUST_0203,2024-04-23 03:16:19,Account Setup,Low,In Progress,82.0,2.0,agent_3
+TKT_000315,CUST_0203,2024-01-21 07:15:30,Feature Request,Low,Open,146.0,2.0,agent_13
+TKT_000316,CUST_0204,2024-02-18 14:18:32,Technical Issue,Medium,Resolved,35.0,,agent_5
+TKT_000317,CUST_0205,2022-08-30 19:01:52,Billing Question,High,Closed,19.0,,agent_3
+TKT_000318,CUST_0206,2023-12-12 19:13:00,Bug Report,Medium,Resolved,81.0,2.0,agent_11
+TKT_000319,CUST_0209,2024-01-19 16:28:47,Integration Help,Medium,Closed,45.0,,agent_7
+TKT_000320,CUST_0209,2023-09-12 12:21:02,Bug Report,Low,Resolved,86.0,1.0,agent_4
+TKT_000321,CUST_0210,2022-11-26 01:03:13,Feature Request,Medium,Closed,,,agent_9
+TKT_000322,CUST_0212,2024-05-11 18:07:04,Bug Report,High,Open,58.0,,agent_3
+TKT_000323,CUST_0213,2023-04-29 07:01:13,Technical Issue,Low,Resolved,45.0,3.0,agent_9
+TKT_000324,CUST_0214,2023-06-28 08:18:45,Integration Help,Medium,Resolved,112.0,1.0,agent_13
+TKT_000325,CUST_0215,2023-11-11 17:05:43,Integration Help,Low,Resolved,,3.0,agent_13
+TKT_000326,CUST_0215,2022-11-27 17:50:09,Technical Issue,High,In Progress,1.0,4.0,agent_8
+TKT_000327,CUST_0215,2023-12-24 18:25:09,Account Setup,Low,Resolved,135.0,4.0,agent_11
+TKT_000328,CUST_0216,2023-12-12 00:43:36,Account Setup,Medium,Closed,,2.0,agent_4
+TKT_000329,CUST_0216,2023-09-21 01:27:42,Technical Issue,Medium,Closed,47.0,,agent_2
+TKT_000330,CUST_0217,2023-07-26 03:31:16,Technical Issue,Low,Open,47.0,5.0,agent_4
+TKT_000331,CUST_0217,2023-05-24 14:08:45,Bug Report,Medium,Resolved,73.0,1.0,agent_2
+TKT_000332,CUST_0218,2024-04-04 11:17:45,Account Setup,Low,Closed,158.0,5.0,agent_5
+TKT_000333,CUST_0218,2024-04-24 17:24:21,Technical Issue,Medium,Resolved,,1.0,agent_1
+TKT_000334,CUST_0218,2024-02-15 14:11:57,Account Setup,Medium,Closed,111.0,1.0,agent_1
+TKT_000335,CUST_0219,2023-05-31 04:07:26,Bug Report,Low,Resolved,51.0,,agent_2
+TKT_000336,CUST_0219,2022-09-05 23:44:51,Bug Report,Low,Closed,83.0,2.0,agent_9
+TKT_000337,CUST_0219,2024-03-07 07:20:23,Billing Question,Medium,In Progress,1.0,2.0,agent_11
+TKT_000338,CUST_0219,2024-04-29 13:33:33,Integration Help,Low,Resolved,145.0,4.0,agent_13
+TKT_000339,CUST_0219,2023-08-07 18:22:58,Feature Request,Low,Resolved,63.0,5.0,agent_10
+TKT_000340,CUST_0221,2024-02-05 15:51:27,Feature Request,High,Resolved,53.0,1.0,agent_15
+TKT_000341,CUST_0222,2024-05-06 11:33:57,Feature Request,Low,In Progress,104.0,1.0,agent_1
+TKT_000342,CUST_0223,2022-09-23 18:38:52,Feature Request,Medium,Closed,,,agent_10
+TKT_000343,CUST_0223,2022-11-23 08:05:41,Bug Report,Medium,Resolved,26.0,2.0,agent_8
+TKT_000344,CUST_0223,2024-02-20 13:54:10,Bug Report,High,Resolved,154.0,1.0,agent_7
+TKT_000345,CUST_0224,2024-02-10 04:38:42,Account Setup,Low,Open,127.0,5.0,agent_3
+TKT_000346,CUST_0224,2022-01-31 17:54:34,Integration Help,Medium,Closed,163.0,,agent_2
+TKT_000347,CUST_0224,2022-08-07 23:08:44,Integration Help,Medium,Resolved,120.0,1.0,agent_6
+TKT_000348,CUST_0225,2024-05-24 22:09:57,Integration Help,High,Closed,108.0,,agent_11
+TKT_000349,CUST_0225,2024-03-11 09:40:21,Bug Report,Medium,Closed,46.0,,agent_7
+TKT_000350,CUST_0225,2023-12-08 17:22:23,Bug Report,Critical,Resolved,95.0,,agent_14
+TKT_000351,CUST_0225,2023-11-20 21:12:32,Technical Issue,Low,Resolved,148.0,5.0,agent_15
+TKT_000352,CUST_0226,2023-08-08 05:21:43,Billing Question,Low,Resolved,88.0,4.0,agent_12
+TKT_000353,CUST_0226,2023-11-21 08:32:28,Integration Help,High,Open,35.0,5.0,agent_7
+TKT_000354,CUST_0229,2024-04-30 07:07:28,Billing Question,Low,Resolved,152.0,5.0,agent_1
+TKT_000355,CUST_0230,2024-06-25 20:37:28,Account Setup,Low,Closed,153.0,5.0,agent_14
+TKT_000356,CUST_0231,2023-06-15 12:44:12,Billing Question,Low,Resolved,104.0,3.0,agent_2
+TKT_000357,CUST_0232,2024-03-23 19:10:55,Feature Request,Low,Resolved,119.0,4.0,agent_12
+TKT_000358,CUST_0232,2024-04-25 22:06:10,Integration Help,Low,Resolved,138.0,3.0,agent_5
+TKT_000359,CUST_0232,2024-03-05 08:50:22,Integration Help,Low,Closed,3.0,3.0,agent_3
+TKT_000360,CUST_0233,2023-11-30 22:20:01,Feature Request,Low,Closed,,5.0,agent_10
+TKT_000361,CUST_0233,2023-11-08 18:29:11,Integration Help,Low,Resolved,5.0,2.0,agent_1
+TKT_000362,CUST_0234,2023-10-01 01:50:50,Integration Help,Medium,Closed,139.0,3.0,agent_11
+TKT_000363,CUST_0234,2024-04-18 21:02:18,Integration Help,Low,Resolved,139.0,1.0,agent_9
+TKT_000364,CUST_0234,2023-04-22 00:20:54,Feature Request,Low,Closed,107.0,1.0,agent_1
+TKT_000365,CUST_0234,2022-07-26 11:46:44,Technical Issue,Medium,Closed,55.0,5.0,agent_15
+TKT_000366,CUST_0234,2024-05-31 07:30:47,Billing Question,Medium,Open,153.0,3.0,agent_2
+TKT_000367,CUST_0235,2024-06-20 18:11:15,Integration Help,Low,Resolved,67.0,3.0,agent_7
+TKT_000368,CUST_0235,2024-01-03 05:25:39,Technical Issue,Medium,Resolved,146.0,,agent_2
+TKT_000369,CUST_0236,2024-04-28 14:23:06,Feature Request,Medium,Closed,,,agent_13
+TKT_000370,CUST_0237,2023-02-08 23:20:44,Billing Question,High,In Progress,,3.0,agent_5
+TKT_000371,CUST_0237,2022-10-19 07:40:15,Integration Help,High,Resolved,154.0,4.0,agent_9
+TKT_000372,CUST_0237,2023-12-11 17:29:22,Feature Request,Low,Open,,1.0,agent_6
+TKT_000373,CUST_0237,2023-09-14 16:26:41,Integration Help,Medium,Resolved,157.0,2.0,agent_3
+TKT_000374,CUST_0237,2023-01-03 20:42:50,Integration Help,Low,In Progress,32.0,3.0,agent_8
+TKT_000375,CUST_0237,2022-05-13 16:05:42,Account Setup,Low,Closed,67.0,,agent_13
+TKT_000376,CUST_0237,2023-08-16 22:14:30,Integration Help,Low,Resolved,,2.0,agent_9
+TKT_000377,CUST_0237,2023-03-13 20:57:56,Technical Issue,Medium,Open,,3.0,agent_4
+TKT_000378,CUST_0237,2022-09-02 20:56:36,Bug Report,High,Closed,,4.0,agent_3
+TKT_000379,CUST_0237,2023-01-10 03:08:36,Technical Issue,High,Closed,,2.0,agent_11
+TKT_000380,CUST_0237,2024-03-17 17:36:50,Feature Request,Medium,Resolved,127.0,5.0,agent_6
+TKT_000381,CUST_0237,2023-08-09 15:11:19,Integration Help,Low,In Progress,83.0,,agent_14
+TKT_000382,CUST_0237,2023-09-17 22:04:49,Bug Report,High,In Progress,,4.0,agent_6
+TKT_000383,CUST_0237,2022-08-06 12:59:31,Technical Issue,Low,Closed,115.0,3.0,agent_5
+TKT_000384,CUST_0237,2022-08-20 01:49:36,Account Setup,Medium,Resolved,,2.0,agent_6
+TKT_000385,CUST_0237,2022-11-03 06:18:25,Account Setup,High,Closed,77.0,,agent_14
+TKT_000386,CUST_0237,2024-03-14 12:25:35,Billing Question,Medium,Closed,31.0,3.0,agent_5
+TKT_000387,CUST_0237,2023-02-07 14:53:44,Billing Question,Low,Resolved,,,agent_9
+TKT_000388,CUST_0237,2023-03-02 07:10:29,Technical Issue,High,Open,,5.0,agent_15
+TKT_000389,CUST_0237,2023-01-06 01:38:50,Technical Issue,Medium,Resolved,110.0,5.0,agent_2
+TKT_000390,CUST_0237,2023-09-27 18:51:50,Account Setup,Medium,In Progress,45.0,2.0,agent_6
+TKT_000391,CUST_0237,2022-07-04 05:42:22,Feature Request,Low,Closed,81.0,2.0,agent_15
+TKT_000392,CUST_0237,2023-08-19 15:45:32,Account Setup,High,Closed,,1.0,agent_6
+TKT_000393,CUST_0237,2024-01-17 23:46:17,Feature Request,Low,Closed,123.0,4.0,agent_12
+TKT_000394,CUST_0237,2023-11-07 14:24:43,Integration Help,High,Resolved,,2.0,agent_14
+TKT_000395,CUST_0237,2023-12-04 05:57:18,Integration Help,Medium,Resolved,35.0,3.0,agent_15
+TKT_000396,CUST_0237,2023-09-10 10:22:01,Integration Help,Medium,Resolved,,,agent_1
+TKT_000397,CUST_0237,2023-09-08 14:43:09,Feature Request,Medium,Resolved,,3.0,agent_3
+TKT_000398,CUST_0237,2022-08-23 21:18:02,Integration Help,Medium,Closed,22.0,,agent_11
+TKT_000399,CUST_0237,2023-06-29 23:16:40,Billing Question,Medium,Resolved,100.0,5.0,agent_12
+TKT_000400,CUST_0237,2024-03-09 04:48:38,Billing Question,Medium,Resolved,150.0,4.0,agent_6
+TKT_000401,CUST_0237,2023-09-21 10:07:14,Feature Request,High,Closed,134.0,,agent_3
+TKT_000402,CUST_0239,2022-11-24 12:03:25,Bug Report,Medium,Closed,113.0,1.0,agent_14
+TKT_000403,CUST_0239,2023-01-14 22:08:58,Integration Help,Medium,Closed,77.0,1.0,agent_8
+TKT_000404,CUST_0241,2023-01-21 04:13:29,Integration Help,Medium,Closed,85.0,1.0,agent_13
+TKT_000405,CUST_0242,2024-01-15 06:08:34,Account Setup,Medium,Closed,53.0,5.0,agent_2
+TKT_000406,CUST_0242,2023-11-05 05:37:03,Bug Report,Low,Open,47.0,4.0,agent_14
+TKT_000407,CUST_0243,2024-02-24 07:23:14,Technical Issue,Medium,Closed,30.0,1.0,agent_5
+TKT_000408,CUST_0243,2023-12-08 16:57:38,Technical Issue,High,Open,148.0,5.0,agent_11
+TKT_000409,CUST_0243,2024-06-23 12:34:31,Technical Issue,Medium,Resolved,43.0,,agent_14
+TKT_000410,CUST_0243,2024-01-12 03:23:18,Integration Help,Low,Closed,109.0,3.0,agent_12
+TKT_000411,CUST_0245,2024-04-20 23:34:18,Technical Issue,High,Resolved,138.0,3.0,agent_4
+TKT_000412,CUST_0245,2024-02-07 13:42:10,Technical Issue,Medium,In Progress,102.0,1.0,agent_1
+TKT_000413,CUST_0247,2024-03-31 06:39:07,Feature Request,High,Closed,137.0,3.0,agent_6
+TKT_000414,CUST_0249,2022-08-02 08:59:48,Bug Report,Medium,Resolved,63.0,5.0,agent_13
+TKT_000415,CUST_0250,2023-07-18 05:59:16,Bug Report,Low,Resolved,,,agent_4
+TKT_000416,CUST_0250,2024-03-12 12:52:06,Feature Request,Medium,Closed,119.0,5.0,agent_8
+TKT_000417,CUST_0250,2023-08-27 20:43:06,Account Setup,Low,Resolved,,5.0,agent_7
+TKT_000418,CUST_0251,2024-05-22 08:42:09,Feature Request,Low,Closed,,,agent_6
+TKT_000419,CUST_0252,2024-05-13 17:47:57,Account Setup,Low,Closed,83.0,1.0,agent_11
+TKT_000420,CUST_0252,2024-04-02 22:00:28,Account Setup,Low,Resolved,,1.0,agent_2
+TKT_000421,CUST_0252,2024-04-11 18:08:24,Feature Request,Low,Closed,,,agent_9
+TKT_000422,CUST_0253,2024-01-04 04:48:53,Account Setup,Low,Open,,4.0,agent_7
+TKT_000423,CUST_0253,2023-10-04 19:40:35,Feature Request,Low,Resolved,88.0,,agent_2
+TKT_000424,CUST_0254,2024-05-18 13:59:16,Technical Issue,Low,In Progress,106.0,3.0,agent_11
+TKT_000425,CUST_0254,2023-01-29 00:35:15,Integration Help,High,Closed,86.0,1.0,agent_6
+TKT_000426,CUST_0255,2023-06-26 15:43:28,Feature Request,Medium,Resolved,,1.0,agent_5
+TKT_000427,CUST_0255,2023-07-10 20:18:20,Account Setup,Low,In Progress,125.0,3.0,agent_11
+TKT_000428,CUST_0260,2023-04-14 14:17:56,Account Setup,Low,Closed,,2.0,agent_15
+TKT_000429,CUST_0260,2022-04-10 13:35:41,Account Setup,Medium,Open,148.0,,agent_13
+TKT_000430,CUST_0262,2024-04-13 01:47:18,Bug Report,Critical,Closed,156.0,,agent_9
+TKT_000431,CUST_0262,2023-06-22 02:23:22,Integration Help,Medium,Resolved,158.0,1.0,agent_14
+TKT_000432,CUST_0264,2023-05-05 08:49:40,Integration Help,Medium,Resolved,85.0,,agent_5
+TKT_000433,CUST_0264,2023-03-03 07:45:56,Bug Report,Critical,Closed,6.0,1.0,agent_13
+TKT_000434,CUST_0264,2023-12-19 03:08:31,Bug Report,High,Open,70.0,,agent_9
+TKT_000435,CUST_0264,2022-08-10 23:35:26,Account Setup,Low,Resolved,130.0,5.0,agent_4
+TKT_000436,CUST_0264,2023-04-30 13:30:37,Account Setup,Low,Resolved,,,agent_4
+TKT_000437,CUST_0264,2022-05-15 02:14:46,Technical Issue,Medium,In Progress,155.0,,agent_14
+TKT_000438,CUST_0264,2024-02-12 02:20:29,Feature Request,Medium,Resolved,6.0,1.0,agent_15
+TKT_000439,CUST_0270,2023-11-13 11:24:05,Bug Report,High,Closed,,,agent_1
+TKT_000440,CUST_0272,2024-06-02 17:06:41,Account Setup,Medium,Open,92.0,,agent_1
+TKT_000441,CUST_0274,2024-05-02 08:34:55,Bug Report,Medium,Closed,,,agent_5
+TKT_000442,CUST_0274,2023-08-15 08:15:18,Integration Help,Medium,Open,62.0,1.0,agent_11
+TKT_000443,CUST_0275,2023-11-02 02:18:18,Billing Question,Medium,Resolved,37.0,4.0,agent_3
+TKT_000444,CUST_0275,2024-06-22 02:23:34,Billing Question,High,Resolved,,,agent_2
+TKT_000445,CUST_0277,2024-05-08 07:34:08,Feature Request,Low,Open,77.0,2.0,agent_3
+TKT_000446,CUST_0277,2024-04-23 09:41:17,Technical Issue,Medium,Closed,,5.0,agent_7
+TKT_000447,CUST_0278,2023-10-11 12:46:02,Feature Request,Low,Open,98.0,2.0,agent_1
+TKT_000448,CUST_0278,2023-10-31 19:34:58,Technical Issue,Medium,Closed,,4.0,agent_12
+TKT_000449,CUST_0278,2023-10-25 15:20:33,Integration Help,Low,Resolved,18.0,,agent_6
+TKT_000450,CUST_0278,2024-03-01 12:40:54,Integration Help,Low,Open,122.0,,agent_13
+TKT_000451,CUST_0279,2023-12-18 08:40:48,Technical Issue,High,In Progress,4.0,,agent_13
+TKT_000452,CUST_0282,2022-07-05 18:15:11,Account Setup,Low,Open,,5.0,agent_1
+TKT_000453,CUST_0282,2024-05-16 04:19:36,Bug Report,Low,In Progress,,3.0,agent_6
+TKT_000454,CUST_0283,2024-02-16 11:31:23,Technical Issue,Critical,In Progress,,1.0,agent_8
+TKT_000455,CUST_0284,2022-12-14 21:13:45,Billing Question,Low,Resolved,117.0,,agent_4
+TKT_000456,CUST_0287,2024-01-29 23:31:40,Billing Question,High,Closed,,1.0,agent_11
+TKT_000457,CUST_0292,2023-07-31 14:25:17,Feature Request,Low,In Progress,4.0,2.0,agent_12
+TKT_000458,CUST_0292,2024-02-23 23:48:10,Integration Help,Low,Closed,5.0,2.0,agent_7
+TKT_000459,CUST_0293,2024-04-15 15:04:52,Feature Request,Medium,Resolved,6.0,2.0,agent_15
+TKT_000460,CUST_0293,2023-10-09 16:48:50,Account Setup,Low,Resolved,121.0,1.0,agent_11
+TKT_000461,CUST_0294,2023-01-09 00:45:28,Billing Question,High,Resolved,70.0,,agent_1
+TKT_000462,CUST_0295,2022-10-15 03:26:26,Technical Issue,Medium,In Progress,28.0,1.0,agent_3
+TKT_000463,CUST_0299,2024-01-02 18:36:18,Account Setup,Critical,Closed,139.0,4.0,agent_5
+TKT_000464,CUST_0299,2024-03-19 01:16:37,Account Setup,High,Closed,143.0,2.0,agent_8
+TKT_000465,CUST_0300,2023-12-26 07:54:28,Technical Issue,Medium,Resolved,16.0,,agent_12
+TKT_000466,CUST_0300,2023-05-09 09:54:45,Bug Report,Medium,Open,113.0,4.0,agent_5
+TKT_000467,CUST_0307,2024-06-03 04:45:13,Technical Issue,Medium,Open,34.0,5.0,agent_15
+TKT_000468,CUST_0307,2022-11-13 04:11:35,Integration Help,Critical,Closed,101.0,2.0,agent_5
+TKT_000469,CUST_0308,2024-03-27 11:24:22,Account Setup,Low,Closed,,,agent_4
+TKT_000470,CUST_0309,2024-04-19 22:51:11,Account Setup,Low,Resolved,,2.0,agent_2
+TKT_000471,CUST_0310,2022-11-28 07:46:46,Bug Report,Medium,Closed,52.0,3.0,agent_15
+TKT_000472,CUST_0310,2023-04-03 10:16:23,Feature Request,High,Open,,4.0,agent_4
+TKT_000473,CUST_0311,2024-02-17 06:45:19,Account Setup,Low,In Progress,,5.0,agent_13
+TKT_000474,CUST_0312,2024-06-28 06:40:33,Technical Issue,Low,Resolved,,1.0,agent_7
+TKT_000475,CUST_0312,2024-06-27 23:01:10,Feature Request,High,In Progress,161.0,5.0,agent_11
+TKT_000476,CUST_0312,2024-05-31 03:56:28,Bug Report,Medium,Closed,,,agent_13
+TKT_000477,CUST_0312,2023-12-31 15:07:22,Integration Help,Critical,Closed,77.0,5.0,agent_7
+TKT_000478,CUST_0312,2024-04-20 20:23:14,Account Setup,Low,Open,67.0,5.0,agent_9
+TKT_000479,CUST_0313,2023-04-18 09:48:22,Feature Request,Medium,Closed,57.0,,agent_8
+TKT_000480,CUST_0315,2023-07-20 00:47:14,Integration Help,High,Resolved,25.0,3.0,agent_12
+TKT_000481,CUST_0318,2023-02-20 13:21:40,Integration Help,Low,Resolved,85.0,,agent_1
+TKT_000482,CUST_0319,2022-10-30 21:18:49,Billing Question,High,Closed,,,agent_13
+TKT_000483,CUST_0320,2023-11-05 18:31:02,Account Setup,Medium,Resolved,72.0,5.0,agent_5
+TKT_000484,CUST_0325,2023-04-03 02:39:08,Bug Report,Low,Resolved,149.0,1.0,agent_1
+TKT_000485,CUST_0326,2023-10-31 14:44:35,Billing Question,High,Closed,36.0,5.0,agent_15
+TKT_000486,CUST_0327,2023-03-18 03:35:16,Feature Request,High,Closed,130.0,3.0,agent_1
+TKT_000487,CUST_0327,2023-05-01 23:00:03,Feature Request,Low,Resolved,101.0,3.0,agent_15
+TKT_000488,CUST_0328,2022-12-31 14:09:52,Feature Request,High,Resolved,120.0,2.0,agent_15
+TKT_000489,CUST_0330,2023-04-10 06:47:44,Account Setup,Low,Resolved,,,agent_13
+TKT_000490,CUST_0330,2022-12-02 16:32:07,Bug Report,Low,Resolved,142.0,2.0,agent_13
+TKT_000491,CUST_0330,2023-09-20 13:00:49,Integration Help,Low,Closed,89.0,,agent_1
+TKT_000492,CUST_0331,2022-11-03 05:59:43,Integration Help,Low,Open,119.0,,agent_2
+TKT_000493,CUST_0331,2022-12-25 06:07:08,Feature Request,Medium,Resolved,,2.0,agent_4
+TKT_000494,CUST_0333,2022-09-09 12:34:48,Bug Report,Critical,Closed,,,agent_1
+TKT_000495,CUST_0333,2023-04-10 20:58:29,Bug Report,Low,Resolved,137.0,2.0,agent_14
+TKT_000496,CUST_0335,2024-06-29 13:19:51,Billing Question,Low,Open,67.0,2.0,agent_8
+TKT_000497,CUST_0338,2023-11-26 10:00:58,Bug Report,Low,Closed,,3.0,agent_4
+TKT_000498,CUST_0338,2023-01-10 07:34:24,Account Setup,Medium,Closed,94.0,3.0,agent_8
+TKT_000499,CUST_0340,2024-06-25 07:10:47,Billing Question,Low,Resolved,39.0,4.0,agent_9
+TKT_000500,CUST_0341,2022-12-25 15:38:41,Billing Question,High,Closed,,2.0,agent_7
+TKT_000501,CUST_0342,2024-02-25 22:51:18,Integration Help,Low,Resolved,1.0,4.0,agent_3
+TKT_000502,CUST_0344,2022-09-21 23:34:19,Technical Issue,Critical,Closed,71.0,5.0,agent_8
+TKT_000503,CUST_0344,2024-05-05 05:55:00,Integration Help,Low,Resolved,,,agent_1
+TKT_000504,CUST_0345,2024-05-13 04:57:18,Billing Question,Low,Resolved,54.0,3.0,agent_9
+TKT_000505,CUST_0346,2024-04-07 08:01:11,Billing Question,Critical,In Progress,124.0,,agent_4
+TKT_000506,CUST_0346,2023-09-19 22:04:15,Billing Question,Medium,Closed,14.0,1.0,agent_3
+TKT_000507,CUST_0348,2022-07-29 11:34:21,Bug Report,Medium,Resolved,87.0,3.0,agent_5
+TKT_000508,CUST_0348,2023-08-12 11:38:45,Technical Issue,Critical,Closed,45.0,,agent_14
+TKT_000509,CUST_0350,2023-03-26 07:20:48,Technical Issue,Medium,Closed,32.0,1.0,agent_9
+TKT_000510,CUST_0350,2023-05-10 23:39:01,Feature Request,Low,Closed,,,agent_11
+TKT_000511,CUST_0351,2024-04-22 17:59:13,Integration Help,High,Resolved,,,agent_9
+TKT_000512,CUST_0351,2023-08-26 07:53:38,Account Setup,Medium,Closed,151.0,1.0,agent_6
+TKT_000513,CUST_0354,2024-06-02 20:12:35,Technical Issue,Critical,In Progress,,3.0,agent_4
+TKT_000514,CUST_0355,2024-04-29 22:15:42,Technical Issue,High,In Progress,72.0,,agent_7
+TKT_000515,CUST_0355,2023-01-15 13:55:13,Integration Help,Medium,Resolved,,4.0,agent_3
+TKT_000516,CUST_0355,2023-02-23 01:05:06,Integration Help,Low,Closed,,,agent_12
+TKT_000517,CUST_0356,2022-12-23 05:50:57,Integration Help,Medium,Closed,27.0,1.0,agent_2
+TKT_000518,CUST_0357,2023-01-17 11:45:24,Technical Issue,High,In Progress,71.0,1.0,agent_4
+TKT_000519,CUST_0358,2023-08-31 12:43:57,Bug Report,Low,Closed,128.0,1.0,agent_13
+TKT_000520,CUST_0361,2024-06-17 23:11:24,Bug Report,High,Closed,,3.0,agent_11
+TKT_000521,CUST_0361,2024-06-04 18:58:36,Technical Issue,Medium,Resolved,158.0,,agent_11
+TKT_000522,CUST_0362,2023-08-04 11:09:37,Billing Question,High,Closed,135.0,,agent_8
+TKT_000523,CUST_0362,2023-04-28 15:35:42,Billing Question,Medium,Closed,,5.0,agent_9
+TKT_000524,CUST_0365,2024-05-25 01:28:24,Integration Help,Medium,Resolved,114.0,1.0,agent_12
+TKT_000525,CUST_0365,2023-06-11 01:56:58,Technical Issue,High,In Progress,,1.0,agent_13
+TKT_000526,CUST_0366,2024-02-03 01:31:23,Feature Request,Low,In Progress,121.0,4.0,agent_5
+TKT_000527,CUST_0366,2023-12-12 20:22:47,Technical Issue,Medium,Resolved,126.0,,agent_15
+TKT_000528,CUST_0367,2024-04-16 19:27:47,Technical Issue,High,Open,144.0,5.0,agent_6
+TKT_000529,CUST_0368,2023-11-17 07:51:14,Integration Help,Low,In Progress,120.0,2.0,agent_13
+TKT_000530,CUST_0369,2024-06-27 06:34:49,Feature Request,High,Closed,,4.0,agent_10
+TKT_000531,CUST_0369,2023-09-17 18:39:54,Integration Help,Medium,Resolved,99.0,4.0,agent_11
+TKT_000532,CUST_0369,2024-03-04 08:50:54,Account Setup,High,Closed,6.0,1.0,agent_4
+TKT_000533,CUST_0369,2024-04-14 11:56:55,Bug Report,Medium,Closed,,1.0,agent_14
+TKT_000534,CUST_0369,2024-02-07 21:31:42,Feature Request,Low,Open,77.0,,agent_6
+TKT_000535,CUST_0369,2023-09-21 00:40:18,Integration Help,High,Closed,,1.0,agent_10
+TKT_000536,CUST_0370,2024-04-30 12:09:50,Integration Help,Low,Resolved,57.0,,agent_1
+TKT_000537,CUST_0371,2022-05-23 20:59:17,Technical Issue,Medium,Closed,78.0,3.0,agent_14
+TKT_000538,CUST_0372,2024-02-11 19:00:55,Feature Request,Low,Closed,12.0,5.0,agent_7
+TKT_000539,CUST_0372,2024-03-06 22:28:04,Bug Report,High,In Progress,104.0,3.0,agent_4
+TKT_000540,CUST_0372,2024-03-14 08:05:15,Technical Issue,Low,Resolved,141.0,3.0,agent_15
+TKT_000541,CUST_0373,2024-01-11 07:51:44,Billing Question,High,In Progress,108.0,4.0,agent_14
+TKT_000542,CUST_0373,2023-03-24 23:27:17,Account Setup,Low,Resolved,82.0,1.0,agent_3
+TKT_000543,CUST_0374,2024-04-23 00:35:05,Account Setup,High,Resolved,,,agent_6
+TKT_000544,CUST_0374,2024-06-04 13:30:59,Account Setup,Medium,Resolved,145.0,1.0,agent_13
+TKT_000545,CUST_0374,2024-05-17 09:10:04,Account Setup,Low,Closed,,,agent_5
+TKT_000546,CUST_0375,2023-12-30 22:53:05,Billing Question,Medium,Resolved,,4.0,agent_2
+TKT_000547,CUST_0375,2022-04-06 10:25:54,Feature Request,Low,Resolved,,3.0,agent_13
+TKT_000548,CUST_0376,2024-03-30 16:28:29,Integration Help,Critical,Closed,124.0,2.0,agent_2
+TKT_000549,CUST_0378,2023-06-18 00:17:52,Billing Question,Critical,Resolved,82.0,3.0,agent_14
+TKT_000550,CUST_0379,2023-07-17 07:26:22,Integration Help,High,Closed,78.0,2.0,agent_10
+TKT_000551,CUST_0381,2023-10-11 04:26:54,Billing Question,High,Resolved,86.0,4.0,agent_3
+TKT_000552,CUST_0383,2023-08-07 01:57:35,Billing Question,Critical,Resolved,133.0,,agent_8
+TKT_000553,CUST_0385,2024-04-13 11:37:46,Bug Report,Low,Resolved,,2.0,agent_6
+TKT_000554,CUST_0386,2023-12-08 20:59:30,Account Setup,Medium,Closed,141.0,,agent_15
+TKT_000555,CUST_0386,2024-04-11 10:45:58,Bug Report,Medium,Resolved,,1.0,agent_13
+TKT_000556,CUST_0386,2023-12-30 05:37:58,Integration Help,Critical,Resolved,,,agent_6
+TKT_000557,CUST_0388,2024-05-30 23:43:51,Feature Request,Low,Resolved,,5.0,agent_13
+TKT_000558,CUST_0389,2022-09-10 11:05:09,Feature Request,Medium,Closed,122.0,4.0,agent_7
+TKT_000559,CUST_0390,2023-06-16 21:46:07,Billing Question,Low,Closed,3.0,4.0,agent_9
+TKT_000560,CUST_0391,2024-04-13 21:54:22,Bug Report,Low,Resolved,128.0,,agent_12
+TKT_000561,CUST_0391,2023-05-11 10:53:50,Integration Help,Low,Closed,62.0,2.0,agent_8
+TKT_000562,CUST_0393,2024-06-17 23:26:32,Feature Request,Low,In Progress,53.0,,agent_2
+TKT_000563,CUST_0394,2024-02-08 15:56:18,Account Setup,High,Closed,20.0,4.0,agent_2
+TKT_000564,CUST_0394,2024-04-10 03:01:01,Technical Issue,High,In Progress,43.0,3.0,agent_5
+TKT_000565,CUST_0394,2024-06-29 13:24:01,Account Setup,Medium,In Progress,142.0,4.0,agent_10
+TKT_000566,CUST_0394,2024-01-20 12:38:49,Integration Help,High,In Progress,,,agent_7
+TKT_000567,CUST_0394,2024-05-08 10:02:57,Technical Issue,Low,Closed,141.0,3.0,agent_8
+TKT_000568,CUST_0394,2024-06-27 22:36:20,Technical Issue,Medium,Open,,1.0,agent_15
+TKT_000569,CUST_0394,2024-02-29 22:48:30,Account Setup,High,Resolved,21.0,1.0,agent_1
+TKT_000570,CUST_0394,2024-03-15 13:06:54,Feature Request,Low,Resolved,150.0,,agent_5
+TKT_000571,CUST_0394,2024-04-01 03:42:46,Feature Request,High,Closed,148.0,4.0,agent_7
+TKT_000572,CUST_0394,2024-03-05 22:14:42,Technical Issue,Medium,Closed,,3.0,agent_5
+TKT_000573,CUST_0394,2024-01-30 19:39:14,Billing Question,Medium,Closed,41.0,5.0,agent_4
+TKT_000574,CUST_0394,2024-06-10 08:04:31,Feature Request,Low,Closed,155.0,5.0,agent_14
+TKT_000575,CUST_0394,2024-02-04 21:28:49,Integration Help,Low,Resolved,41.0,,agent_13
+TKT_000576,CUST_0394,2024-05-07 08:45:33,Technical Issue,Low,Resolved,110.0,3.0,agent_14
+TKT_000577,CUST_0394,2024-02-21 07:55:33,Feature Request,Medium,Resolved,117.0,3.0,agent_10
+TKT_000578,CUST_0394,2024-06-12 10:12:48,Integration Help,Low,Resolved,,4.0,agent_5
+TKT_000579,CUST_0394,2024-06-25 11:08:10,Account Setup,Medium,Closed,1.0,1.0,agent_3
+TKT_000580,CUST_0394,2024-01-27 15:49:37,Technical Issue,Medium,Closed,140.0,2.0,agent_10
+TKT_000581,CUST_0394,2024-01-28 00:30:26,Feature Request,High,Closed,43.0,2.0,agent_10
+TKT_000582,CUST_0394,2024-01-25 07:48:28,Billing Question,Medium,Closed,72.0,,agent_3
+TKT_000583,CUST_0394,2024-03-26 16:06:31,Feature Request,Low,Open,,1.0,agent_3
+TKT_000584,CUST_0394,2024-06-24 04:57:04,Bug Report,High,Resolved,96.0,,agent_15
+TKT_000585,CUST_0394,2024-06-08 15:10:56,Billing Question,Low,Closed,58.0,,agent_14
+TKT_000586,CUST_0394,2024-04-06 14:35:54,Integration Help,High,Closed,149.0,5.0,agent_4
+TKT_000587,CUST_0394,2024-06-13 14:48:07,Feature Request,High,Resolved,,5.0,agent_7
+TKT_000588,CUST_0394,2024-02-13 16:23:19,Integration Help,Low,Resolved,2.0,2.0,agent_2
+TKT_000589,CUST_0394,2024-02-12 12:43:11,Billing Question,Low,Closed,,5.0,agent_7
+TKT_000590,CUST_0397,2024-04-12 18:57:03,Integration Help,Medium,Closed,,,agent_8
+TKT_000591,CUST_0399,2023-10-19 20:17:17,Technical Issue,Medium,Resolved,51.0,,agent_15
+TKT_000592,CUST_0400,2022-10-23 13:31:21,Feature Request,Medium,Closed,99.0,4.0,agent_6
+TKT_000593,CUST_0401,2023-08-13 22:55:02,Feature Request,Low,Resolved,151.0,,agent_6
+TKT_000594,CUST_0404,2024-03-11 03:30:25,Feature Request,High,Closed,103.0,5.0,agent_11
+TKT_000595,CUST_0404,2024-05-14 19:36:39,Account Setup,Low,Closed,65.0,4.0,agent_2
+TKT_000596,CUST_0404,2024-06-03 04:57:53,Technical Issue,Low,Resolved,59.0,3.0,agent_6
+TKT_000597,CUST_0405,2023-08-16 17:51:15,Technical Issue,Low,Closed,,3.0,agent_6
+TKT_000598,CUST_0407,2022-11-13 17:09:58,Technical Issue,Low,Closed,,1.0,agent_5
+TKT_000599,CUST_0407,2023-05-09 16:13:10,Integration Help,High,Resolved,13.0,3.0,agent_8
+TKT_000600,CUST_0407,2024-02-19 06:40:43,Billing Question,Medium,Resolved,,5.0,agent_9
+TKT_000601,CUST_0407,2023-05-08 12:20:09,Bug Report,High,Resolved,66.0,5.0,agent_3
+TKT_000602,CUST_0407,2024-05-30 15:10:21,Billing Question,High,Resolved,,4.0,agent_14
+TKT_000603,CUST_0407,2024-01-26 06:58:05,Feature Request,High,Closed,51.0,4.0,agent_6
+TKT_000604,CUST_0407,2023-01-19 00:03:17,Integration Help,High,In Progress,92.0,3.0,agent_7
+TKT_000605,CUST_0408,2023-08-23 13:11:57,Integration Help,Low,Resolved,15.0,5.0,agent_4
+TKT_000606,CUST_0411,2024-05-20 04:03:23,Billing Question,Medium,Closed,44.0,2.0,agent_1
+TKT_000607,CUST_0413,2024-03-30 00:27:28,Account Setup,Medium,Closed,69.0,2.0,agent_14
+TKT_000608,CUST_0414,2024-02-27 22:51:12,Billing Question,Medium,Open,164.0,,agent_3
+TKT_000609,CUST_0414,2022-11-13 01:44:56,Billing Question,Low,In Progress,,4.0,agent_3
+TKT_000610,CUST_0416,2024-01-29 22:15:10,Account Setup,Low,Resolved,77.0,,agent_3
+TKT_000611,CUST_0416,2023-11-04 20:31:57,Technical Issue,High,In Progress,,1.0,agent_5
+TKT_000612,CUST_0416,2023-09-06 12:34:00,Feature Request,Medium,Closed,147.0,4.0,agent_3
+TKT_000613,CUST_0417,2024-03-15 18:33:16,Feature Request,Medium,Open,11.0,1.0,agent_10
+TKT_000614,CUST_0418,2023-07-06 15:14:29,Feature Request,Low,Resolved,111.0,,agent_12
+TKT_000615,CUST_0418,2023-03-27 21:19:27,Technical Issue,Low,Closed,158.0,,agent_13
+TKT_000616,CUST_0423,2023-10-06 23:02:16,Integration Help,Low,In Progress,138.0,,agent_10
+TKT_000617,CUST_0424,2023-06-04 13:58:25,Technical Issue,Medium,Resolved,,4.0,agent_8
+TKT_000618,CUST_0424,2024-05-08 22:03:50,Billing Question,Low,Resolved,10.0,1.0,agent_8
+TKT_000619,CUST_0425,2024-02-06 07:07:44,Account Setup,Low,Closed,34.0,1.0,agent_10
+TKT_000620,CUST_0426,2023-08-13 17:55:17,Account Setup,Low,Resolved,,2.0,agent_14
+TKT_000621,CUST_0427,2023-03-06 03:44:32,Feature Request,Critical,Closed,29.0,,agent_11
+TKT_000622,CUST_0428,2024-03-01 13:49:26,Bug Report,Low,Resolved,,,agent_2
+TKT_000623,CUST_0430,2023-08-28 10:18:16,Billing Question,High,Resolved,90.0,,agent_3
+TKT_000624,CUST_0430,2023-12-22 16:15:58,Bug Report,High,Resolved,121.0,1.0,agent_7
+TKT_000625,CUST_0431,2024-02-25 22:41:31,Integration Help,Low,Closed,,,agent_7
+TKT_000626,CUST_0431,2024-01-02 23:25:39,Billing Question,High,In Progress,122.0,,agent_2
+TKT_000627,CUST_0431,2024-06-16 00:16:29,Integration Help,Medium,In Progress,159.0,,agent_3
+TKT_000628,CUST_0431,2024-03-27 11:19:26,Feature Request,Medium,Resolved,144.0,2.0,agent_4
+TKT_000629,CUST_0433,2023-10-18 08:10:10,Account Setup,High,Closed,89.0,3.0,agent_8
+TKT_000630,CUST_0433,2024-02-12 11:19:33,Feature Request,Low,Resolved,3.0,4.0,agent_14
+TKT_000631,CUST_0433,2024-04-26 13:38:28,Account Setup,Medium,Open,36.0,,agent_9
+TKT_000632,CUST_0433,2023-12-21 11:59:36,Technical Issue,Medium,Closed,,5.0,agent_14
+TKT_000633,CUST_0433,2023-11-13 23:04:56,Billing Question,Medium,Closed,,3.0,agent_4
+TKT_000634,CUST_0433,2023-11-07 18:36:45,Integration Help,Low,Closed,152.0,,agent_9
+TKT_000635,CUST_0433,2023-08-05 03:46:28,Bug Report,Medium,Resolved,68.0,1.0,agent_5
+TKT_000636,CUST_0433,2023-09-30 06:23:31,Integration Help,Critical,Resolved,117.0,4.0,agent_12
+TKT_000637,CUST_0434,2023-07-01 09:47:47,Integration Help,High,Closed,22.0,4.0,agent_5
+TKT_000638,CUST_0434,2023-07-31 15:16:07,Feature Request,Medium,Resolved,,1.0,agent_6
+TKT_000639,CUST_0435,2023-11-10 22:54:59,Bug Report,Low,Resolved,77.0,1.0,agent_1
+TKT_000640,CUST_0435,2022-10-10 20:24:29,Account Setup,High,In Progress,116.0,,agent_9
+TKT_000641,CUST_0435,2023-02-11 06:45:21,Technical Issue,Medium,Closed,86.0,3.0,agent_4
+TKT_000642,CUST_0436,2024-03-31 13:17:29,Account Setup,Low,Closed,,,agent_5
+TKT_000643,CUST_0437,2023-08-22 22:57:13,Integration Help,Low,Open,152.0,2.0,agent_1
+TKT_000644,CUST_0438,2024-01-10 05:23:12,Bug Report,High,Closed,121.0,,agent_12
+TKT_000645,CUST_0439,2023-04-25 11:00:38,Account Setup,High,Resolved,108.0,,agent_2
+TKT_000646,CUST_0440,2023-11-15 03:32:16,Integration Help,Medium,Closed,5.0,,agent_13
+TKT_000647,CUST_0443,2023-12-15 22:08:45,Technical Issue,Low,Closed,154.0,,agent_11
+TKT_000648,CUST_0443,2023-08-13 09:22:12,Bug Report,Medium,Closed,132.0,1.0,agent_12
+TKT_000649,CUST_0443,2023-12-04 14:23:47,Billing Question,High,Closed,164.0,2.0,agent_14
+TKT_000650,CUST_0444,2023-03-16 14:42:52,Technical Issue,Low,Closed,117.0,1.0,agent_9
+TKT_000651,CUST_0445,2023-12-08 15:59:16,Technical Issue,Medium,In Progress,114.0,4.0,agent_13
+TKT_000652,CUST_0445,2022-12-02 23:50:04,Bug Report,High,Open,,5.0,agent_3
+TKT_000653,CUST_0446,2024-05-18 18:30:47,Integration Help,Low,Closed,131.0,4.0,agent_2
+TKT_000654,CUST_0447,2023-10-01 09:41:08,Account Setup,Medium,Closed,40.0,2.0,agent_8
+TKT_000655,CUST_0449,2022-08-08 11:44:11,Bug Report,High,Open,118.0,5.0,agent_5
+TKT_000656,CUST_0450,2023-01-16 07:08:52,Integration Help,Low,Open,104.0,2.0,agent_15
+TKT_000657,CUST_0452,2022-05-29 07:15:00,Billing Question,Low,Closed,61.0,,agent_5
+TKT_000658,CUST_0453,2023-08-19 08:45:18,Integration Help,Critical,Resolved,145.0,1.0,agent_10
+TKT_000659,CUST_0453,2023-07-21 03:19:12,Account Setup,Low,Resolved,138.0,3.0,agent_4
+TKT_000660,CUST_0453,2024-06-29 02:55:33,Bug Report,High,Closed,,,agent_3
+TKT_000661,CUST_0453,2022-06-05 01:03:12,Bug Report,Medium,Resolved,120.0,4.0,agent_11
+TKT_000662,CUST_0457,2023-11-29 12:02:34,Billing Question,Medium,Closed,165.0,5.0,agent_14
+TKT_000663,CUST_0458,2024-05-12 21:30:09,Technical Issue,Low,Closed,14.0,2.0,agent_15
+TKT_000664,CUST_0460,2024-06-10 19:32:36,Billing Question,Low,Closed,24.0,,agent_1
+TKT_000665,CUST_0462,2024-03-22 15:48:10,Account Setup,Medium,Open,40.0,,agent_9
+TKT_000666,CUST_0463,2024-05-06 07:40:23,Technical Issue,Medium,Closed,139.0,,agent_3
+TKT_000667,CUST_0463,2024-02-08 03:56:51,Integration Help,Low,Closed,39.0,3.0,agent_14
+TKT_000668,CUST_0463,2023-12-30 04:15:20,Billing Question,High,Open,135.0,5.0,agent_9
+TKT_000669,CUST_0463,2024-05-18 05:30:43,Billing Question,Critical,In Progress,149.0,1.0,agent_2
+TKT_000670,CUST_0463,2024-02-14 16:52:54,Technical Issue,Medium,Resolved,,4.0,agent_14
+TKT_000671,CUST_0463,2023-10-17 18:56:23,Account Setup,Medium,In Progress,44.0,1.0,agent_4
+TKT_000672,CUST_0463,2024-05-04 16:29:39,Account Setup,Low,Closed,,2.0,agent_11
+TKT_000673,CUST_0466,2024-05-05 02:28:26,Billing Question,Low,Resolved,68.0,2.0,agent_11
+TKT_000674,CUST_0467,2024-02-03 06:53:34,Integration Help,Medium,Closed,86.0,,agent_1
+TKT_000675,CUST_0467,2024-02-19 15:47:25,Billing Question,Low,Closed,,5.0,agent_2
+TKT_000676,CUST_0468,2024-01-08 15:59:01,Account Setup,Low,Open,58.0,,agent_8
+TKT_000677,CUST_0468,2024-04-14 07:31:01,Feature Request,Medium,Closed,16.0,,agent_13
+TKT_000678,CUST_0469,2024-02-16 00:28:48,Account Setup,Low,Closed,63.0,3.0,agent_6
+TKT_000679,CUST_0469,2024-02-02 04:01:13,Billing Question,Medium,Open,109.0,3.0,agent_13
+TKT_000680,CUST_0469,2024-06-20 20:18:56,Bug Report,Low,In Progress,72.0,5.0,agent_9
+TKT_000681,CUST_0469,2024-01-18 12:27:53,Billing Question,High,Resolved,31.0,,agent_6
+TKT_000682,CUST_0469,2024-02-12 16:19:41,Account Setup,Low,In Progress,,4.0,agent_7
+TKT_000683,CUST_0471,2024-04-18 03:59:20,Integration Help,Critical,Resolved,155.0,,agent_10
+TKT_000684,CUST_0471,2023-08-24 04:59:45,Account Setup,Critical,Closed,146.0,,agent_12
+TKT_000685,CUST_0472,2023-01-05 05:20:44,Feature Request,Medium,Resolved,,5.0,agent_3
+TKT_000686,CUST_0472,2022-12-05 14:32:21,Account Setup,Low,Closed,99.0,4.0,agent_3
+TKT_000687,CUST_0473,2022-12-20 21:53:45,Account Setup,Medium,Resolved,89.0,2.0,agent_10
+TKT_000688,CUST_0473,2024-02-19 15:05:34,Bug Report,Medium,In Progress,155.0,4.0,agent_9
+TKT_000689,CUST_0474,2023-09-19 19:58:07,Bug Report,Medium,Closed,119.0,1.0,agent_5
+TKT_000690,CUST_0475,2023-03-31 07:23:47,Billing Question,Medium,Open,64.0,5.0,agent_14
+TKT_000691,CUST_0475,2023-07-06 20:46:27,Billing Question,Low,Resolved,,1.0,agent_3
+TKT_000692,CUST_0475,2023-04-03 21:49:49,Technical Issue,Low,Closed,104.0,,agent_11
+TKT_000693,CUST_0475,2024-06-21 11:01:45,Account Setup,Low,Closed,120.0,,agent_13
+TKT_000694,CUST_0476,2023-07-12 20:51:36,Bug Report,Low,Open,167.0,1.0,agent_4
+TKT_000695,CUST_0477,2023-06-12 20:09:37,Technical Issue,Low,Closed,31.0,,agent_11
+TKT_000696,CUST_0478,2024-04-21 02:23:02,Feature Request,Low,Closed,121.0,4.0,agent_5
+TKT_000697,CUST_0478,2023-11-24 01:09:14,Billing Question,High,Resolved,35.0,1.0,agent_9
+TKT_000698,CUST_0480,2022-12-17 17:44:23,Billing Question,High,Open,60.0,4.0,agent_10
+TKT_000699,CUST_0481,2023-02-20 11:06:05,Billing Question,Medium,Closed,,5.0,agent_15
+TKT_000700,CUST_0483,2022-06-08 17:56:33,Billing Question,Medium,In Progress,,3.0,agent_4
+TKT_000701,CUST_0483,2022-04-21 07:34:37,Integration Help,Medium,In Progress,115.0,4.0,agent_3
+TKT_000702,CUST_0484,2023-05-27 02:08:21,Billing Question,Low,Closed,2.0,,agent_3
+TKT_000703,CUST_0484,2023-07-08 23:26:22,Technical Issue,Medium,Resolved,58.0,1.0,agent_1
+TKT_000704,CUST_0485,2023-11-18 03:05:19,Account Setup,Medium,Closed,,3.0,agent_1
+TKT_000705,CUST_0486,2023-09-24 16:11:45,Technical Issue,High,Closed,,,agent_12
+TKT_000706,CUST_0487,2023-09-13 01:22:26,Bug Report,High,Resolved,,,agent_8
+TKT_000707,CUST_0487,2023-05-27 04:47:39,Account Setup,Low,Resolved,,,agent_5
+TKT_000708,CUST_0487,2023-07-29 15:31:16,Billing Question,Medium,Open,115.0,4.0,agent_12
+TKT_000709,CUST_0488,2024-01-05 04:38:34,Feature Request,High,Resolved,,1.0,agent_12
+TKT_000710,CUST_0489,2024-04-19 16:46:53,Billing Question,Low,Closed,,1.0,agent_15
+TKT_000711,CUST_0490,2024-04-30 10:23:22,Billing Question,Low,Closed,143.0,,agent_9
+TKT_000712,CUST_0491,2024-04-07 19:19:49,Billing Question,Low,In Progress,21.0,1.0,agent_9
+TKT_000713,CUST_0491,2024-04-10 11:41:04,Technical Issue,Low,Resolved,,1.0,agent_6
+TKT_000714,CUST_0491,2024-05-18 11:56:10,Billing Question,Medium,Closed,67.0,,agent_11
+TKT_000715,CUST_0491,2024-01-09 10:16:07,Technical Issue,Medium,Closed,,,agent_10
+TKT_000716,CUST_0491,2024-02-28 11:18:04,Bug Report,Low,Closed,,,agent_1
+TKT_000717,CUST_0491,2024-02-29 13:32:07,Bug Report,Medium,In Progress,155.0,,agent_4
+TKT_000718,CUST_0491,2024-04-21 14:16:01,Feature Request,High,Closed,,5.0,agent_9
+TKT_000719,CUST_0492,2024-02-17 02:07:13,Bug Report,Critical,Closed,72.0,1.0,agent_3
+TKT_000720,CUST_0492,2024-02-14 03:18:05,Feature Request,Medium,Resolved,83.0,4.0,agent_12
+TKT_000721,CUST_0496,2022-11-18 00:20:36,Bug Report,Low,Closed,,,agent_4
+TKT_000722,CUST_0496,2023-12-29 16:03:57,Billing Question,High,Resolved,77.0,,agent_13
+TKT_000723,CUST_0497,2024-05-15 09:23:25,Account Setup,Low,Closed,111.0,1.0,agent_10
+TKT_000724,CUST_0498,2023-01-09 06:29:17,Bug Report,Medium,Resolved,11.0,3.0,agent_14
+TKT_000725,CUST_0498,2023-04-03 10:06:06,Technical Issue,Low,Closed,,1.0,agent_2
+TKT_000726,CUST_0499,2023-10-11 10:10:46,Billing Question,Medium,Resolved,138.0,2.0,agent_3
+TKT_000727,CUST_0500,2024-01-29 08:00:07,Integration Help,Medium,Open,29.0,2.0,agent_3
+TKT_000728,CUST_0500,2023-12-21 00:36:21,Feature Request,Medium,Resolved,,3.0,agent_6
+TKT_000729,CUST_0500,2024-03-31 03:57:23,Account Setup,Medium,Closed,,2.0,agent_15

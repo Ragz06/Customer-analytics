@@ -1,0 +1,999 @@
+campaign_id,customer_id,campaign_name,campaign_date,channel,response,conversion,campaign_cost,attributed_revenue
+CAMP_Threat_Intelligence_Demo_2047,CUST_0001,Threat_Intelligence_Demo,2022-10-02,Direct Mail,Clicked,False,213,2780
+CAMP_Q2_2024_Feature_Launch_6326,CUST_0001,Q2_2024_Feature_Launch,2024-01-29,Phone,Opened,False,66,0
+CAMP_Archive_Upgrade_Campaign_8198,CUST_0001,Archive_Upgrade_Campaign,2023-12-27,Email,Registered,False,142,0
+CAMP_Q3_2024_Compliance_Focus_3005,CUST_0004,Q3_2024_Compliance_Focus,2023-05-10,Webinar,Opened,False,120,927
+CAMP_Q1_2024_Security_Awareness_5133,CUST_0004,Q1_2024_Security_Awareness,2024-06-15,Email,Clicked,False,293,0
+CAMP_New_Customer_Onboarding_5693,CUST_0004,New_Customer_Onboarding,2022-06-12,Direct Mail,Clicked,False,197,0
+CAMP_Q3_2024_Compliance_Focus_2049,CUST_0005,Q3_2024_Compliance_Focus,2022-09-21,Email,Registered,False,419,0
+CAMP_Q1_2024_Security_Awareness_9405,CUST_0005,Q1_2024_Security_Awareness,2023-02-08,Phone,Opened,False,240,0
+CAMP_Threat_Intelligence_Demo_9076,CUST_0005,Threat_Intelligence_Demo,2023-11-18,Direct Mail,Opened,False,282,0
+CAMP_Q3_2024_Compliance_Focus_3710,CUST_0006,Q3_2024_Compliance_Focus,2022-04-10,Direct Mail,Registered,True,91,0
+CAMP_Archive_Upgrade_Campaign_7482,CUST_0006,Archive_Upgrade_Campaign,2022-07-05,LinkedIn,Registered,False,147,0
+CAMP_Upsell_Enterprise_Features_7564,CUST_0006,Upsell_Enterprise_Features,2023-09-07,Direct Mail,Opened,False,378,0
+CAMP_Q1_2024_Security_Awareness_4230,CUST_0007,Q1_2024_Security_Awareness,2023-03-09,LinkedIn,Opened,False,258,0
+CAMP_Upsell_Enterprise_Features_2389,CUST_0007,Upsell_Enterprise_Features,2023-03-21,LinkedIn,Registered,False,419,0
+CAMP_Archive_Upgrade_Campaign_1742,CUST_0008,Archive_Upgrade_Campaign,2022-03-03,LinkedIn,Opened,False,234,0
+CAMP_Email_Security_Webinar_Series_9590,CUST_0008,Email_Security_Webinar_Series,2023-03-07,Email,Opened,False,379,0
+CAMP_Threat_Intelligence_Demo_7850,CUST_0008,Threat_Intelligence_Demo,2023-06-21,Direct Mail,No Response,False,259,0
+CAMP_Email_Security_Webinar_Series_1154,CUST_0009,Email_Security_Webinar_Series,2022-03-12,Webinar,No Response,False,289,0
+CAMP_Upsell_Enterprise_Features_8350,CUST_0009,Upsell_Enterprise_Features,2023-08-31,Phone,Clicked,False,113,0
+CAMP_Threat_Intelligence_Demo_5299,CUST_0010,Threat_Intelligence_Demo,2023-09-10,Phone,Opened,False,144,0
+CAMP_Q2_2024_Feature_Launch_9957,CUST_0011,Q2_2024_Feature_Launch,2023-02-22,Webinar,Registered,True,392,0
+CAMP_Q1_2024_Security_Awareness_6696,CUST_0011,Q1_2024_Security_Awareness,2023-03-22,Direct Mail,Clicked,False,141,0
+CAMP_Upsell_Enterprise_Features_8858,CUST_0012,Upsell_Enterprise_Features,2024-06-06,Webinar,No Response,True,144,0
+CAMP_Q2_2024_Feature_Launch_6955,CUST_0013,Q2_2024_Feature_Launch,2024-05-31,Phone,Opened,False,293,0
+CAMP_Archive_Upgrade_Campaign_5593,CUST_0014,Archive_Upgrade_Campaign,2023-09-29,LinkedIn,Opened,True,111,0
+CAMP_Email_Security_Webinar_Series_8047,CUST_0014,Email_Security_Webinar_Series,2024-01-20,Direct Mail,Registered,False,254,0
+CAMP_Upsell_Enterprise_Features_2853,CUST_0014,Upsell_Enterprise_Features,2024-05-01,Webinar,Opened,True,411,1789
+CAMP_Renewal_Campaign_9522,CUST_0014,Renewal_Campaign,2022-12-21,LinkedIn,Clicked,True,303,0
+CAMP_Q1_2024_Security_Awareness_5348,CUST_0014,Q1_2024_Security_Awareness,2022-03-20,Email,Opened,False,333,0
+CAMP_New_Customer_Onboarding_8917,CUST_0016,New_Customer_Onboarding,2023-07-20,Webinar,Registered,False,261,4937
+CAMP_Q2_2024_Feature_Launch_8060,CUST_0016,Q2_2024_Feature_Launch,2022-03-06,Webinar,No Response,False,447,0
+CAMP_Q1_2024_Security_Awareness_2840,CUST_0017,Q1_2024_Security_Awareness,2023-05-09,Email,Clicked,False,419,0
+CAMP_New_Customer_Onboarding_2447,CUST_0017,New_Customer_Onboarding,2023-02-08,Webinar,Clicked,False,435,0
+CAMP_Q3_2024_Compliance_Focus_3013,CUST_0019,Q3_2024_Compliance_Focus,2023-10-28,Webinar,Clicked,False,185,4770
+CAMP_Upsell_Enterprise_Features_7954,CUST_0020,Upsell_Enterprise_Features,2022-02-08,Webinar,No Response,True,389,3954
+CAMP_Q3_2024_Compliance_Focus_7846,CUST_0020,Q3_2024_Compliance_Focus,2022-09-22,Direct Mail,No Response,True,279,609
+CAMP_Archive_Upgrade_Campaign_4213,CUST_0020,Archive_Upgrade_Campaign,2022-06-03,LinkedIn,Clicked,True,131,0
+CAMP_Renewal_Campaign_4826,CUST_0021,Renewal_Campaign,2024-03-22,LinkedIn,Clicked,False,417,0
+CAMP_Q1_2024_Security_Awareness_5930,CUST_0021,Q1_2024_Security_Awareness,2022-11-02,LinkedIn,No Response,False,153,0
+CAMP_Q1_2024_Security_Awareness_8650,CUST_0022,Q1_2024_Security_Awareness,2024-05-31,Direct Mail,Clicked,False,157,0
+CAMP_Email_Security_Webinar_Series_6679,CUST_0022,Email_Security_Webinar_Series,2023-08-05,Webinar,Opened,False,240,0
+CAMP_New_Customer_Onboarding_1671,CUST_0024,New_Customer_Onboarding,2022-01-09,Phone,Opened,False,196,0
+CAMP_Archive_Upgrade_Campaign_4723,CUST_0024,Archive_Upgrade_Campaign,2022-10-16,Direct Mail,Clicked,True,348,0
+CAMP_Q1_2024_Security_Awareness_5146,CUST_0025,Q1_2024_Security_Awareness,2023-12-20,Email,Registered,False,156,0
+CAMP_Archive_Upgrade_Campaign_6671,CUST_0025,Archive_Upgrade_Campaign,2022-05-12,Direct Mail,No Response,True,334,0
+CAMP_Q2_2024_Feature_Launch_2872,CUST_0027,Q2_2024_Feature_Launch,2023-09-25,LinkedIn,Clicked,False,222,3339
+CAMP_Q3_2024_Compliance_Focus_2568,CUST_0027,Q3_2024_Compliance_Focus,2024-06-10,Direct Mail,Clicked,False,55,0
+CAMP_Archive_Upgrade_Campaign_4050,CUST_0028,Archive_Upgrade_Campaign,2023-08-30,Direct Mail,Registered,False,89,0
+CAMP_Archive_Upgrade_Campaign_7435,CUST_0029,Archive_Upgrade_Campaign,2023-09-04,Webinar,Opened,False,406,709
+CAMP_Q3_2024_Compliance_Focus_1463,CUST_0029,Q3_2024_Compliance_Focus,2022-12-28,Phone,Opened,True,260,0
+CAMP_Upsell_Enterprise_Features_3630,CUST_0029,Upsell_Enterprise_Features,2023-01-28,Webinar,Clicked,False,344,0
+CAMP_New_Customer_Onboarding_6649,CUST_0030,New_Customer_Onboarding,2022-03-13,LinkedIn,Clicked,False,427,0
+CAMP_Q1_2024_Security_Awareness_6035,CUST_0030,Q1_2024_Security_Awareness,2024-07-25,Direct Mail,No Response,True,64,0
+CAMP_Q1_2024_Security_Awareness_7450,CUST_0032,Q1_2024_Security_Awareness,2023-09-17,LinkedIn,No Response,True,473,0
+CAMP_Email_Security_Webinar_Series_4917,CUST_0032,Email_Security_Webinar_Series,2022-07-09,LinkedIn,No Response,False,281,0
+CAMP_Email_Security_Webinar_Series_9697,CUST_0033,Email_Security_Webinar_Series,2022-07-11,Phone,Clicked,False,478,861
+CAMP_Email_Security_Webinar_Series_6774,CUST_0034,Email_Security_Webinar_Series,2024-05-08,LinkedIn,Clicked,True,267,0
+CAMP_Q3_2024_Compliance_Focus_3098,CUST_0034,Q3_2024_Compliance_Focus,2022-05-07,Phone,Opened,True,393,0
+CAMP_New_Customer_Onboarding_7215,CUST_0034,New_Customer_Onboarding,2022-09-20,Email,Opened,False,395,0
+CAMP_Upsell_Enterprise_Features_5823,CUST_0034,Upsell_Enterprise_Features,2022-09-10,LinkedIn,No Response,False,457,0
+CAMP_Renewal_Campaign_6196,CUST_0035,Renewal_Campaign,2023-04-20,LinkedIn,Opened,False,235,0
+CAMP_Q3_2024_Compliance_Focus_1777,CUST_0035,Q3_2024_Compliance_Focus,2022-08-08,Webinar,Opened,False,204,4639
+CAMP_Email_Security_Webinar_Series_4509,CUST_0036,Email_Security_Webinar_Series,2022-02-18,Phone,Clicked,False,147,0
+CAMP_Archive_Upgrade_Campaign_2741,CUST_0036,Archive_Upgrade_Campaign,2024-06-27,Direct Mail,No Response,False,107,0
+CAMP_Q1_2024_Security_Awareness_6469,CUST_0037,Q1_2024_Security_Awareness,2023-04-17,Webinar,Clicked,True,389,0
+CAMP_Threat_Intelligence_Demo_7733,CUST_0037,Threat_Intelligence_Demo,2022-04-05,Phone,Clicked,False,172,0
+CAMP_Q3_2024_Compliance_Focus_7598,CUST_0037,Q3_2024_Compliance_Focus,2023-08-26,Direct Mail,No Response,False,475,0
+CAMP_Q3_2024_Compliance_Focus_7477,CUST_0038,Q3_2024_Compliance_Focus,2022-05-10,Direct Mail,Opened,True,465,0
+CAMP_New_Customer_Onboarding_8440,CUST_0038,New_Customer_Onboarding,2024-05-23,Webinar,Opened,True,463,0
+CAMP_Q1_2024_Security_Awareness_2142,CUST_0038,Q1_2024_Security_Awareness,2023-12-23,Email,No Response,False,345,0
+CAMP_Q2_2024_Feature_Launch_5566,CUST_0038,Q2_2024_Feature_Launch,2023-12-03,Email,Clicked,False,266,0
+CAMP_Email_Security_Webinar_Series_5588,CUST_0038,Email_Security_Webinar_Series,2022-05-23,LinkedIn,Clicked,False,195,0
+CAMP_New_Customer_Onboarding_1811,CUST_0040,New_Customer_Onboarding,2022-07-03,Direct Mail,Clicked,False,236,0
+CAMP_Q1_2024_Security_Awareness_4868,CUST_0040,Q1_2024_Security_Awareness,2023-05-01,Email,Clicked,True,476,0
+CAMP_Q2_2024_Feature_Launch_7426,CUST_0041,Q2_2024_Feature_Launch,2022-03-04,Direct Mail,Clicked,False,500,3749
+CAMP_Upsell_Enterprise_Features_9947,CUST_0041,Upsell_Enterprise_Features,2022-08-11,Webinar,No Response,False,453,0
+CAMP_Upsell_Enterprise_Features_6437,CUST_0042,Upsell_Enterprise_Features,2023-07-25,Email,Registered,False,133,0
+CAMP_Threat_Intelligence_Demo_9038,CUST_0044,Threat_Intelligence_Demo,2024-02-25,Email,Registered,False,159,0
+CAMP_Upsell_Enterprise_Features_5824,CUST_0044,Upsell_Enterprise_Features,2023-12-05,Direct Mail,Registered,False,417,0
+CAMP_Renewal_Campaign_4255,CUST_0044,Renewal_Campaign,2022-01-11,Phone,Clicked,False,255,0
+CAMP_Archive_Upgrade_Campaign_8377,CUST_0044,Archive_Upgrade_Campaign,2023-07-20,Email,Registered,True,329,0
+CAMP_Renewal_Campaign_2049,CUST_0045,Renewal_Campaign,2022-07-02,Webinar,No Response,False,85,0
+CAMP_Email_Security_Webinar_Series_9229,CUST_0046,Email_Security_Webinar_Series,2023-08-22,LinkedIn,Clicked,True,491,0
+CAMP_Q2_2024_Feature_Launch_1767,CUST_0046,Q2_2024_Feature_Launch,2024-05-25,Email,Clicked,False,216,0
+CAMP_Archive_Upgrade_Campaign_3592,CUST_0047,Archive_Upgrade_Campaign,2022-05-16,Email,Clicked,True,176,0
+CAMP_Renewal_Campaign_2867,CUST_0047,Renewal_Campaign,2023-03-17,Webinar,Opened,False,52,0
+CAMP_Q2_2024_Feature_Launch_4932,CUST_0047,Q2_2024_Feature_Launch,2022-11-18,Direct Mail,Clicked,False,395,0
+CAMP_Q1_2024_Security_Awareness_2635,CUST_0047,Q1_2024_Security_Awareness,2024-03-26,LinkedIn,Registered,True,324,0
+CAMP_Upsell_Enterprise_Features_7988,CUST_0047,Upsell_Enterprise_Features,2023-12-12,Phone,Opened,False,92,0
+CAMP_Email_Security_Webinar_Series_9138,CUST_0047,Email_Security_Webinar_Series,2023-02-09,Email,Opened,False,71,0
+CAMP_Email_Security_Webinar_Series_2742,CUST_0051,Email_Security_Webinar_Series,2022-03-01,Email,Opened,False,151,0
+CAMP_Renewal_Campaign_8834,CUST_0051,Renewal_Campaign,2024-01-10,Direct Mail,Opened,False,335,0
+CAMP_Q1_2024_Security_Awareness_7476,CUST_0051,Q1_2024_Security_Awareness,2022-03-03,Email,Opened,False,144,0
+CAMP_Upsell_Enterprise_Features_7777,CUST_0052,Upsell_Enterprise_Features,2024-06-12,Phone,Clicked,False,470,0
+CAMP_Email_Security_Webinar_Series_9828,CUST_0052,Email_Security_Webinar_Series,2022-10-16,Direct Mail,No Response,True,388,4697
+CAMP_Q2_2024_Feature_Launch_6964,CUST_0053,Q2_2024_Feature_Launch,2022-05-26,Webinar,No Response,False,318,0
+CAMP_Upsell_Enterprise_Features_2647,CUST_0053,Upsell_Enterprise_Features,2022-12-16,Direct Mail,No Response,False,52,0
+CAMP_Email_Security_Webinar_Series_9871,CUST_0053,Email_Security_Webinar_Series,2023-08-28,Phone,Opened,False,262,1527
+CAMP_Renewal_Campaign_7966,CUST_0053,Renewal_Campaign,2022-01-10,Phone,Registered,False,214,0
+CAMP_Archive_Upgrade_Campaign_5270,CUST_0055,Archive_Upgrade_Campaign,2022-01-23,Phone,Clicked,False,223,3580
+CAMP_New_Customer_Onboarding_6626,CUST_0055,New_Customer_Onboarding,2022-03-23,Phone,Opened,False,195,0
+CAMP_Q3_2024_Compliance_Focus_4969,CUST_0055,Q3_2024_Compliance_Focus,2023-04-20,Email,Clicked,False,296,0
+CAMP_Renewal_Campaign_3590,CUST_0057,Renewal_Campaign,2023-11-11,Webinar,Opened,True,449,0
+CAMP_Q2_2024_Feature_Launch_3588,CUST_0057,Q2_2024_Feature_Launch,2024-03-07,Webinar,Opened,False,331,0
+CAMP_Archive_Upgrade_Campaign_9757,CUST_0057,Archive_Upgrade_Campaign,2023-06-16,Email,Clicked,False,394,0
+CAMP_Q3_2024_Compliance_Focus_8268,CUST_0057,Q3_2024_Compliance_Focus,2022-10-08,Phone,Opened,True,170,998
+CAMP_Renewal_Campaign_8902,CUST_0058,Renewal_Campaign,2023-11-06,LinkedIn,No Response,True,446,0
+CAMP_Q2_2024_Feature_Launch_6827,CUST_0059,Q2_2024_Feature_Launch,2022-12-08,Webinar,Opened,False,121,0
+CAMP_Q2_2024_Feature_Launch_4654,CUST_0060,Q2_2024_Feature_Launch,2022-03-10,LinkedIn,Opened,False,418,0
+CAMP_Threat_Intelligence_Demo_8585,CUST_0060,Threat_Intelligence_Demo,2024-05-16,LinkedIn,Opened,False,388,0
+CAMP_Upsell_Enterprise_Features_9667,CUST_0061,Upsell_Enterprise_Features,2022-12-02,Phone,Registered,False,286,4792
+CAMP_Archive_Upgrade_Campaign_7775,CUST_0061,Archive_Upgrade_Campaign,2024-02-29,Webinar,Clicked,False,286,0
+CAMP_Q2_2024_Feature_Launch_4087,CUST_0061,Q2_2024_Feature_Launch,2022-12-05,LinkedIn,Opened,False,422,0
+CAMP_Threat_Intelligence_Demo_3306,CUST_0061,Threat_Intelligence_Demo,2022-08-19,Webinar,Opened,False,496,532
+CAMP_Renewal_Campaign_6932,CUST_0062,Renewal_Campaign,2022-08-02,LinkedIn,Opened,True,346,0
+CAMP_Q3_2024_Compliance_Focus_8840,CUST_0062,Q3_2024_Compliance_Focus,2022-07-25,LinkedIn,Opened,False,143,0
+CAMP_New_Customer_Onboarding_6521,CUST_0063,New_Customer_Onboarding,2024-06-05,Phone,Clicked,False,288,0
+CAMP_Threat_Intelligence_Demo_5236,CUST_0063,Threat_Intelligence_Demo,2024-02-23,Email,Opened,False,269,458
+CAMP_New_Customer_Onboarding_7640,CUST_0064,New_Customer_Onboarding,2023-09-18,Email,Opened,False,357,0
+CAMP_Email_Security_Webinar_Series_5339,CUST_0064,Email_Security_Webinar_Series,2023-06-21,Webinar,Opened,False,377,0
+CAMP_Q2_2024_Feature_Launch_1419,CUST_0064,Q2_2024_Feature_Launch,2024-02-15,Direct Mail,Registered,False,467,0
+CAMP_Renewal_Campaign_8132,CUST_0064,Renewal_Campaign,2022-05-14,LinkedIn,Opened,False,373,0
+CAMP_Q1_2024_Security_Awareness_4447,CUST_0064,Q1_2024_Security_Awareness,2022-08-21,Email,Clicked,False,225,0
+CAMP_Upsell_Enterprise_Features_2587,CUST_0065,Upsell_Enterprise_Features,2023-06-30,Webinar,Opened,False,323,0
+CAMP_Email_Security_Webinar_Series_9796,CUST_0065,Email_Security_Webinar_Series,2023-12-04,Email,Opened,False,89,0
+CAMP_Q1_2024_Security_Awareness_8686,CUST_0065,Q1_2024_Security_Awareness,2023-08-08,Phone,Opened,False,385,0
+CAMP_Archive_Upgrade_Campaign_5608,CUST_0066,Archive_Upgrade_Campaign,2023-11-23,Phone,No Response,False,185,2939
+CAMP_Renewal_Campaign_1213,CUST_0067,Renewal_Campaign,2024-04-18,LinkedIn,Opened,True,270,0
+CAMP_Threat_Intelligence_Demo_6982,CUST_0067,Threat_Intelligence_Demo,2024-04-02,LinkedIn,Registered,False,258,478
+CAMP_Email_Security_Webinar_Series_7396,CUST_0068,Email_Security_Webinar_Series,2022-06-04,Direct Mail,Opened,False,396,0
+CAMP_Renewal_Campaign_1923,CUST_0068,Renewal_Campaign,2022-08-07,Email,Registered,False,109,0
+CAMP_Q3_2024_Compliance_Focus_1185,CUST_0068,Q3_2024_Compliance_Focus,2023-03-17,Email,Registered,False,342,0
+CAMP_Threat_Intelligence_Demo_7075,CUST_0068,Threat_Intelligence_Demo,2023-08-23,LinkedIn,Clicked,False,279,0
+CAMP_Upsell_Enterprise_Features_2308,CUST_0068,Upsell_Enterprise_Features,2023-07-20,LinkedIn,Opened,True,190,0
+CAMP_Email_Security_Webinar_Series_8335,CUST_0069,Email_Security_Webinar_Series,2024-06-23,LinkedIn,Opened,False,474,0
+CAMP_Upsell_Enterprise_Features_1908,CUST_0069,Upsell_Enterprise_Features,2024-01-17,Phone,Clicked,False,482,2428
+CAMP_Renewal_Campaign_6771,CUST_0069,Renewal_Campaign,2022-08-14,Webinar,Clicked,False,241,0
+CAMP_Archive_Upgrade_Campaign_5769,CUST_0071,Archive_Upgrade_Campaign,2022-12-27,Email,Opened,False,206,0
+CAMP_Email_Security_Webinar_Series_2859,CUST_0072,Email_Security_Webinar_Series,2024-05-05,Direct Mail,Opened,False,314,0
+CAMP_Q3_2024_Compliance_Focus_7581,CUST_0072,Q3_2024_Compliance_Focus,2024-05-13,Direct Mail,Opened,True,238,0
+CAMP_Q1_2024_Security_Awareness_1441,CUST_0072,Q1_2024_Security_Awareness,2023-10-26,Direct Mail,No Response,False,491,0
+CAMP_New_Customer_Onboarding_6291,CUST_0073,New_Customer_Onboarding,2024-02-03,Direct Mail,Registered,True,365,0
+CAMP_Q3_2024_Compliance_Focus_2854,CUST_0073,Q3_2024_Compliance_Focus,2023-11-15,Webinar,Clicked,False,452,0
+CAMP_Renewal_Campaign_7850,CUST_0073,Renewal_Campaign,2022-09-03,Phone,Opened,False,97,0
+CAMP_Threat_Intelligence_Demo_9354,CUST_0073,Threat_Intelligence_Demo,2022-02-18,Webinar,Registered,False,254,0
+CAMP_Archive_Upgrade_Campaign_3644,CUST_0073,Archive_Upgrade_Campaign,2022-05-24,LinkedIn,Opened,False,178,0
+CAMP_Q1_2024_Security_Awareness_6425,CUST_0074,Q1_2024_Security_Awareness,2022-06-09,Webinar,Clicked,False,404,349
+CAMP_Q2_2024_Feature_Launch_7527,CUST_0074,Q2_2024_Feature_Launch,2022-03-19,Direct Mail,No Response,False,407,2033
+CAMP_Archive_Upgrade_Campaign_4280,CUST_0074,Archive_Upgrade_Campaign,2022-05-28,Direct Mail,Clicked,False,196,0
+CAMP_Q3_2024_Compliance_Focus_7357,CUST_0074,Q3_2024_Compliance_Focus,2023-06-18,Phone,Clicked,False,421,0
+CAMP_Upsell_Enterprise_Features_2086,CUST_0074,Upsell_Enterprise_Features,2022-05-09,Email,No Response,False,179,0
+CAMP_Q2_2024_Feature_Launch_5999,CUST_0076,Q2_2024_Feature_Launch,2023-12-03,LinkedIn,Opened,False,388,0
+CAMP_Archive_Upgrade_Campaign_2566,CUST_0077,Archive_Upgrade_Campaign,2022-01-16,LinkedIn,Opened,False,498,0
+CAMP_Q2_2024_Feature_Launch_4510,CUST_0077,Q2_2024_Feature_Launch,2023-07-05,LinkedIn,No Response,True,380,0
+CAMP_Q1_2024_Security_Awareness_7111,CUST_0077,Q1_2024_Security_Awareness,2023-05-06,Phone,Opened,False,355,0
+CAMP_Q3_2024_Compliance_Focus_7744,CUST_0077,Q3_2024_Compliance_Focus,2023-01-03,Direct Mail,Opened,True,126,0
+CAMP_Email_Security_Webinar_Series_2978,CUST_0078,Email_Security_Webinar_Series,2023-12-12,LinkedIn,Opened,True,473,1073
+CAMP_Upsell_Enterprise_Features_8010,CUST_0078,Upsell_Enterprise_Features,2022-08-27,Phone,Opened,False,482,0
+CAMP_New_Customer_Onboarding_2682,CUST_0079,New_Customer_Onboarding,2024-04-29,Webinar,Clicked,True,125,0
+CAMP_Threat_Intelligence_Demo_5306,CUST_0079,Threat_Intelligence_Demo,2022-01-24,LinkedIn,Registered,False,210,0
+CAMP_Threat_Intelligence_Demo_2392,CUST_0081,Threat_Intelligence_Demo,2023-03-14,Webinar,Opened,True,79,0
+CAMP_Renewal_Campaign_9883,CUST_0082,Renewal_Campaign,2022-03-02,Direct Mail,Opened,False,336,0
+CAMP_Q2_2024_Feature_Launch_9906,CUST_0082,Q2_2024_Feature_Launch,2022-08-29,Direct Mail,Registered,False,410,2892
+CAMP_Q1_2024_Security_Awareness_2030,CUST_0083,Q1_2024_Security_Awareness,2023-11-08,LinkedIn,Opened,False,436,0
+CAMP_Threat_Intelligence_Demo_7508,CUST_0084,Threat_Intelligence_Demo,2022-09-13,Direct Mail,Clicked,False,402,0
+CAMP_Threat_Intelligence_Demo_2599,CUST_0085,Threat_Intelligence_Demo,2023-02-26,Email,Clicked,False,381,0
+CAMP_Q2_2024_Feature_Launch_6023,CUST_0085,Q2_2024_Feature_Launch,2022-12-12,Phone,No Response,False,209,0
+CAMP_Email_Security_Webinar_Series_4981,CUST_0085,Email_Security_Webinar_Series,2023-01-26,Direct Mail,Clicked,False,123,0
+CAMP_Renewal_Campaign_7567,CUST_0085,Renewal_Campaign,2022-12-21,LinkedIn,Opened,False,78,0
+CAMP_Q1_2024_Security_Awareness_8575,CUST_0085,Q1_2024_Security_Awareness,2024-04-18,LinkedIn,Clicked,True,458,0
+CAMP_Q1_2024_Security_Awareness_6457,CUST_0086,Q1_2024_Security_Awareness,2024-04-24,Webinar,Opened,False,231,0
+CAMP_Q2_2024_Feature_Launch_7622,CUST_0087,Q2_2024_Feature_Launch,2023-03-22,LinkedIn,Opened,False,303,0
+CAMP_Upsell_Enterprise_Features_5773,CUST_0090,Upsell_Enterprise_Features,2022-06-13,Direct Mail,Clicked,True,107,1526
+CAMP_Q3_2024_Compliance_Focus_2388,CUST_0090,Q3_2024_Compliance_Focus,2023-07-06,Direct Mail,Opened,False,202,0
+CAMP_Q2_2024_Feature_Launch_4688,CUST_0090,Q2_2024_Feature_Launch,2022-05-15,Webinar,Clicked,False,82,0
+CAMP_Email_Security_Webinar_Series_9415,CUST_0092,Email_Security_Webinar_Series,2023-07-27,Phone,Opened,True,491,2685
+CAMP_Q3_2024_Compliance_Focus_1594,CUST_0092,Q3_2024_Compliance_Focus,2023-11-26,Email,Opened,False,200,0
+CAMP_Threat_Intelligence_Demo_7650,CUST_0092,Threat_Intelligence_Demo,2023-09-03,Direct Mail,Opened,False,390,2503
+CAMP_Renewal_Campaign_9647,CUST_0093,Renewal_Campaign,2022-04-18,Phone,Opened,False,102,0
+CAMP_Email_Security_Webinar_Series_5004,CUST_0093,Email_Security_Webinar_Series,2024-02-13,LinkedIn,Opened,False,222,0
+CAMP_Archive_Upgrade_Campaign_7079,CUST_0094,Archive_Upgrade_Campaign,2023-04-27,Phone,Registered,False,234,0
+CAMP_Q2_2024_Feature_Launch_3984,CUST_0096,Q2_2024_Feature_Launch,2022-09-02,Email,Clicked,False,138,0
+CAMP_Threat_Intelligence_Demo_4637,CUST_0096,Threat_Intelligence_Demo,2024-02-01,Email,Clicked,True,416,157
+CAMP_New_Customer_Onboarding_4277,CUST_0096,New_Customer_Onboarding,2023-07-09,Direct Mail,Registered,True,405,0
+CAMP_New_Customer_Onboarding_5623,CUST_0097,New_Customer_Onboarding,2022-12-21,LinkedIn,No Response,False,300,4247
+CAMP_Archive_Upgrade_Campaign_5875,CUST_0098,Archive_Upgrade_Campaign,2022-06-03,Email,Opened,False,447,0
+CAMP_Email_Security_Webinar_Series_4414,CUST_0099,Email_Security_Webinar_Series,2023-05-15,LinkedIn,Opened,False,231,0
+CAMP_Q2_2024_Feature_Launch_1666,CUST_0099,Q2_2024_Feature_Launch,2024-06-01,LinkedIn,Opened,False,463,0
+CAMP_Q3_2024_Compliance_Focus_8846,CUST_0099,Q3_2024_Compliance_Focus,2023-11-15,LinkedIn,Clicked,False,153,0
+CAMP_Q2_2024_Feature_Launch_3071,CUST_0100,Q2_2024_Feature_Launch,2022-01-10,Webinar,Clicked,False,499,385
+CAMP_Q3_2024_Compliance_Focus_6972,CUST_0100,Q3_2024_Compliance_Focus,2022-12-07,Direct Mail,Clicked,False,347,0
+CAMP_Email_Security_Webinar_Series_7508,CUST_0101,Email_Security_Webinar_Series,2022-07-09,Direct Mail,Opened,False,88,0
+CAMP_Q1_2024_Security_Awareness_6015,CUST_0102,Q1_2024_Security_Awareness,2022-02-05,Webinar,Clicked,False,315,0
+CAMP_Q2_2024_Feature_Launch_2822,CUST_0103,Q2_2024_Feature_Launch,2023-02-17,Webinar,No Response,False,492,0
+CAMP_Threat_Intelligence_Demo_2699,CUST_0104,Threat_Intelligence_Demo,2023-01-17,Phone,Clicked,False,69,0
+CAMP_Q3_2024_Compliance_Focus_2694,CUST_0106,Q3_2024_Compliance_Focus,2022-11-18,Email,Opened,False,478,0
+CAMP_Upsell_Enterprise_Features_6945,CUST_0107,Upsell_Enterprise_Features,2022-10-08,Phone,No Response,False,153,0
+CAMP_Q2_2024_Feature_Launch_3487,CUST_0107,Q2_2024_Feature_Launch,2024-01-28,LinkedIn,Opened,True,143,0
+CAMP_Email_Security_Webinar_Series_9308,CUST_0108,Email_Security_Webinar_Series,2023-10-19,LinkedIn,No Response,False,382,0
+CAMP_New_Customer_Onboarding_2185,CUST_0109,New_Customer_Onboarding,2024-01-27,Direct Mail,Clicked,False,274,0
+CAMP_Upsell_Enterprise_Features_3697,CUST_0109,Upsell_Enterprise_Features,2023-08-30,Webinar,Registered,False,253,0
+CAMP_Q3_2024_Compliance_Focus_2497,CUST_0109,Q3_2024_Compliance_Focus,2022-02-07,Phone,Clicked,False,184,0
+CAMP_Email_Security_Webinar_Series_9801,CUST_0110,Email_Security_Webinar_Series,2024-02-08,Email,Opened,False,279,0
+CAMP_Upsell_Enterprise_Features_4424,CUST_0110,Upsell_Enterprise_Features,2022-08-12,Email,Registered,False,306,0
+CAMP_Upsell_Enterprise_Features_3307,CUST_0111,Upsell_Enterprise_Features,2022-05-20,Email,Clicked,False,454,0
+CAMP_Email_Security_Webinar_Series_7909,CUST_0111,Email_Security_Webinar_Series,2023-07-28,Webinar,Opened,True,82,0
+CAMP_Q3_2024_Compliance_Focus_1432,CUST_0111,Q3_2024_Compliance_Focus,2023-10-20,LinkedIn,Opened,False,347,0
+CAMP_New_Customer_Onboarding_1483,CUST_0112,New_Customer_Onboarding,2024-05-24,Phone,Clicked,False,128,0
+CAMP_Q1_2024_Security_Awareness_8881,CUST_0113,Q1_2024_Security_Awareness,2022-01-27,Phone,Opened,False,444,0
+CAMP_Q2_2024_Feature_Launch_3956,CUST_0114,Q2_2024_Feature_Launch,2024-07-21,Phone,No Response,False,195,0
+CAMP_Threat_Intelligence_Demo_5733,CUST_0114,Threat_Intelligence_Demo,2022-04-11,LinkedIn,Clicked,False,500,0
+CAMP_Upsell_Enterprise_Features_7508,CUST_0115,Upsell_Enterprise_Features,2022-11-28,Webinar,No Response,False,93,0
+CAMP_Email_Security_Webinar_Series_9864,CUST_0117,Email_Security_Webinar_Series,2023-01-08,Webinar,Registered,False,203,0
+CAMP_Upsell_Enterprise_Features_4151,CUST_0117,Upsell_Enterprise_Features,2022-02-13,Phone,No Response,False,118,0
+CAMP_Upsell_Enterprise_Features_2873,CUST_0118,Upsell_Enterprise_Features,2022-04-03,Direct Mail,No Response,False,273,0
+CAMP_Q3_2024_Compliance_Focus_1316,CUST_0118,Q3_2024_Compliance_Focus,2022-09-17,Email,Registered,False,69,0
+CAMP_Q3_2024_Compliance_Focus_5994,CUST_0119,Q3_2024_Compliance_Focus,2022-06-26,Direct Mail,No Response,False,181,0
+CAMP_Upsell_Enterprise_Features_1548,CUST_0120,Upsell_Enterprise_Features,2024-07-10,Phone,Opened,True,132,2017
+CAMP_New_Customer_Onboarding_2251,CUST_0120,New_Customer_Onboarding,2024-03-27,Direct Mail,Opened,True,236,0
+CAMP_New_Customer_Onboarding_8792,CUST_0121,New_Customer_Onboarding,2023-07-18,Phone,Opened,True,61,0
+CAMP_Threat_Intelligence_Demo_9444,CUST_0121,Threat_Intelligence_Demo,2022-01-28,Email,Opened,False,233,0
+CAMP_Q3_2024_Compliance_Focus_6499,CUST_0121,Q3_2024_Compliance_Focus,2024-02-19,Webinar,Opened,False,352,0
+CAMP_Email_Security_Webinar_Series_5230,CUST_0122,Email_Security_Webinar_Series,2024-05-05,LinkedIn,Clicked,False,264,0
+CAMP_Q3_2024_Compliance_Focus_1502,CUST_0122,Q3_2024_Compliance_Focus,2023-10-07,Email,No Response,False,209,0
+CAMP_Q2_2024_Feature_Launch_1152,CUST_0122,Q2_2024_Feature_Launch,2023-06-19,LinkedIn,Clicked,False,182,0
+CAMP_Renewal_Campaign_2456,CUST_0122,Renewal_Campaign,2024-06-29,Direct Mail,No Response,False,233,0
+CAMP_New_Customer_Onboarding_6298,CUST_0122,New_Customer_Onboarding,2022-04-10,Phone,Opened,False,500,0
+CAMP_Renewal_Campaign_5368,CUST_0123,Renewal_Campaign,2024-03-17,Email,Registered,False,404,0
+CAMP_Renewal_Campaign_4698,CUST_0124,Renewal_Campaign,2023-03-09,LinkedIn,Clicked,True,309,1646
+CAMP_New_Customer_Onboarding_5300,CUST_0124,New_Customer_Onboarding,2022-11-11,Webinar,Opened,False,485,0
+CAMP_Q3_2024_Compliance_Focus_8769,CUST_0124,Q3_2024_Compliance_Focus,2022-10-18,Phone,Clicked,True,468,0
+CAMP_Upsell_Enterprise_Features_3728,CUST_0125,Upsell_Enterprise_Features,2022-03-15,LinkedIn,Clicked,False,298,0
+CAMP_Archive_Upgrade_Campaign_9857,CUST_0125,Archive_Upgrade_Campaign,2023-07-04,Webinar,No Response,True,285,0
+CAMP_Q1_2024_Security_Awareness_4955,CUST_0125,Q1_2024_Security_Awareness,2024-02-16,Direct Mail,Clicked,False,122,0
+CAMP_Q1_2024_Security_Awareness_9559,CUST_0127,Q1_2024_Security_Awareness,2023-06-12,LinkedIn,Clicked,True,66,0
+CAMP_Email_Security_Webinar_Series_2434,CUST_0128,Email_Security_Webinar_Series,2022-01-06,Webinar,Clicked,False,135,0
+CAMP_Renewal_Campaign_9021,CUST_0129,Renewal_Campaign,2022-08-22,Webinar,Registered,False,164,0
+CAMP_Q1_2024_Security_Awareness_4643,CUST_0129,Q1_2024_Security_Awareness,2024-07-11,Direct Mail,Clicked,False,441,0
+CAMP_Upsell_Enterprise_Features_2492,CUST_0129,Upsell_Enterprise_Features,2023-01-24,Direct Mail,Opened,True,355,0
+CAMP_New_Customer_Onboarding_5540,CUST_0129,New_Customer_Onboarding,2024-06-22,Email,No Response,True,472,0
+CAMP_Q3_2024_Compliance_Focus_3865,CUST_0130,Q3_2024_Compliance_Focus,2022-02-19,Phone,No Response,False,354,0
+CAMP_Archive_Upgrade_Campaign_7762,CUST_0130,Archive_Upgrade_Campaign,2022-03-22,Email,Opened,False,317,0
+CAMP_Q1_2024_Security_Awareness_4245,CUST_0131,Q1_2024_Security_Awareness,2022-12-19,LinkedIn,Opened,False,420,0
+CAMP_Renewal_Campaign_3856,CUST_0132,Renewal_Campaign,2022-06-02,Webinar,Opened,False,121,0
+CAMP_Q1_2024_Security_Awareness_8647,CUST_0133,Q1_2024_Security_Awareness,2022-03-27,Direct Mail,Opened,False,460,0
+CAMP_Email_Security_Webinar_Series_3199,CUST_0133,Email_Security_Webinar_Series,2022-03-29,Phone,Registered,True,485,0
+CAMP_Q3_2024_Compliance_Focus_2405,CUST_0134,Q3_2024_Compliance_Focus,2023-12-17,Webinar,No Response,False,90,0
+CAMP_Q1_2024_Security_Awareness_1634,CUST_0134,Q1_2024_Security_Awareness,2023-04-23,Email,Registered,False,350,0
+CAMP_New_Customer_Onboarding_1859,CUST_0135,New_Customer_Onboarding,2023-06-07,Email,Opened,False,483,3111
+CAMP_Upsell_Enterprise_Features_4370,CUST_0136,Upsell_Enterprise_Features,2023-04-26,Direct Mail,No Response,True,389,2582
+CAMP_Email_Security_Webinar_Series_4173,CUST_0136,Email_Security_Webinar_Series,2022-06-18,LinkedIn,Opened,False,360,4033
+CAMP_Threat_Intelligence_Demo_1072,CUST_0137,Threat_Intelligence_Demo,2022-08-24,Webinar,Clicked,False,493,0
+CAMP_New_Customer_Onboarding_8277,CUST_0137,New_Customer_Onboarding,2022-12-02,Email,Opened,False,466,0
+CAMP_Upsell_Enterprise_Features_7627,CUST_0137,Upsell_Enterprise_Features,2022-02-03,LinkedIn,Opened,False,478,0
+CAMP_Q1_2024_Security_Awareness_3345,CUST_0137,Q1_2024_Security_Awareness,2022-06-21,Webinar,Opened,False,223,0
+CAMP_Email_Security_Webinar_Series_3531,CUST_0137,Email_Security_Webinar_Series,2024-02-03,Direct Mail,Registered,False,197,0
+CAMP_Email_Security_Webinar_Series_7362,CUST_0138,Email_Security_Webinar_Series,2023-12-11,Webinar,No Response,False,89,3027
+CAMP_Archive_Upgrade_Campaign_2394,CUST_0139,Archive_Upgrade_Campaign,2023-04-29,Phone,Opened,False,381,0
+CAMP_New_Customer_Onboarding_8363,CUST_0139,New_Customer_Onboarding,2022-04-17,Phone,Clicked,False,168,2725
+CAMP_Q1_2024_Security_Awareness_7867,CUST_0139,Q1_2024_Security_Awareness,2024-04-10,Direct Mail,Clicked,True,141,0
+CAMP_Q2_2024_Feature_Launch_9969,CUST_0140,Q2_2024_Feature_Launch,2023-11-01,Email,No Response,False,186,0
+CAMP_Threat_Intelligence_Demo_1988,CUST_0141,Threat_Intelligence_Demo,2023-08-17,Direct Mail,Opened,False,254,0
+CAMP_Threat_Intelligence_Demo_1743,CUST_0142,Threat_Intelligence_Demo,2023-01-16,Direct Mail,Opened,False,173,0
+CAMP_Q2_2024_Feature_Launch_3705,CUST_0142,Q2_2024_Feature_Launch,2023-12-23,Direct Mail,Opened,False,379,0
+CAMP_Q3_2024_Compliance_Focus_2067,CUST_0142,Q3_2024_Compliance_Focus,2024-05-27,Direct Mail,Clicked,False,319,0
+CAMP_Q3_2024_Compliance_Focus_8962,CUST_0143,Q3_2024_Compliance_Focus,2023-09-18,Webinar,Clicked,False,484,0
+CAMP_Threat_Intelligence_Demo_9651,CUST_0144,Threat_Intelligence_Demo,2022-12-24,Webinar,Clicked,True,130,0
+CAMP_Archive_Upgrade_Campaign_9721,CUST_0145,Archive_Upgrade_Campaign,2022-09-25,Direct Mail,Registered,False,79,0
+CAMP_Email_Security_Webinar_Series_3320,CUST_0146,Email_Security_Webinar_Series,2022-12-04,Direct Mail,No Response,False,259,0
+CAMP_Archive_Upgrade_Campaign_4436,CUST_0146,Archive_Upgrade_Campaign,2023-01-20,Direct Mail,Opened,False,305,0
+CAMP_Upsell_Enterprise_Features_7433,CUST_0147,Upsell_Enterprise_Features,2023-10-27,Phone,Opened,False,323,0
+CAMP_New_Customer_Onboarding_2731,CUST_0148,New_Customer_Onboarding,2023-12-03,LinkedIn,No Response,False,103,0
+CAMP_Upsell_Enterprise_Features_1194,CUST_0148,Upsell_Enterprise_Features,2022-10-15,LinkedIn,Clicked,False,445,0
+CAMP_New_Customer_Onboarding_3845,CUST_0149,New_Customer_Onboarding,2024-01-06,Webinar,Clicked,False,304,1308
+CAMP_Renewal_Campaign_3743,CUST_0149,Renewal_Campaign,2022-11-30,LinkedIn,Registered,False,286,0
+CAMP_Upsell_Enterprise_Features_9669,CUST_0149,Upsell_Enterprise_Features,2023-11-03,Email,Clicked,False,86,0
+CAMP_Archive_Upgrade_Campaign_8301,CUST_0150,Archive_Upgrade_Campaign,2024-01-03,Direct Mail,No Response,False,407,0
+CAMP_Q2_2024_Feature_Launch_2691,CUST_0151,Q2_2024_Feature_Launch,2022-03-01,Phone,Clicked,False,62,0
+CAMP_Upsell_Enterprise_Features_3346,CUST_0152,Upsell_Enterprise_Features,2022-04-04,Direct Mail,No Response,False,52,0
+CAMP_Email_Security_Webinar_Series_9717,CUST_0152,Email_Security_Webinar_Series,2023-09-17,Phone,No Response,False,76,0
+CAMP_Archive_Upgrade_Campaign_8126,CUST_0152,Archive_Upgrade_Campaign,2022-12-22,Email,Opened,False,114,0
+CAMP_Renewal_Campaign_1743,CUST_0153,Renewal_Campaign,2022-03-25,Webinar,Clicked,False,342,0
+CAMP_Threat_Intelligence_Demo_6567,CUST_0154,Threat_Intelligence_Demo,2022-10-08,Email,Registered,False,250,745
+CAMP_Email_Security_Webinar_Series_6807,CUST_0154,Email_Security_Webinar_Series,2023-07-29,Email,Opened,True,141,0
+CAMP_Upsell_Enterprise_Features_4743,CUST_0155,Upsell_Enterprise_Features,2024-03-08,Email,No Response,False,164,0
+CAMP_New_Customer_Onboarding_5980,CUST_0155,New_Customer_Onboarding,2023-10-15,Email,Registered,False,463,0
+CAMP_Q3_2024_Compliance_Focus_6990,CUST_0155,Q3_2024_Compliance_Focus,2023-08-29,Phone,Clicked,False,447,0
+CAMP_Archive_Upgrade_Campaign_2463,CUST_0156,Archive_Upgrade_Campaign,2023-11-25,Direct Mail,Opened,True,85,0
+CAMP_Q2_2024_Feature_Launch_2896,CUST_0156,Q2_2024_Feature_Launch,2024-07-04,Email,No Response,False,371,0
+CAMP_Email_Security_Webinar_Series_5267,CUST_0157,Email_Security_Webinar_Series,2023-03-27,Email,No Response,True,286,0
+CAMP_Q1_2024_Security_Awareness_4771,CUST_0157,Q1_2024_Security_Awareness,2024-05-26,Direct Mail,Opened,False,410,0
+CAMP_Q3_2024_Compliance_Focus_1799,CUST_0157,Q3_2024_Compliance_Focus,2022-02-19,Phone,Opened,False,310,0
+CAMP_Renewal_Campaign_3959,CUST_0157,Renewal_Campaign,2024-06-29,Webinar,No Response,False,496,0
+CAMP_Archive_Upgrade_Campaign_3324,CUST_0157,Archive_Upgrade_Campaign,2024-01-26,Email,Clicked,False,294,0
+CAMP_New_Customer_Onboarding_7704,CUST_0157,New_Customer_Onboarding,2024-06-27,LinkedIn,No Response,True,66,0
+CAMP_New_Customer_Onboarding_4922,CUST_0158,New_Customer_Onboarding,2023-02-24,LinkedIn,Registered,False,209,0
+CAMP_Q3_2024_Compliance_Focus_7981,CUST_0159,Q3_2024_Compliance_Focus,2024-07-10,Webinar,Clicked,False,417,0
+CAMP_Email_Security_Webinar_Series_9334,CUST_0159,Email_Security_Webinar_Series,2024-04-20,LinkedIn,Clicked,False,213,3261
+CAMP_Upsell_Enterprise_Features_8413,CUST_0160,Upsell_Enterprise_Features,2022-11-06,Webinar,No Response,False,314,0
+CAMP_New_Customer_Onboarding_2549,CUST_0161,New_Customer_Onboarding,2024-06-06,Direct Mail,Registered,False,218,0
+CAMP_Upsell_Enterprise_Features_6257,CUST_0161,Upsell_Enterprise_Features,2023-05-20,Direct Mail,Clicked,False,455,0
+CAMP_Upsell_Enterprise_Features_4272,CUST_0162,Upsell_Enterprise_Features,2023-01-04,LinkedIn,No Response,False,375,0
+CAMP_Archive_Upgrade_Campaign_3333,CUST_0162,Archive_Upgrade_Campaign,2023-08-03,Direct Mail,Opened,False,99,0
+CAMP_Archive_Upgrade_Campaign_7581,CUST_0163,Archive_Upgrade_Campaign,2023-08-30,Email,Opened,False,374,0
+CAMP_Email_Security_Webinar_Series_3621,CUST_0163,Email_Security_Webinar_Series,2024-03-06,LinkedIn,Opened,False,232,3811
+CAMP_Threat_Intelligence_Demo_7963,CUST_0163,Threat_Intelligence_Demo,2022-06-06,Webinar,Clicked,False,240,0
+CAMP_Q2_2024_Feature_Launch_3421,CUST_0163,Q2_2024_Feature_Launch,2023-02-24,LinkedIn,Opened,False,478,0
+CAMP_Upsell_Enterprise_Features_5329,CUST_0164,Upsell_Enterprise_Features,2024-03-13,Webinar,No Response,False,218,0
+CAMP_Archive_Upgrade_Campaign_7767,CUST_0164,Archive_Upgrade_Campaign,2023-03-18,Phone,Opened,False,95,0
+CAMP_Q2_2024_Feature_Launch_6455,CUST_0166,Q2_2024_Feature_Launch,2022-01-21,Email,Clicked,False,410,0
+CAMP_Q3_2024_Compliance_Focus_1278,CUST_0166,Q3_2024_Compliance_Focus,2023-05-04,Direct Mail,Opened,False,400,0
+CAMP_Upsell_Enterprise_Features_7492,CUST_0166,Upsell_Enterprise_Features,2022-11-19,LinkedIn,Opened,False,84,0
+CAMP_Threat_Intelligence_Demo_6797,CUST_0166,Threat_Intelligence_Demo,2022-11-12,LinkedIn,Opened,False,410,0
+CAMP_New_Customer_Onboarding_6692,CUST_0167,New_Customer_Onboarding,2024-05-09,Phone,Clicked,False,397,4946
+CAMP_Email_Security_Webinar_Series_6685,CUST_0167,Email_Security_Webinar_Series,2023-01-04,Direct Mail,Clicked,False,428,0
+CAMP_Threat_Intelligence_Demo_8746,CUST_0167,Threat_Intelligence_Demo,2022-07-29,Phone,Clicked,True,255,0
+CAMP_Email_Security_Webinar_Series_6107,CUST_0168,Email_Security_Webinar_Series,2023-01-13,Webinar,Opened,True,209,0
+CAMP_Q2_2024_Feature_Launch_8442,CUST_0168,Q2_2024_Feature_Launch,2022-12-16,Phone,Clicked,False,388,0
+CAMP_Q3_2024_Compliance_Focus_1432,CUST_0168,Q3_2024_Compliance_Focus,2023-01-25,Email,No Response,False,242,0
+CAMP_Q1_2024_Security_Awareness_7195,CUST_0169,Q1_2024_Security_Awareness,2022-10-15,LinkedIn,Clicked,False,495,0
+CAMP_Email_Security_Webinar_Series_6053,CUST_0169,Email_Security_Webinar_Series,2022-06-28,Direct Mail,Opened,False,214,0
+CAMP_Q2_2024_Feature_Launch_3839,CUST_0169,Q2_2024_Feature_Launch,2024-04-04,Direct Mail,Opened,False,432,0
+CAMP_Archive_Upgrade_Campaign_4676,CUST_0169,Archive_Upgrade_Campaign,2023-05-31,Email,Opened,False,325,0
+CAMP_Threat_Intelligence_Demo_6005,CUST_0170,Threat_Intelligence_Demo,2022-02-11,Phone,Registered,False,413,0
+CAMP_Archive_Upgrade_Campaign_6121,CUST_0171,Archive_Upgrade_Campaign,2022-09-20,Phone,Opened,False,211,0
+CAMP_Q2_2024_Feature_Launch_4597,CUST_0171,Q2_2024_Feature_Launch,2023-07-12,Email,Opened,True,296,0
+CAMP_Q3_2024_Compliance_Focus_1049,CUST_0171,Q3_2024_Compliance_Focus,2024-04-07,Direct Mail,No Response,False,480,0
+CAMP_Upsell_Enterprise_Features_2392,CUST_0172,Upsell_Enterprise_Features,2022-03-26,LinkedIn,Opened,False,194,0
+CAMP_Email_Security_Webinar_Series_4720,CUST_0172,Email_Security_Webinar_Series,2022-03-31,LinkedIn,Opened,True,370,0
+CAMP_Q1_2024_Security_Awareness_3940,CUST_0173,Q1_2024_Security_Awareness,2022-10-18,Direct Mail,Opened,True,257,4306
+CAMP_Upsell_Enterprise_Features_3064,CUST_0174,Upsell_Enterprise_Features,2022-08-05,Webinar,Clicked,False,169,0
+CAMP_Renewal_Campaign_4618,CUST_0174,Renewal_Campaign,2022-12-15,Phone,Clicked,False,137,0
+CAMP_Q2_2024_Feature_Launch_3142,CUST_0175,Q2_2024_Feature_Launch,2022-05-07,Phone,Registered,False,105,4360
+CAMP_New_Customer_Onboarding_6030,CUST_0175,New_Customer_Onboarding,2022-10-12,LinkedIn,Clicked,True,127,0
+CAMP_Email_Security_Webinar_Series_3616,CUST_0175,Email_Security_Webinar_Series,2022-11-25,Direct Mail,Opened,False,199,0
+CAMP_Archive_Upgrade_Campaign_4891,CUST_0176,Archive_Upgrade_Campaign,2023-10-13,Direct Mail,Clicked,False,89,1619
+CAMP_Q3_2024_Compliance_Focus_9997,CUST_0177,Q3_2024_Compliance_Focus,2024-05-09,Phone,No Response,False,486,0
+CAMP_New_Customer_Onboarding_2924,CUST_0177,New_Customer_Onboarding,2023-10-16,Email,Opened,True,178,0
+CAMP_Email_Security_Webinar_Series_2881,CUST_0177,Email_Security_Webinar_Series,2023-03-26,Email,Opened,False,430,0
+CAMP_Q1_2024_Security_Awareness_7482,CUST_0178,Q1_2024_Security_Awareness,2023-09-09,Email,Registered,False,407,0
+CAMP_New_Customer_Onboarding_1884,CUST_0178,New_Customer_Onboarding,2024-07-10,Phone,Opened,False,368,0
+CAMP_Q2_2024_Feature_Launch_2034,CUST_0178,Q2_2024_Feature_Launch,2022-01-03,Webinar,No Response,False,397,2734
+CAMP_Email_Security_Webinar_Series_2776,CUST_0178,Email_Security_Webinar_Series,2023-12-15,Phone,Registered,False,360,0
+CAMP_Q2_2024_Feature_Launch_8130,CUST_0180,Q2_2024_Feature_Launch,2023-08-29,Phone,Opened,False,194,0
+CAMP_Archive_Upgrade_Campaign_9507,CUST_0180,Archive_Upgrade_Campaign,2023-05-30,Phone,Registered,False,97,0
+CAMP_Archive_Upgrade_Campaign_8042,CUST_0181,Archive_Upgrade_Campaign,2022-02-03,Direct Mail,Clicked,False,483,0
+CAMP_Threat_Intelligence_Demo_6660,CUST_0181,Threat_Intelligence_Demo,2023-06-06,Webinar,Clicked,False,467,0
+CAMP_Archive_Upgrade_Campaign_7998,CUST_0182,Archive_Upgrade_Campaign,2024-01-01,Email,Registered,False,69,3056
+CAMP_Q2_2024_Feature_Launch_2607,CUST_0183,Q2_2024_Feature_Launch,2023-04-01,Webinar,Opened,False,82,0
+CAMP_Email_Security_Webinar_Series_5060,CUST_0183,Email_Security_Webinar_Series,2022-11-19,Phone,Registered,False,390,0
+CAMP_Upsell_Enterprise_Features_8684,CUST_0183,Upsell_Enterprise_Features,2023-02-02,Direct Mail,No Response,False,292,0
+CAMP_Upsell_Enterprise_Features_7785,CUST_0184,Upsell_Enterprise_Features,2024-07-31,Email,Opened,True,114,3243
+CAMP_Email_Security_Webinar_Series_8789,CUST_0185,Email_Security_Webinar_Series,2022-04-28,Phone,No Response,False,453,0
+CAMP_Upsell_Enterprise_Features_5866,CUST_0187,Upsell_Enterprise_Features,2022-03-19,Direct Mail,Opened,False,110,0
+CAMP_Q1_2024_Security_Awareness_3807,CUST_0188,Q1_2024_Security_Awareness,2024-01-27,LinkedIn,Registered,False,313,0
+CAMP_Archive_Upgrade_Campaign_5683,CUST_0189,Archive_Upgrade_Campaign,2022-10-27,Direct Mail,Clicked,False,472,0
+CAMP_Upsell_Enterprise_Features_9645,CUST_0189,Upsell_Enterprise_Features,2023-04-05,Webinar,Clicked,False,494,0
+CAMP_Email_Security_Webinar_Series_5118,CUST_0190,Email_Security_Webinar_Series,2024-03-26,Webinar,Opened,False,256,2190
+CAMP_Threat_Intelligence_Demo_1836,CUST_0190,Threat_Intelligence_Demo,2024-02-29,Email,Opened,True,354,1683
+CAMP_Upsell_Enterprise_Features_2373,CUST_0191,Upsell_Enterprise_Features,2023-09-25,Direct Mail,Clicked,False,143,0
+CAMP_Renewal_Campaign_2001,CUST_0191,Renewal_Campaign,2022-07-15,Phone,Registered,True,164,0
+CAMP_Archive_Upgrade_Campaign_2722,CUST_0192,Archive_Upgrade_Campaign,2023-03-13,Email,Opened,False,433,0
+CAMP_Email_Security_Webinar_Series_6725,CUST_0192,Email_Security_Webinar_Series,2023-07-08,Direct Mail,Opened,False,222,0
+CAMP_Renewal_Campaign_1844,CUST_0193,Renewal_Campaign,2022-12-06,Email,Opened,False,353,3610
+CAMP_Renewal_Campaign_8856,CUST_0194,Renewal_Campaign,2023-01-12,Phone,Opened,False,438,0
+CAMP_Threat_Intelligence_Demo_1201,CUST_0195,Threat_Intelligence_Demo,2022-09-26,Webinar,Opened,False,352,0
+CAMP_New_Customer_Onboarding_5020,CUST_0195,New_Customer_Onboarding,2023-06-23,LinkedIn,Opened,False,361,0
+CAMP_Renewal_Campaign_2706,CUST_0195,Renewal_Campaign,2024-07-10,Webinar,Clicked,True,489,583
+CAMP_Q2_2024_Feature_Launch_3819,CUST_0195,Q2_2024_Feature_Launch,2022-12-23,Phone,Opened,True,421,3417
+CAMP_Q3_2024_Compliance_Focus_9834,CUST_0196,Q3_2024_Compliance_Focus,2022-04-08,Email,Registered,False,217,0
+CAMP_Upsell_Enterprise_Features_7962,CUST_0196,Upsell_Enterprise_Features,2023-12-29,Email,Registered,False,74,0
+CAMP_Email_Security_Webinar_Series_6912,CUST_0196,Email_Security_Webinar_Series,2024-03-08,Email,Clicked,True,278,0
+CAMP_Threat_Intelligence_Demo_3788,CUST_0196,Threat_Intelligence_Demo,2024-06-12,Email,Clicked,False,465,0
+CAMP_Q2_2024_Feature_Launch_3585,CUST_0196,Q2_2024_Feature_Launch,2023-12-21,Phone,No Response,False,50,0
+CAMP_Q1_2024_Security_Awareness_6599,CUST_0197,Q1_2024_Security_Awareness,2022-08-09,LinkedIn,Opened,True,423,0
+CAMP_Archive_Upgrade_Campaign_8015,CUST_0197,Archive_Upgrade_Campaign,2024-06-09,Direct Mail,Clicked,False,486,0
+CAMP_New_Customer_Onboarding_5540,CUST_0197,New_Customer_Onboarding,2022-10-20,Email,Opened,False,338,0
+CAMP_Q3_2024_Compliance_Focus_6812,CUST_0198,Q3_2024_Compliance_Focus,2023-03-30,LinkedIn,Opened,True,476,0
+CAMP_Archive_Upgrade_Campaign_2500,CUST_0198,Archive_Upgrade_Campaign,2022-08-31,Phone,Registered,True,500,0
+CAMP_Upsell_Enterprise_Features_5978,CUST_0198,Upsell_Enterprise_Features,2023-01-18,Email,Opened,False,284,0
+CAMP_Archive_Upgrade_Campaign_4117,CUST_0200,Archive_Upgrade_Campaign,2023-12-13,Phone,No Response,False,477,0
+CAMP_Archive_Upgrade_Campaign_7267,CUST_0201,Archive_Upgrade_Campaign,2023-02-24,Phone,Clicked,False,302,0
+CAMP_Email_Security_Webinar_Series_4544,CUST_0201,Email_Security_Webinar_Series,2022-04-23,Phone,Opened,False,442,0
+CAMP_Q2_2024_Feature_Launch_6522,CUST_0201,Q2_2024_Feature_Launch,2023-09-27,Direct Mail,Opened,False,214,0
+CAMP_Upsell_Enterprise_Features_5899,CUST_0202,Upsell_Enterprise_Features,2023-12-14,Webinar,Clicked,True,347,0
+CAMP_Email_Security_Webinar_Series_5777,CUST_0203,Email_Security_Webinar_Series,2022-01-27,Webinar,Opened,False,168,757
+CAMP_Q3_2024_Compliance_Focus_6826,CUST_0204,Q3_2024_Compliance_Focus,2022-04-22,Direct Mail,No Response,True,292,0
+CAMP_Q3_2024_Compliance_Focus_6329,CUST_0205,Q3_2024_Compliance_Focus,2022-08-03,Phone,Clicked,False,89,0
+CAMP_Threat_Intelligence_Demo_5491,CUST_0206,Threat_Intelligence_Demo,2024-07-26,LinkedIn,Registered,False,66,0
+CAMP_Q3_2024_Compliance_Focus_7438,CUST_0206,Q3_2024_Compliance_Focus,2022-03-14,LinkedIn,Registered,False,389,0
+CAMP_New_Customer_Onboarding_6935,CUST_0207,New_Customer_Onboarding,2024-07-01,LinkedIn,No Response,False,314,0
+CAMP_Threat_Intelligence_Demo_3460,CUST_0207,Threat_Intelligence_Demo,2023-01-09,Direct Mail,Clicked,True,189,0
+CAMP_Q2_2024_Feature_Launch_8774,CUST_0207,Q2_2024_Feature_Launch,2023-11-26,Webinar,Registered,True,394,4844
+CAMP_Q3_2024_Compliance_Focus_9959,CUST_0207,Q3_2024_Compliance_Focus,2023-04-08,Webinar,Opened,False,329,3235
+CAMP_New_Customer_Onboarding_3905,CUST_0208,New_Customer_Onboarding,2022-05-15,LinkedIn,Registered,False,191,1506
+CAMP_Upsell_Enterprise_Features_7501,CUST_0208,Upsell_Enterprise_Features,2022-02-12,Webinar,No Response,False,213,0
+CAMP_Renewal_Campaign_3499,CUST_0209,Renewal_Campaign,2024-06-11,Email,Opened,False,94,0
+CAMP_Q1_2024_Security_Awareness_9986,CUST_0210,Q1_2024_Security_Awareness,2022-12-30,LinkedIn,Clicked,False,63,0
+CAMP_Q3_2024_Compliance_Focus_7094,CUST_0211,Q3_2024_Compliance_Focus,2022-07-27,Phone,No Response,False,363,0
+CAMP_Q2_2024_Feature_Launch_2338,CUST_0211,Q2_2024_Feature_Launch,2024-06-18,Direct Mail,Opened,False,272,714
+CAMP_Upsell_Enterprise_Features_9793,CUST_0211,Upsell_Enterprise_Features,2024-07-11,Phone,Clicked,False,218,0
+CAMP_Renewal_Campaign_7749,CUST_0212,Renewal_Campaign,2023-06-04,Webinar,Opened,False,66,3840
+CAMP_Email_Security_Webinar_Series_4290,CUST_0212,Email_Security_Webinar_Series,2022-02-19,Email,Clicked,False,203,0
+CAMP_Archive_Upgrade_Campaign_2793,CUST_0213,Archive_Upgrade_Campaign,2022-03-30,Email,Opened,False,54,0
+CAMP_Q2_2024_Feature_Launch_4388,CUST_0213,Q2_2024_Feature_Launch,2023-07-21,Phone,Opened,False,432,0
+CAMP_New_Customer_Onboarding_3932,CUST_0214,New_Customer_Onboarding,2022-07-19,LinkedIn,Clicked,True,384,0
+CAMP_Q2_2024_Feature_Launch_5091,CUST_0214,Q2_2024_Feature_Launch,2024-04-02,Phone,Opened,True,136,437
+CAMP_Upsell_Enterprise_Features_4355,CUST_0214,Upsell_Enterprise_Features,2023-12-05,Email,No Response,False,294,0
+CAMP_Email_Security_Webinar_Series_7501,CUST_0214,Email_Security_Webinar_Series,2023-12-26,Webinar,Clicked,False,493,0
+CAMP_Archive_Upgrade_Campaign_4610,CUST_0215,Archive_Upgrade_Campaign,2023-09-14,Phone,Opened,False,280,0
+CAMP_New_Customer_Onboarding_6479,CUST_0215,New_Customer_Onboarding,2022-10-30,Direct Mail,No Response,True,426,0
+CAMP_Q2_2024_Feature_Launch_2630,CUST_0216,Q2_2024_Feature_Launch,2023-07-15,Email,No Response,False,262,0
+CAMP_Upsell_Enterprise_Features_9449,CUST_0216,Upsell_Enterprise_Features,2024-04-10,Phone,No Response,False,239,0
+CAMP_Email_Security_Webinar_Series_4886,CUST_0217,Email_Security_Webinar_Series,2022-04-28,Direct Mail,Clicked,False,497,0
+CAMP_Archive_Upgrade_Campaign_7493,CUST_0217,Archive_Upgrade_Campaign,2023-12-16,Phone,Clicked,False,317,0
+CAMP_New_Customer_Onboarding_5200,CUST_0218,New_Customer_Onboarding,2024-02-29,Webinar,Registered,False,433,0
+CAMP_Threat_Intelligence_Demo_7432,CUST_0219,Threat_Intelligence_Demo,2023-08-26,Webinar,Opened,False,252,0
+CAMP_Q3_2024_Compliance_Focus_8539,CUST_0220,Q3_2024_Compliance_Focus,2022-07-27,LinkedIn,Clicked,False,445,0
+CAMP_Renewal_Campaign_1494,CUST_0221,Renewal_Campaign,2024-01-12,LinkedIn,No Response,True,88,0
+CAMP_Q1_2024_Security_Awareness_5970,CUST_0221,Q1_2024_Security_Awareness,2022-11-06,Webinar,Clicked,False,158,957
+CAMP_Q3_2024_Compliance_Focus_9909,CUST_0221,Q3_2024_Compliance_Focus,2024-02-21,Direct Mail,Opened,True,429,0
+CAMP_Threat_Intelligence_Demo_1798,CUST_0222,Threat_Intelligence_Demo,2022-08-17,Email,Opened,False,351,0
+CAMP_Upsell_Enterprise_Features_8226,CUST_0223,Upsell_Enterprise_Features,2024-07-20,Webinar,Clicked,True,354,0
+CAMP_New_Customer_Onboarding_2859,CUST_0223,New_Customer_Onboarding,2024-03-31,Email,Opened,True,239,0
+CAMP_Renewal_Campaign_5293,CUST_0223,Renewal_Campaign,2022-04-07,LinkedIn,Opened,False,305,0
+CAMP_Email_Security_Webinar_Series_8897,CUST_0225,Email_Security_Webinar_Series,2024-07-21,Email,No Response,False,298,0
+CAMP_Q1_2024_Security_Awareness_3324,CUST_0226,Q1_2024_Security_Awareness,2023-03-19,Webinar,Opened,False,134,0
+CAMP_Renewal_Campaign_4684,CUST_0226,Renewal_Campaign,2022-10-29,Email,Opened,False,346,0
+CAMP_Q2_2024_Feature_Launch_8019,CUST_0227,Q2_2024_Feature_Launch,2023-04-07,Phone,Opened,False,94,183
+CAMP_Q1_2024_Security_Awareness_6932,CUST_0228,Q1_2024_Security_Awareness,2022-05-19,LinkedIn,No Response,False,437,0
+CAMP_New_Customer_Onboarding_9484,CUST_0228,New_Customer_Onboarding,2023-05-14,Phone,Registered,False,350,2636
+CAMP_Q2_2024_Feature_Launch_4943,CUST_0228,Q2_2024_Feature_Launch,2023-08-11,LinkedIn,Registered,False,465,0
+CAMP_Upsell_Enterprise_Features_7402,CUST_0229,Upsell_Enterprise_Features,2022-06-16,Email,Opened,False,372,0
+CAMP_New_Customer_Onboarding_3643,CUST_0229,New_Customer_Onboarding,2022-06-26,LinkedIn,Opened,False,407,0
+CAMP_Q3_2024_Compliance_Focus_3955,CUST_0229,Q3_2024_Compliance_Focus,2024-04-20,Email,Opened,False,369,3263
+CAMP_Q2_2024_Feature_Launch_7637,CUST_0231,Q2_2024_Feature_Launch,2022-10-29,Direct Mail,Clicked,False,440,0
+CAMP_Threat_Intelligence_Demo_3725,CUST_0232,Threat_Intelligence_Demo,2024-07-19,LinkedIn,Clicked,False,149,0
+CAMP_Q3_2024_Compliance_Focus_7683,CUST_0232,Q3_2024_Compliance_Focus,2022-06-13,LinkedIn,Opened,False,173,0
+CAMP_New_Customer_Onboarding_1753,CUST_0233,New_Customer_Onboarding,2023-05-16,Phone,Opened,False,380,0
+CAMP_Q2_2024_Feature_Launch_2150,CUST_0233,Q2_2024_Feature_Launch,2024-01-14,Phone,Opened,False,247,0
+CAMP_New_Customer_Onboarding_9756,CUST_0234,New_Customer_Onboarding,2024-01-16,Email,Opened,False,194,0
+CAMP_Archive_Upgrade_Campaign_9397,CUST_0234,Archive_Upgrade_Campaign,2023-08-06,Email,Opened,False,474,0
+CAMP_Q3_2024_Compliance_Focus_2350,CUST_0235,Q3_2024_Compliance_Focus,2022-02-19,LinkedIn,Registered,True,421,0
+CAMP_Q2_2024_Feature_Launch_7885,CUST_0235,Q2_2024_Feature_Launch,2022-08-22,Phone,Clicked,True,356,0
+CAMP_Q2_2024_Feature_Launch_6575,CUST_0236,Q2_2024_Feature_Launch,2023-08-30,Webinar,No Response,False,453,0
+CAMP_Archive_Upgrade_Campaign_4397,CUST_0236,Archive_Upgrade_Campaign,2022-05-30,Phone,Opened,False,483,0
+CAMP_Email_Security_Webinar_Series_4420,CUST_0236,Email_Security_Webinar_Series,2023-02-14,LinkedIn,No Response,False,452,0
+CAMP_Upsell_Enterprise_Features_9879,CUST_0236,Upsell_Enterprise_Features,2023-10-27,Direct Mail,Registered,False,256,0
+CAMP_Archive_Upgrade_Campaign_9301,CUST_0237,Archive_Upgrade_Campaign,2023-06-07,Direct Mail,Registered,False,468,0
+CAMP_New_Customer_Onboarding_6032,CUST_0237,New_Customer_Onboarding,2022-07-02,LinkedIn,Registered,False,457,0
+CAMP_Q1_2024_Security_Awareness_5821,CUST_0237,Q1_2024_Security_Awareness,2022-08-11,Webinar,No Response,False,484,0
+CAMP_Renewal_Campaign_1571,CUST_0238,Renewal_Campaign,2024-05-12,Email,No Response,False,135,0
+CAMP_Archive_Upgrade_Campaign_3541,CUST_0238,Archive_Upgrade_Campaign,2022-05-14,Email,Opened,False,381,0
+CAMP_Upsell_Enterprise_Features_3072,CUST_0238,Upsell_Enterprise_Features,2023-01-16,Email,Opened,False,410,973
+CAMP_New_Customer_Onboarding_2717,CUST_0238,New_Customer_Onboarding,2023-11-20,Phone,No Response,False,198,1464
+CAMP_Archive_Upgrade_Campaign_5552,CUST_0239,Archive_Upgrade_Campaign,2024-03-13,Email,Clicked,False,386,0
+CAMP_Q2_2024_Feature_Launch_8909,CUST_0239,Q2_2024_Feature_Launch,2022-08-11,LinkedIn,Opened,True,249,0
+CAMP_Email_Security_Webinar_Series_5068,CUST_0239,Email_Security_Webinar_Series,2022-08-16,Direct Mail,Registered,False,413,0
+CAMP_Renewal_Campaign_3790,CUST_0239,Renewal_Campaign,2022-09-23,Email,Clicked,False,132,0
+CAMP_Q1_2024_Security_Awareness_3700,CUST_0240,Q1_2024_Security_Awareness,2023-12-04,Email,Opened,False,281,0
+CAMP_Upsell_Enterprise_Features_5781,CUST_0240,Upsell_Enterprise_Features,2023-05-15,Webinar,Clicked,True,351,0
+CAMP_Threat_Intelligence_Demo_5144,CUST_0243,Threat_Intelligence_Demo,2023-12-06,Phone,Opened,False,493,2384
+CAMP_Archive_Upgrade_Campaign_4708,CUST_0243,Archive_Upgrade_Campaign,2023-01-11,Email,Clicked,False,64,0
+CAMP_Q3_2024_Compliance_Focus_7037,CUST_0243,Q3_2024_Compliance_Focus,2024-03-22,Webinar,Registered,False,118,0
+CAMP_New_Customer_Onboarding_4192,CUST_0244,New_Customer_Onboarding,2022-06-04,Direct Mail,Registered,False,360,0
+CAMP_Renewal_Campaign_8436,CUST_0245,Renewal_Campaign,2022-12-09,Direct Mail,Registered,True,110,0
+CAMP_Q2_2024_Feature_Launch_4876,CUST_0245,Q2_2024_Feature_Launch,2023-07-14,Email,Opened,False,202,0
+CAMP_Upsell_Enterprise_Features_8135,CUST_0245,Upsell_Enterprise_Features,2024-05-13,Phone,No Response,True,103,0
+CAMP_New_Customer_Onboarding_7002,CUST_0246,New_Customer_Onboarding,2023-03-23,Direct Mail,Opened,True,191,0
+CAMP_Q2_2024_Feature_Launch_9620,CUST_0246,Q2_2024_Feature_Launch,2022-01-05,Webinar,Opened,False,125,0
+CAMP_Archive_Upgrade_Campaign_8737,CUST_0247,Archive_Upgrade_Campaign,2024-04-20,Email,Clicked,True,157,0
+CAMP_Q3_2024_Compliance_Focus_3270,CUST_0248,Q3_2024_Compliance_Focus,2022-10-02,Direct Mail,Clicked,False,263,0
+CAMP_Renewal_Campaign_1418,CUST_0248,Renewal_Campaign,2023-06-15,Webinar,No Response,False,160,0
+CAMP_Upsell_Enterprise_Features_6402,CUST_0248,Upsell_Enterprise_Features,2023-06-11,Phone,Registered,False,393,0
+CAMP_Threat_Intelligence_Demo_3264,CUST_0249,Threat_Intelligence_Demo,2023-05-23,LinkedIn,Opened,False,329,0
+CAMP_Renewal_Campaign_3594,CUST_0249,Renewal_Campaign,2022-11-10,Direct Mail,Clicked,False,266,551
+CAMP_Email_Security_Webinar_Series_4710,CUST_0249,Email_Security_Webinar_Series,2023-04-28,Direct Mail,Opened,False,240,4296
+CAMP_Renewal_Campaign_7945,CUST_0250,Renewal_Campaign,2023-01-28,LinkedIn,Clicked,False,279,0
+CAMP_Threat_Intelligence_Demo_6326,CUST_0250,Threat_Intelligence_Demo,2022-01-12,Direct Mail,Opened,False,328,749
+CAMP_Q3_2024_Compliance_Focus_7915,CUST_0250,Q3_2024_Compliance_Focus,2024-01-29,Direct Mail,Opened,True,377,940
+CAMP_Archive_Upgrade_Campaign_9095,CUST_0250,Archive_Upgrade_Campaign,2022-06-18,Phone,Clicked,False,432,0
+CAMP_Threat_Intelligence_Demo_7462,CUST_0251,Threat_Intelligence_Demo,2024-07-26,Direct Mail,Registered,False,317,0
+CAMP_Threat_Intelligence_Demo_9107,CUST_0252,Threat_Intelligence_Demo,2023-04-30,Direct Mail,Clicked,False,462,0
+CAMP_Q3_2024_Compliance_Focus_1472,CUST_0252,Q3_2024_Compliance_Focus,2023-01-26,LinkedIn,Registered,False,422,0
+CAMP_Q1_2024_Security_Awareness_4434,CUST_0252,Q1_2024_Security_Awareness,2023-03-04,Phone,Clicked,True,416,0
+CAMP_Upsell_Enterprise_Features_3960,CUST_0253,Upsell_Enterprise_Features,2023-05-26,Direct Mail,Opened,False,123,0
+CAMP_Archive_Upgrade_Campaign_5628,CUST_0253,Archive_Upgrade_Campaign,2023-05-13,Email,Opened,False,239,0
+CAMP_Upsell_Enterprise_Features_4162,CUST_0254,Upsell_Enterprise_Features,2023-02-01,Phone,Opened,False,85,1382
+CAMP_Email_Security_Webinar_Series_4889,CUST_0254,Email_Security_Webinar_Series,2024-02-26,Direct Mail,Clicked,False,153,1884
+CAMP_Renewal_Campaign_9175,CUST_0255,Renewal_Campaign,2022-07-03,Webinar,No Response,False,89,0
+CAMP_Threat_Intelligence_Demo_8537,CUST_0255,Threat_Intelligence_Demo,2024-01-18,LinkedIn,Opened,False,145,0
+CAMP_Q1_2024_Security_Awareness_4045,CUST_0256,Q1_2024_Security_Awareness,2022-06-19,LinkedIn,Registered,True,278,0
+CAMP_Q2_2024_Feature_Launch_4130,CUST_0256,Q2_2024_Feature_Launch,2024-06-16,Webinar,Opened,True,117,0
+CAMP_Q3_2024_Compliance_Focus_7992,CUST_0256,Q3_2024_Compliance_Focus,2022-08-30,Webinar,No Response,False,142,0
+CAMP_Threat_Intelligence_Demo_5566,CUST_0256,Threat_Intelligence_Demo,2024-03-12,Phone,Clicked,False,55,0
+CAMP_Email_Security_Webinar_Series_3768,CUST_0257,Email_Security_Webinar_Series,2022-06-09,Email,Clicked,False,452,0
+CAMP_Renewal_Campaign_9845,CUST_0257,Renewal_Campaign,2022-11-12,Direct Mail,Opened,False,112,1587
+CAMP_Upsell_Enterprise_Features_3044,CUST_0258,Upsell_Enterprise_Features,2023-05-28,LinkedIn,Registered,False,473,0
+CAMP_Q2_2024_Feature_Launch_4533,CUST_0258,Q2_2024_Feature_Launch,2023-11-01,Phone,Clicked,False,304,0
+CAMP_Q1_2024_Security_Awareness_6582,CUST_0259,Q1_2024_Security_Awareness,2022-02-12,LinkedIn,Opened,False,321,0
+CAMP_Q3_2024_Compliance_Focus_7369,CUST_0259,Q3_2024_Compliance_Focus,2022-09-22,Webinar,Clicked,False,262,0
+CAMP_Upsell_Enterprise_Features_5664,CUST_0259,Upsell_Enterprise_Features,2022-02-24,Webinar,Clicked,True,322,0
+CAMP_New_Customer_Onboarding_4683,CUST_0259,New_Customer_Onboarding,2023-07-27,Phone,Clicked,False,86,0
+CAMP_Archive_Upgrade_Campaign_9475,CUST_0260,Archive_Upgrade_Campaign,2022-12-21,Webinar,Opened,False,436,0
+CAMP_Email_Security_Webinar_Series_9620,CUST_0260,Email_Security_Webinar_Series,2022-04-14,Email,Registered,False,404,0
+CAMP_New_Customer_Onboarding_9424,CUST_0260,New_Customer_Onboarding,2022-06-15,LinkedIn,Opened,False,169,0
+CAMP_Q3_2024_Compliance_Focus_1550,CUST_0260,Q3_2024_Compliance_Focus,2022-06-10,Email,Opened,False,135,0
+CAMP_Renewal_Campaign_1569,CUST_0260,Renewal_Campaign,2024-02-07,Direct Mail,Opened,False,463,0
+CAMP_New_Customer_Onboarding_1644,CUST_0261,New_Customer_Onboarding,2023-12-12,Phone,Registered,True,179,0
+CAMP_Threat_Intelligence_Demo_8642,CUST_0262,Threat_Intelligence_Demo,2024-01-12,Phone,Opened,False,373,0
+CAMP_Upsell_Enterprise_Features_7707,CUST_0263,Upsell_Enterprise_Features,2023-11-09,Webinar,Opened,True,445,0
+CAMP_Archive_Upgrade_Campaign_6590,CUST_0264,Archive_Upgrade_Campaign,2024-02-23,Webinar,Clicked,False,185,0
+CAMP_Q2_2024_Feature_Launch_2434,CUST_0264,Q2_2024_Feature_Launch,2022-11-08,Email,Opened,True,357,0
+CAMP_Threat_Intelligence_Demo_9687,CUST_0264,Threat_Intelligence_Demo,2023-12-25,Webinar,Registered,False,432,0
+CAMP_Upsell_Enterprise_Features_8680,CUST_0264,Upsell_Enterprise_Features,2024-07-27,Phone,Opened,False,76,0
+CAMP_Q1_2024_Security_Awareness_9587,CUST_0264,Q1_2024_Security_Awareness,2023-02-10,Webinar,Clicked,True,222,0
+CAMP_Email_Security_Webinar_Series_1445,CUST_0265,Email_Security_Webinar_Series,2024-02-21,Email,Opened,False,88,0
+CAMP_New_Customer_Onboarding_5163,CUST_0265,New_Customer_Onboarding,2023-12-07,Email,No Response,False,181,0
+CAMP_Q3_2024_Compliance_Focus_7119,CUST_0266,Q3_2024_Compliance_Focus,2023-01-21,Direct Mail,Opened,True,117,0
+CAMP_Q1_2024_Security_Awareness_5127,CUST_0266,Q1_2024_Security_Awareness,2022-07-16,LinkedIn,Opened,False,99,0
+CAMP_Email_Security_Webinar_Series_9887,CUST_0266,Email_Security_Webinar_Series,2022-04-21,LinkedIn,Opened,False,319,0
+CAMP_Renewal_Campaign_8708,CUST_0267,Renewal_Campaign,2022-03-07,Email,Registered,False,59,0
+CAMP_Q2_2024_Feature_Launch_2710,CUST_0268,Q2_2024_Feature_Launch,2022-02-16,Webinar,Registered,False,469,0
+CAMP_Archive_Upgrade_Campaign_6541,CUST_0268,Archive_Upgrade_Campaign,2023-09-21,LinkedIn,Clicked,False,255,0
+CAMP_Email_Security_Webinar_Series_6159,CUST_0268,Email_Security_Webinar_Series,2022-03-09,Webinar,No Response,False,111,0
+CAMP_New_Customer_Onboarding_8242,CUST_0269,New_Customer_Onboarding,2022-10-30,Webinar,Clicked,False,196,0
+CAMP_Upsell_Enterprise_Features_2270,CUST_0269,Upsell_Enterprise_Features,2024-01-15,Email,Registered,False,60,0
+CAMP_Q1_2024_Security_Awareness_6110,CUST_0269,Q1_2024_Security_Awareness,2022-12-22,Phone,Clicked,True,290,0
+CAMP_Q1_2024_Security_Awareness_4539,CUST_0270,Q1_2024_Security_Awareness,2024-05-30,Phone,Opened,False,328,4019
+CAMP_Q3_2024_Compliance_Focus_5088,CUST_0270,Q3_2024_Compliance_Focus,2023-09-03,Webinar,No Response,False,384,409
+CAMP_Q2_2024_Feature_Launch_2439,CUST_0270,Q2_2024_Feature_Launch,2024-03-26,Direct Mail,No Response,True,354,0
+CAMP_Threat_Intelligence_Demo_7762,CUST_0270,Threat_Intelligence_Demo,2022-02-04,LinkedIn,No Response,False,138,0
+CAMP_Archive_Upgrade_Campaign_2336,CUST_0270,Archive_Upgrade_Campaign,2022-07-21,Direct Mail,Registered,False,173,0
+CAMP_Upsell_Enterprise_Features_8391,CUST_0270,Upsell_Enterprise_Features,2022-09-30,Phone,Opened,False,130,0
+CAMP_Renewal_Campaign_4989,CUST_0270,Renewal_Campaign,2023-08-24,Webinar,Opened,True,385,0
+CAMP_Email_Security_Webinar_Series_3202,CUST_0270,Email_Security_Webinar_Series,2022-04-13,Direct Mail,Clicked,False,448,0
+CAMP_Q2_2024_Feature_Launch_7402,CUST_0271,Q2_2024_Feature_Launch,2023-07-08,Email,Opened,True,397,0
+CAMP_Threat_Intelligence_Demo_2011,CUST_0271,Threat_Intelligence_Demo,2023-10-07,Direct Mail,Opened,False,137,0
+CAMP_Email_Security_Webinar_Series_4611,CUST_0271,Email_Security_Webinar_Series,2022-11-19,Email,Opened,False,354,0
+CAMP_Renewal_Campaign_4369,CUST_0271,Renewal_Campaign,2024-04-12,LinkedIn,Clicked,True,219,0
+CAMP_Threat_Intelligence_Demo_3078,CUST_0272,Threat_Intelligence_Demo,2023-02-14,LinkedIn,Clicked,False,380,0
+CAMP_Email_Security_Webinar_Series_9353,CUST_0272,Email_Security_Webinar_Series,2022-07-11,Direct Mail,No Response,False,404,0
+CAMP_Archive_Upgrade_Campaign_9266,CUST_0272,Archive_Upgrade_Campaign,2024-06-28,Webinar,Opened,True,301,4392
+CAMP_Renewal_Campaign_7781,CUST_0273,Renewal_Campaign,2022-05-04,Direct Mail,No Response,False,441,0
+CAMP_Q2_2024_Feature_Launch_4819,CUST_0273,Q2_2024_Feature_Launch,2024-04-05,Webinar,Clicked,False,143,1485
+CAMP_Archive_Upgrade_Campaign_4442,CUST_0273,Archive_Upgrade_Campaign,2023-07-11,Direct Mail,Opened,False,262,0
+CAMP_Threat_Intelligence_Demo_9733,CUST_0274,Threat_Intelligence_Demo,2023-12-27,Phone,Registered,False,441,0
+CAMP_Q1_2024_Security_Awareness_5523,CUST_0274,Q1_2024_Security_Awareness,2024-02-07,Email,Clicked,False,93,0
+CAMP_Q2_2024_Feature_Launch_5696,CUST_0274,Q2_2024_Feature_Launch,2022-12-24,Phone,Clicked,False,367,0
+CAMP_Upsell_Enterprise_Features_9661,CUST_0275,Upsell_Enterprise_Features,2022-11-01,LinkedIn,Opened,True,395,0
+CAMP_Archive_Upgrade_Campaign_6611,CUST_0275,Archive_Upgrade_Campaign,2024-01-30,Email,Clicked,True,427,0
+CAMP_Q3_2024_Compliance_Focus_2280,CUST_0275,Q3_2024_Compliance_Focus,2023-09-27,Direct Mail,Clicked,False,389,1737
+CAMP_Threat_Intelligence_Demo_4914,CUST_0276,Threat_Intelligence_Demo,2024-07-11,LinkedIn,Registered,False,90,0
+CAMP_Email_Security_Webinar_Series_5899,CUST_0276,Email_Security_Webinar_Series,2023-01-27,Webinar,Clicked,False,447,0
+CAMP_Q3_2024_Compliance_Focus_9174,CUST_0276,Q3_2024_Compliance_Focus,2023-09-27,Direct Mail,Opened,False,273,0
+CAMP_Renewal_Campaign_2968,CUST_0277,Renewal_Campaign,2022-09-04,Webinar,No Response,False,333,0
+CAMP_Archive_Upgrade_Campaign_7618,CUST_0277,Archive_Upgrade_Campaign,2024-01-19,Email,Opened,False,215,0
+CAMP_Q2_2024_Feature_Launch_5074,CUST_0277,Q2_2024_Feature_Launch,2024-03-25,Email,Opened,False,99,0
+CAMP_Upsell_Enterprise_Features_5858,CUST_0277,Upsell_Enterprise_Features,2023-10-04,Phone,Opened,True,429,2036
+CAMP_Email_Security_Webinar_Series_2322,CUST_0277,Email_Security_Webinar_Series,2022-12-13,Email,Registered,False,75,0
+CAMP_Q3_2024_Compliance_Focus_3298,CUST_0279,Q3_2024_Compliance_Focus,2022-06-30,Direct Mail,Clicked,False,353,0
+CAMP_Archive_Upgrade_Campaign_9560,CUST_0279,Archive_Upgrade_Campaign,2022-04-16,LinkedIn,No Response,False,81,0
+CAMP_Q2_2024_Feature_Launch_3120,CUST_0280,Q2_2024_Feature_Launch,2023-01-16,Direct Mail,No Response,True,102,4820
+CAMP_Q1_2024_Security_Awareness_3775,CUST_0281,Q1_2024_Security_Awareness,2023-12-21,Phone,Registered,True,404,0
+CAMP_Threat_Intelligence_Demo_9308,CUST_0281,Threat_Intelligence_Demo,2022-06-10,Direct Mail,Opened,False,236,0
+CAMP_Q1_2024_Security_Awareness_5225,CUST_0282,Q1_2024_Security_Awareness,2022-12-09,Phone,Opened,False,235,0
+CAMP_Archive_Upgrade_Campaign_5625,CUST_0282,Archive_Upgrade_Campaign,2022-10-06,Webinar,Registered,True,102,273
+CAMP_Q2_2024_Feature_Launch_8245,CUST_0282,Q2_2024_Feature_Launch,2023-01-16,Direct Mail,Opened,False,453,397
+CAMP_Upsell_Enterprise_Features_6341,CUST_0282,Upsell_Enterprise_Features,2023-04-05,Email,Opened,False,412,0
+CAMP_Renewal_Campaign_4630,CUST_0283,Renewal_Campaign,2023-04-18,Phone,Registered,False,68,0
+CAMP_Threat_Intelligence_Demo_6955,CUST_0283,Threat_Intelligence_Demo,2022-08-20,LinkedIn,Opened,False,322,0
+CAMP_Q2_2024_Feature_Launch_9478,CUST_0284,Q2_2024_Feature_Launch,2024-03-22,Email,Clicked,False,156,0
+CAMP_Threat_Intelligence_Demo_7120,CUST_0284,Threat_Intelligence_Demo,2022-05-26,Phone,Registered,True,496,656
+CAMP_Q3_2024_Compliance_Focus_5394,CUST_0285,Q3_2024_Compliance_Focus,2024-05-14,Phone,Registered,False,301,312
+CAMP_New_Customer_Onboarding_8395,CUST_0285,New_Customer_Onboarding,2022-03-05,LinkedIn,Clicked,True,344,0
+CAMP_Q2_2024_Feature_Launch_8140,CUST_0286,Q2_2024_Feature_Launch,2023-01-06,LinkedIn,Opened,False,110,0
+CAMP_Q1_2024_Security_Awareness_4228,CUST_0286,Q1_2024_Security_Awareness,2024-06-17,Direct Mail,Opened,False,238,261
+CAMP_Q3_2024_Compliance_Focus_7078,CUST_0286,Q3_2024_Compliance_Focus,2022-11-09,Webinar,No Response,False,145,0
+CAMP_Threat_Intelligence_Demo_7252,CUST_0287,Threat_Intelligence_Demo,2024-07-29,Phone,No Response,False,304,0
+CAMP_New_Customer_Onboarding_7863,CUST_0287,New_Customer_Onboarding,2023-04-29,Webinar,Opened,False,394,0
+CAMP_New_Customer_Onboarding_8223,CUST_0288,New_Customer_Onboarding,2022-06-01,Direct Mail,Opened,False,335,0
+CAMP_Q3_2024_Compliance_Focus_1537,CUST_0288,Q3_2024_Compliance_Focus,2023-03-10,LinkedIn,No Response,False,421,0
+CAMP_Renewal_Campaign_6956,CUST_0288,Renewal_Campaign,2023-01-14,Email,Opened,True,216,0
+CAMP_New_Customer_Onboarding_3037,CUST_0289,New_Customer_Onboarding,2024-04-19,Phone,No Response,False,354,0
+CAMP_Threat_Intelligence_Demo_9161,CUST_0289,Threat_Intelligence_Demo,2022-03-05,LinkedIn,No Response,False,384,0
+CAMP_Q1_2024_Security_Awareness_2331,CUST_0289,Q1_2024_Security_Awareness,2024-07-15,Email,Registered,True,453,0
+CAMP_Q3_2024_Compliance_Focus_3186,CUST_0290,Q3_2024_Compliance_Focus,2023-02-04,LinkedIn,Clicked,False,491,0
+CAMP_Email_Security_Webinar_Series_7874,CUST_0293,Email_Security_Webinar_Series,2024-06-06,Phone,Clicked,False,140,0
+CAMP_Email_Security_Webinar_Series_2923,CUST_0294,Email_Security_Webinar_Series,2023-06-03,Email,Opened,False,396,0
+CAMP_Q3_2024_Compliance_Focus_8272,CUST_0294,Q3_2024_Compliance_Focus,2022-05-24,Direct Mail,Opened,True,87,0
+CAMP_Q2_2024_Feature_Launch_7669,CUST_0295,Q2_2024_Feature_Launch,2022-03-10,Direct Mail,Opened,False,423,0
+CAMP_Archive_Upgrade_Campaign_5913,CUST_0296,Archive_Upgrade_Campaign,2024-01-02,Email,No Response,False,362,0
+CAMP_Q1_2024_Security_Awareness_1393,CUST_0296,Q1_2024_Security_Awareness,2022-12-19,Direct Mail,No Response,False,108,0
+CAMP_Q3_2024_Compliance_Focus_1923,CUST_0297,Q3_2024_Compliance_Focus,2023-10-01,Webinar,Opened,True,141,0
+CAMP_Archive_Upgrade_Campaign_6818,CUST_0299,Archive_Upgrade_Campaign,2024-03-09,LinkedIn,Clicked,True,399,3707
+CAMP_Renewal_Campaign_1261,CUST_0299,Renewal_Campaign,2024-05-21,Phone,Opened,False,255,0
+CAMP_Q3_2024_Compliance_Focus_9867,CUST_0300,Q3_2024_Compliance_Focus,2022-12-15,Email,Registered,False,436,0
+CAMP_Renewal_Campaign_2826,CUST_0301,Renewal_Campaign,2022-03-20,Phone,Registered,False,307,0
+CAMP_Threat_Intelligence_Demo_3363,CUST_0301,Threat_Intelligence_Demo,2024-01-22,Phone,Opened,False,91,0
+CAMP_New_Customer_Onboarding_7745,CUST_0302,New_Customer_Onboarding,2022-09-07,Webinar,Clicked,True,194,0
+CAMP_New_Customer_Onboarding_2437,CUST_0303,New_Customer_Onboarding,2022-07-24,LinkedIn,No Response,False,117,0
+CAMP_Q2_2024_Feature_Launch_2636,CUST_0304,Q2_2024_Feature_Launch,2022-08-22,Phone,Registered,False,351,0
+CAMP_Q2_2024_Feature_Launch_3407,CUST_0305,Q2_2024_Feature_Launch,2022-01-18,Direct Mail,Opened,False,332,0
+CAMP_Q3_2024_Compliance_Focus_2953,CUST_0305,Q3_2024_Compliance_Focus,2023-06-29,Direct Mail,Clicked,True,441,3255
+CAMP_New_Customer_Onboarding_1908,CUST_0305,New_Customer_Onboarding,2023-08-05,Phone,Opened,False,126,0
+CAMP_Email_Security_Webinar_Series_7154,CUST_0305,Email_Security_Webinar_Series,2024-02-05,Email,No Response,False,240,0
+CAMP_Q3_2024_Compliance_Focus_4181,CUST_0306,Q3_2024_Compliance_Focus,2022-05-13,Webinar,Clicked,True,96,0
+CAMP_New_Customer_Onboarding_9665,CUST_0306,New_Customer_Onboarding,2023-10-01,Phone,Opened,False,455,0
+CAMP_Archive_Upgrade_Campaign_1427,CUST_0306,Archive_Upgrade_Campaign,2024-03-26,LinkedIn,Opened,False,228,0
+CAMP_Q2_2024_Feature_Launch_9353,CUST_0308,Q2_2024_Feature_Launch,2023-11-03,Email,Registered,False,226,1375
+CAMP_Q3_2024_Compliance_Focus_9756,CUST_0309,Q3_2024_Compliance_Focus,2022-09-19,Phone,No Response,False,447,0
+CAMP_Renewal_Campaign_1512,CUST_0309,Renewal_Campaign,2022-12-24,Email,Registered,False,162,0
+CAMP_Email_Security_Webinar_Series_5627,CUST_0309,Email_Security_Webinar_Series,2024-06-05,Email,Opened,False,189,0
+CAMP_Email_Security_Webinar_Series_5889,CUST_0310,Email_Security_Webinar_Series,2023-05-23,Webinar,Opened,False,79,0
+CAMP_Upsell_Enterprise_Features_5509,CUST_0310,Upsell_Enterprise_Features,2024-05-04,Direct Mail,Opened,False,465,0
+CAMP_Renewal_Campaign_6368,CUST_0311,Renewal_Campaign,2022-07-16,Phone,No Response,False,329,89
+CAMP_Q2_2024_Feature_Launch_8695,CUST_0311,Q2_2024_Feature_Launch,2023-01-27,Direct Mail,Registered,False,492,0
+CAMP_Q2_2024_Feature_Launch_8735,CUST_0312,Q2_2024_Feature_Launch,2023-10-08,Email,Opened,False,100,0
+CAMP_Q3_2024_Compliance_Focus_5324,CUST_0312,Q3_2024_Compliance_Focus,2023-07-10,Webinar,Opened,False,444,1085
+CAMP_Renewal_Campaign_5762,CUST_0312,Renewal_Campaign,2023-10-16,Email,Opened,False,363,0
+CAMP_Archive_Upgrade_Campaign_6911,CUST_0312,Archive_Upgrade_Campaign,2024-01-31,Phone,Clicked,False,85,0
+CAMP_Q3_2024_Compliance_Focus_6397,CUST_0314,Q3_2024_Compliance_Focus,2022-12-16,LinkedIn,Opened,True,498,0
+CAMP_Q1_2024_Security_Awareness_7262,CUST_0314,Q1_2024_Security_Awareness,2022-08-11,LinkedIn,Clicked,False,214,0
+CAMP_Renewal_Campaign_6446,CUST_0314,Renewal_Campaign,2022-09-22,Direct Mail,Opened,False,121,0
+CAMP_Email_Security_Webinar_Series_3093,CUST_0315,Email_Security_Webinar_Series,2023-11-01,Webinar,Clicked,False,345,0
+CAMP_Q1_2024_Security_Awareness_2189,CUST_0316,Q1_2024_Security_Awareness,2023-02-04,Webinar,No Response,True,350,0
+CAMP_Archive_Upgrade_Campaign_3513,CUST_0316,Archive_Upgrade_Campaign,2023-10-29,Webinar,Registered,False,258,0
+CAMP_New_Customer_Onboarding_5452,CUST_0317,New_Customer_Onboarding,2023-04-27,Email,Opened,False,202,0
+CAMP_Q1_2024_Security_Awareness_6400,CUST_0317,Q1_2024_Security_Awareness,2024-07-13,Webinar,No Response,False,256,0
+CAMP_Q3_2024_Compliance_Focus_4129,CUST_0317,Q3_2024_Compliance_Focus,2023-08-24,Webinar,Opened,False,60,0
+CAMP_Renewal_Campaign_1048,CUST_0317,Renewal_Campaign,2024-02-19,LinkedIn,No Response,False,460,0
+CAMP_Email_Security_Webinar_Series_2626,CUST_0317,Email_Security_Webinar_Series,2023-05-15,Email,No Response,False,131,0
+CAMP_Q2_2024_Feature_Launch_5338,CUST_0317,Q2_2024_Feature_Launch,2023-02-18,LinkedIn,Clicked,False,111,0
+CAMP_Archive_Upgrade_Campaign_4052,CUST_0317,Archive_Upgrade_Campaign,2024-03-24,Email,Registered,False,406,0
+CAMP_Renewal_Campaign_5420,CUST_0318,Renewal_Campaign,2022-04-15,Webinar,No Response,False,425,0
+CAMP_Q1_2024_Security_Awareness_5415,CUST_0318,Q1_2024_Security_Awareness,2023-12-04,Email,Opened,False,118,0
+CAMP_Email_Security_Webinar_Series_1425,CUST_0319,Email_Security_Webinar_Series,2022-03-17,Email,Clicked,False,134,0
+CAMP_Upsell_Enterprise_Features_9652,CUST_0319,Upsell_Enterprise_Features,2024-05-18,Email,Clicked,True,312,0
+CAMP_New_Customer_Onboarding_1605,CUST_0319,New_Customer_Onboarding,2022-07-21,Email,No Response,False,328,0
+CAMP_New_Customer_Onboarding_7025,CUST_0320,New_Customer_Onboarding,2023-11-12,LinkedIn,Clicked,False,145,0
+CAMP_Q2_2024_Feature_Launch_3729,CUST_0320,Q2_2024_Feature_Launch,2022-12-01,Webinar,Opened,False,142,0
+CAMP_Threat_Intelligence_Demo_2342,CUST_0320,Threat_Intelligence_Demo,2024-05-23,Phone,Opened,False,418,1307
+CAMP_Renewal_Campaign_4857,CUST_0321,Renewal_Campaign,2022-04-19,Direct Mail,No Response,False,273,2742
+CAMP_Email_Security_Webinar_Series_8079,CUST_0322,Email_Security_Webinar_Series,2023-11-05,Direct Mail,No Response,False,180,1446
+CAMP_Threat_Intelligence_Demo_9496,CUST_0322,Threat_Intelligence_Demo,2023-09-15,Email,Opened,False,375,0
+CAMP_Q3_2024_Compliance_Focus_7257,CUST_0322,Q3_2024_Compliance_Focus,2023-12-10,LinkedIn,Opened,True,336,0
+CAMP_Q2_2024_Feature_Launch_4365,CUST_0322,Q2_2024_Feature_Launch,2023-01-07,LinkedIn,No Response,True,324,0
+CAMP_Upsell_Enterprise_Features_5275,CUST_0323,Upsell_Enterprise_Features,2022-04-11,Webinar,Opened,True,402,0
+CAMP_Q1_2024_Security_Awareness_9218,CUST_0323,Q1_2024_Security_Awareness,2024-04-12,Email,Clicked,True,253,0
+CAMP_Q3_2024_Compliance_Focus_9577,CUST_0324,Q3_2024_Compliance_Focus,2023-06-29,Webinar,Clicked,False,387,0
+CAMP_New_Customer_Onboarding_8186,CUST_0325,New_Customer_Onboarding,2024-03-02,Phone,Registered,False,218,372
+CAMP_Email_Security_Webinar_Series_9575,CUST_0325,Email_Security_Webinar_Series,2022-07-04,Email,Registered,False,210,0
+CAMP_Threat_Intelligence_Demo_2424,CUST_0325,Threat_Intelligence_Demo,2022-08-20,Direct Mail,Opened,True,165,0
+CAMP_Archive_Upgrade_Campaign_6842,CUST_0325,Archive_Upgrade_Campaign,2023-01-01,Webinar,Clicked,False,91,0
+CAMP_Email_Security_Webinar_Series_9014,CUST_0326,Email_Security_Webinar_Series,2023-08-10,Webinar,Registered,False,187,1499
+CAMP_Renewal_Campaign_7586,CUST_0326,Renewal_Campaign,2023-05-16,Webinar,Registered,False,311,0
+CAMP_Archive_Upgrade_Campaign_2160,CUST_0326,Archive_Upgrade_Campaign,2024-03-19,LinkedIn,Clicked,False,232,0
+CAMP_Threat_Intelligence_Demo_6797,CUST_0326,Threat_Intelligence_Demo,2022-09-13,Phone,Clicked,False,54,1239
+CAMP_Archive_Upgrade_Campaign_3592,CUST_0327,Archive_Upgrade_Campaign,2022-07-03,Webinar,Clicked,True,353,0
+CAMP_Q3_2024_Compliance_Focus_4726,CUST_0328,Q3_2024_Compliance_Focus,2022-11-11,Phone,Opened,False,158,0
+CAMP_New_Customer_Onboarding_8945,CUST_0328,New_Customer_Onboarding,2023-03-05,Phone,Clicked,False,247,0
+CAMP_Email_Security_Webinar_Series_3916,CUST_0329,Email_Security_Webinar_Series,2023-03-17,Direct Mail,No Response,False,325,0
+CAMP_New_Customer_Onboarding_7598,CUST_0331,New_Customer_Onboarding,2022-01-01,Direct Mail,Clicked,False,161,0
+CAMP_Archive_Upgrade_Campaign_4355,CUST_0332,Archive_Upgrade_Campaign,2023-12-17,LinkedIn,Opened,True,280,0
+CAMP_Email_Security_Webinar_Series_4051,CUST_0333,Email_Security_Webinar_Series,2023-06-01,LinkedIn,Clicked,False,327,0
+CAMP_New_Customer_Onboarding_6347,CUST_0333,New_Customer_Onboarding,2023-07-18,Email,No Response,False,132,0
+CAMP_Q1_2024_Security_Awareness_5040,CUST_0334,Q1_2024_Security_Awareness,2022-11-12,Phone,Opened,False,468,0
+CAMP_New_Customer_Onboarding_1472,CUST_0334,New_Customer_Onboarding,2022-06-29,Direct Mail,Opened,False,211,0
+CAMP_Archive_Upgrade_Campaign_8858,CUST_0334,Archive_Upgrade_Campaign,2024-05-12,Webinar,Registered,True,111,0
+CAMP_New_Customer_Onboarding_3915,CUST_0335,New_Customer_Onboarding,2024-05-23,Webinar,Opened,False,391,1889
+CAMP_Q3_2024_Compliance_Focus_7035,CUST_0335,Q3_2024_Compliance_Focus,2023-07-24,LinkedIn,Clicked,False,185,0
+CAMP_Upsell_Enterprise_Features_3016,CUST_0335,Upsell_Enterprise_Features,2022-09-24,LinkedIn,Opened,False,474,0
+CAMP_New_Customer_Onboarding_7337,CUST_0337,New_Customer_Onboarding,2023-02-11,Phone,Opened,False,238,0
+CAMP_Threat_Intelligence_Demo_5053,CUST_0338,Threat_Intelligence_Demo,2023-06-04,Webinar,Clicked,False,422,0
+CAMP_Email_Security_Webinar_Series_9644,CUST_0339,Email_Security_Webinar_Series,2024-03-03,Direct Mail,Clicked,False,240,0
+CAMP_Archive_Upgrade_Campaign_2824,CUST_0339,Archive_Upgrade_Campaign,2023-03-09,Direct Mail,Clicked,True,230,0
+CAMP_Upsell_Enterprise_Features_2394,CUST_0339,Upsell_Enterprise_Features,2023-02-02,Webinar,Opened,False,202,0
+CAMP_Email_Security_Webinar_Series_8143,CUST_0340,Email_Security_Webinar_Series,2023-05-04,Phone,Registered,False,446,0
+CAMP_Upsell_Enterprise_Features_4053,CUST_0340,Upsell_Enterprise_Features,2023-10-24,Direct Mail,Registered,True,452,0
+CAMP_Archive_Upgrade_Campaign_6405,CUST_0343,Archive_Upgrade_Campaign,2022-08-18,Phone,Clicked,False,52,0
+CAMP_New_Customer_Onboarding_9251,CUST_0343,New_Customer_Onboarding,2023-11-17,Email,Opened,False,351,0
+CAMP_Upsell_Enterprise_Features_2313,CUST_0344,Upsell_Enterprise_Features,2023-03-04,LinkedIn,Clicked,False,278,0
+CAMP_Email_Security_Webinar_Series_5376,CUST_0344,Email_Security_Webinar_Series,2023-03-24,Webinar,Opened,True,258,0
+CAMP_Q3_2024_Compliance_Focus_5689,CUST_0345,Q3_2024_Compliance_Focus,2023-01-24,LinkedIn,Clicked,False,289,0
+CAMP_Threat_Intelligence_Demo_9804,CUST_0346,Threat_Intelligence_Demo,2023-02-02,Direct Mail,Opened,False,392,0
+CAMP_Archive_Upgrade_Campaign_5219,CUST_0346,Archive_Upgrade_Campaign,2022-04-16,Direct Mail,No Response,False,186,0
+CAMP_Threat_Intelligence_Demo_3470,CUST_0347,Threat_Intelligence_Demo,2023-07-01,Direct Mail,Clicked,False,434,0
+CAMP_Q2_2024_Feature_Launch_8129,CUST_0349,Q2_2024_Feature_Launch,2022-03-07,Email,No Response,False,463,0
+CAMP_Email_Security_Webinar_Series_7322,CUST_0350,Email_Security_Webinar_Series,2023-09-19,Phone,Registered,False,332,0
+CAMP_Upsell_Enterprise_Features_1779,CUST_0351,Upsell_Enterprise_Features,2022-05-03,Phone,No Response,True,459,0
+CAMP_Upsell_Enterprise_Features_3212,CUST_0352,Upsell_Enterprise_Features,2024-03-05,Direct Mail,Opened,False,242,0
+CAMP_Threat_Intelligence_Demo_4031,CUST_0352,Threat_Intelligence_Demo,2023-08-04,Webinar,Opened,False,362,0
+CAMP_New_Customer_Onboarding_1052,CUST_0352,New_Customer_Onboarding,2022-11-19,Direct Mail,No Response,False,226,1918
+CAMP_Q3_2024_Compliance_Focus_6315,CUST_0353,Q3_2024_Compliance_Focus,2022-10-13,Direct Mail,No Response,False,134,0
+CAMP_Renewal_Campaign_9427,CUST_0353,Renewal_Campaign,2024-04-21,Phone,Registered,False,315,0
+CAMP_Q1_2024_Security_Awareness_3633,CUST_0353,Q1_2024_Security_Awareness,2024-06-04,Direct Mail,Opened,True,146,0
+CAMP_Threat_Intelligence_Demo_8569,CUST_0353,Threat_Intelligence_Demo,2023-06-12,Direct Mail,Opened,False,234,0
+CAMP_Email_Security_Webinar_Series_7291,CUST_0353,Email_Security_Webinar_Series,2024-06-19,Direct Mail,Clicked,True,358,3775
+CAMP_Q1_2024_Security_Awareness_6868,CUST_0356,Q1_2024_Security_Awareness,2024-01-07,Phone,Registered,True,162,0
+CAMP_Renewal_Campaign_3971,CUST_0356,Renewal_Campaign,2022-01-06,Direct Mail,Opened,True,353,0
+CAMP_Q1_2024_Security_Awareness_7390,CUST_0357,Q1_2024_Security_Awareness,2023-05-11,Webinar,Opened,False,259,0
+CAMP_Q3_2024_Compliance_Focus_9412,CUST_0357,Q3_2024_Compliance_Focus,2022-11-18,Phone,No Response,False,240,0
+CAMP_Renewal_Campaign_7769,CUST_0358,Renewal_Campaign,2023-11-15,Phone,Opened,True,72,0
+CAMP_Q1_2024_Security_Awareness_2844,CUST_0358,Q1_2024_Security_Awareness,2022-07-05,Email,No Response,True,418,0
+CAMP_New_Customer_Onboarding_4327,CUST_0358,New_Customer_Onboarding,2022-06-15,LinkedIn,Clicked,False,348,0
+CAMP_Upsell_Enterprise_Features_6864,CUST_0359,Upsell_Enterprise_Features,2022-11-08,LinkedIn,No Response,False,325,0
+CAMP_Q3_2024_Compliance_Focus_6501,CUST_0360,Q3_2024_Compliance_Focus,2023-05-24,Email,No Response,False,240,0
+CAMP_Threat_Intelligence_Demo_1077,CUST_0360,Threat_Intelligence_Demo,2022-12-16,Phone,Clicked,False,336,0
+CAMP_Renewal_Campaign_1387,CUST_0360,Renewal_Campaign,2022-04-30,Phone,Opened,False,353,0
+CAMP_Archive_Upgrade_Campaign_5720,CUST_0360,Archive_Upgrade_Campaign,2023-08-11,Email,Registered,False,469,0
+CAMP_Email_Security_Webinar_Series_7403,CUST_0361,Email_Security_Webinar_Series,2024-04-25,Webinar,No Response,False,307,0
+CAMP_Upsell_Enterprise_Features_9243,CUST_0361,Upsell_Enterprise_Features,2023-07-16,Webinar,Registered,False,123,0
+CAMP_Q3_2024_Compliance_Focus_2056,CUST_0363,Q3_2024_Compliance_Focus,2024-03-19,Phone,Registered,False,134,0
+CAMP_Q2_2024_Feature_Launch_4366,CUST_0363,Q2_2024_Feature_Launch,2022-11-26,Webinar,Clicked,False,344,0
+CAMP_Renewal_Campaign_1033,CUST_0363,Renewal_Campaign,2023-08-23,Email,Registered,False,219,866
+CAMP_New_Customer_Onboarding_8451,CUST_0363,New_Customer_Onboarding,2023-05-25,Phone,Opened,False,94,115
+CAMP_Archive_Upgrade_Campaign_4582,CUST_0364,Archive_Upgrade_Campaign,2024-03-19,Email,Opened,False,120,0
+CAMP_Q1_2024_Security_Awareness_7952,CUST_0364,Q1_2024_Security_Awareness,2024-06-14,Phone,Clicked,False,116,0
+CAMP_Email_Security_Webinar_Series_5051,CUST_0364,Email_Security_Webinar_Series,2023-09-29,Email,Registered,False,312,0
+CAMP_Upsell_Enterprise_Features_9575,CUST_0365,Upsell_Enterprise_Features,2024-02-27,LinkedIn,Opened,False,363,0
+CAMP_Q1_2024_Security_Awareness_6792,CUST_0365,Q1_2024_Security_Awareness,2022-03-17,Webinar,Opened,False,131,0
+CAMP_Threat_Intelligence_Demo_3631,CUST_0365,Threat_Intelligence_Demo,2022-04-24,Direct Mail,Registered,False,285,0
+CAMP_New_Customer_Onboarding_9363,CUST_0367,New_Customer_Onboarding,2022-04-15,Direct Mail,Registered,False,305,0
+CAMP_Q3_2024_Compliance_Focus_9825,CUST_0367,Q3_2024_Compliance_Focus,2022-03-15,Phone,Clicked,True,84,598
+CAMP_Email_Security_Webinar_Series_5195,CUST_0367,Email_Security_Webinar_Series,2024-01-31,Email,Opened,False,129,0
+CAMP_Upsell_Enterprise_Features_9642,CUST_0367,Upsell_Enterprise_Features,2022-01-28,Phone,Clicked,False,159,0
+CAMP_Q1_2024_Security_Awareness_9681,CUST_0368,Q1_2024_Security_Awareness,2022-10-16,Webinar,Opened,False,303,0
+CAMP_Renewal_Campaign_1331,CUST_0368,Renewal_Campaign,2024-04-09,Email,Registered,False,125,0
+CAMP_New_Customer_Onboarding_8083,CUST_0368,New_Customer_Onboarding,2023-02-24,Phone,Opened,False,326,0
+CAMP_Upsell_Enterprise_Features_2265,CUST_0368,Upsell_Enterprise_Features,2022-03-28,Phone,Opened,False,142,0
+CAMP_Email_Security_Webinar_Series_8313,CUST_0368,Email_Security_Webinar_Series,2024-07-14,Email,Clicked,False,423,0
+CAMP_Q3_2024_Compliance_Focus_2742,CUST_0369,Q3_2024_Compliance_Focus,2024-03-06,Email,No Response,False,367,0
+CAMP_Q1_2024_Security_Awareness_2506,CUST_0369,Q1_2024_Security_Awareness,2022-03-12,LinkedIn,Clicked,True,462,0
+CAMP_Q3_2024_Compliance_Focus_8191,CUST_0370,Q3_2024_Compliance_Focus,2023-10-13,Phone,Opened,False,328,1355
+CAMP_Upsell_Enterprise_Features_1248,CUST_0371,Upsell_Enterprise_Features,2022-05-14,Webinar,Opened,False,428,0
+CAMP_Email_Security_Webinar_Series_1226,CUST_0371,Email_Security_Webinar_Series,2022-04-25,Webinar,Opened,False,108,0
+CAMP_Archive_Upgrade_Campaign_6380,CUST_0371,Archive_Upgrade_Campaign,2022-04-08,Phone,Clicked,False,169,0
+CAMP_Q2_2024_Feature_Launch_3274,CUST_0372,Q2_2024_Feature_Launch,2024-01-31,LinkedIn,Opened,False,423,761
+CAMP_Q3_2024_Compliance_Focus_4179,CUST_0372,Q3_2024_Compliance_Focus,2023-08-19,Email,Clicked,False,428,3464
+CAMP_Threat_Intelligence_Demo_1664,CUST_0372,Threat_Intelligence_Demo,2022-11-16,LinkedIn,Clicked,False,194,0
+CAMP_Upsell_Enterprise_Features_5502,CUST_0373,Upsell_Enterprise_Features,2022-10-29,Direct Mail,Registered,False,325,0
+CAMP_Archive_Upgrade_Campaign_2770,CUST_0373,Archive_Upgrade_Campaign,2023-10-14,LinkedIn,Clicked,False,339,0
+CAMP_Email_Security_Webinar_Series_2285,CUST_0373,Email_Security_Webinar_Series,2022-11-09,LinkedIn,No Response,False,268,0
+CAMP_Threat_Intelligence_Demo_4095,CUST_0373,Threat_Intelligence_Demo,2022-03-05,Direct Mail,Clicked,False,182,0
+CAMP_Q2_2024_Feature_Launch_8118,CUST_0374,Q2_2024_Feature_Launch,2022-12-21,Email,Registered,False,154,0
+CAMP_Q3_2024_Compliance_Focus_8388,CUST_0374,Q3_2024_Compliance_Focus,2024-05-27,LinkedIn,No Response,True,407,0
+CAMP_Upsell_Enterprise_Features_6540,CUST_0375,Upsell_Enterprise_Features,2022-05-24,Phone,Registered,False,152,0
+CAMP_New_Customer_Onboarding_4353,CUST_0375,New_Customer_Onboarding,2022-08-02,Direct Mail,Opened,False,223,0
+CAMP_Q1_2024_Security_Awareness_5397,CUST_0376,Q1_2024_Security_Awareness,2023-02-03,Email,Registered,False,404,0
+CAMP_Q2_2024_Feature_Launch_8370,CUST_0376,Q2_2024_Feature_Launch,2022-03-02,Phone,Clicked,True,138,3599
+CAMP_Archive_Upgrade_Campaign_3281,CUST_0378,Archive_Upgrade_Campaign,2024-06-10,Direct Mail,Registered,False,378,0
+CAMP_Q1_2024_Security_Awareness_8920,CUST_0378,Q1_2024_Security_Awareness,2022-11-14,Webinar,No Response,False,379,752
+CAMP_New_Customer_Onboarding_6952,CUST_0378,New_Customer_Onboarding,2023-05-20,LinkedIn,Opened,True,214,0
+CAMP_Renewal_Campaign_2700,CUST_0379,Renewal_Campaign,2022-02-19,Phone,Clicked,False,460,0
+CAMP_New_Customer_Onboarding_1404,CUST_0379,New_Customer_Onboarding,2022-07-18,LinkedIn,Opened,False,345,0
+CAMP_Archive_Upgrade_Campaign_2596,CUST_0379,Archive_Upgrade_Campaign,2024-01-19,Phone,Clicked,False,264,0
+CAMP_Q1_2024_Security_Awareness_7329,CUST_0379,Q1_2024_Security_Awareness,2022-12-13,Email,Clicked,False,363,0
+CAMP_Q2_2024_Feature_Launch_4013,CUST_0379,Q2_2024_Feature_Launch,2024-07-27,Webinar,Opened,False,357,0
+CAMP_Renewal_Campaign_2052,CUST_0380,Renewal_Campaign,2022-11-07,Phone,Clicked,True,345,0
+CAMP_Email_Security_Webinar_Series_9959,CUST_0380,Email_Security_Webinar_Series,2024-04-16,Direct Mail,Opened,False,468,0
+CAMP_Email_Security_Webinar_Series_9564,CUST_0381,Email_Security_Webinar_Series,2022-08-21,LinkedIn,Opened,False,150,0
+CAMP_Q3_2024_Compliance_Focus_6507,CUST_0381,Q3_2024_Compliance_Focus,2024-04-17,Webinar,Opened,False,380,0
+CAMP_New_Customer_Onboarding_5128,CUST_0381,New_Customer_Onboarding,2023-07-26,Direct Mail,Registered,False,118,0
+CAMP_Upsell_Enterprise_Features_2250,CUST_0381,Upsell_Enterprise_Features,2023-08-17,Phone,Registered,False,438,0
+CAMP_Renewal_Campaign_4850,CUST_0382,Renewal_Campaign,2022-10-13,LinkedIn,Opened,True,402,0
+CAMP_Q2_2024_Feature_Launch_5354,CUST_0383,Q2_2024_Feature_Launch,2024-04-05,LinkedIn,No Response,False,431,0
+CAMP_New_Customer_Onboarding_4425,CUST_0384,New_Customer_Onboarding,2022-11-12,Direct Mail,Opened,True,327,0
+CAMP_Renewal_Campaign_3379,CUST_0384,Renewal_Campaign,2024-05-18,Phone,Opened,False,236,0
+CAMP_Q3_2024_Compliance_Focus_2847,CUST_0385,Q3_2024_Compliance_Focus,2024-01-25,Webinar,Opened,False,84,0
+CAMP_Renewal_Campaign_2829,CUST_0385,Renewal_Campaign,2022-12-28,Email,Opened,False,420,0
+CAMP_New_Customer_Onboarding_2459,CUST_0385,New_Customer_Onboarding,2023-08-21,LinkedIn,Opened,False,208,0
+CAMP_Threat_Intelligence_Demo_8050,CUST_0385,Threat_Intelligence_Demo,2022-07-03,LinkedIn,No Response,True,295,0
+CAMP_Email_Security_Webinar_Series_9766,CUST_0386,Email_Security_Webinar_Series,2024-06-29,LinkedIn,Opened,False,77,4519
+CAMP_Archive_Upgrade_Campaign_7385,CUST_0387,Archive_Upgrade_Campaign,2024-01-28,Webinar,Clicked,False,467,0
+CAMP_Q3_2024_Compliance_Focus_8701,CUST_0387,Q3_2024_Compliance_Focus,2022-02-23,Phone,Clicked,False,50,1376
+CAMP_Threat_Intelligence_Demo_9785,CUST_0387,Threat_Intelligence_Demo,2023-10-08,Direct Mail,Opened,True,370,0
+CAMP_Email_Security_Webinar_Series_7891,CUST_0387,Email_Security_Webinar_Series,2022-01-22,Email,Opened,False,455,0
+CAMP_Q3_2024_Compliance_Focus_1327,CUST_0388,Q3_2024_Compliance_Focus,2024-01-04,Direct Mail,No Response,False,415,0
+CAMP_Email_Security_Webinar_Series_6503,CUST_0388,Email_Security_Webinar_Series,2022-01-30,Email,Clicked,False,97,0
+CAMP_Renewal_Campaign_5277,CUST_0388,Renewal_Campaign,2022-11-05,LinkedIn,No Response,False,417,1389
+CAMP_Archive_Upgrade_Campaign_6091,CUST_0390,Archive_Upgrade_Campaign,2022-05-06,Phone,Clicked,False,423,0
+CAMP_Upsell_Enterprise_Features_6476,CUST_0390,Upsell_Enterprise_Features,2022-05-26,Webinar,No Response,False,458,0
+CAMP_Q2_2024_Feature_Launch_4747,CUST_0391,Q2_2024_Feature_Launch,2022-10-27,Email,Clicked,True,153,0
+CAMP_Renewal_Campaign_3274,CUST_0392,Renewal_Campaign,2022-08-22,Webinar,Opened,False,192,0
+CAMP_Q2_2024_Feature_Launch_1310,CUST_0392,Q2_2024_Feature_Launch,2023-11-10,Email,No Response,True,157,78
+CAMP_Threat_Intelligence_Demo_7343,CUST_0392,Threat_Intelligence_Demo,2024-04-11,Webinar,Clicked,False,374,0
+CAMP_Q1_2024_Security_Awareness_3772,CUST_0392,Q1_2024_Security_Awareness,2024-06-17,Phone,Clicked,False,380,0
+CAMP_Upsell_Enterprise_Features_9192,CUST_0393,Upsell_Enterprise_Features,2022-06-08,Direct Mail,Registered,False,76,0
+CAMP_Q2_2024_Feature_Launch_3943,CUST_0394,Q2_2024_Feature_Launch,2023-02-10,Email,Opened,True,422,0
+CAMP_Threat_Intelligence_Demo_3097,CUST_0394,Threat_Intelligence_Demo,2023-07-22,LinkedIn,Opened,False,240,0
+CAMP_Renewal_Campaign_5229,CUST_0395,Renewal_Campaign,2022-06-14,Phone,Opened,False,305,0
+CAMP_Archive_Upgrade_Campaign_1914,CUST_0395,Archive_Upgrade_Campaign,2024-06-02,Direct Mail,Opened,True,57,0
+CAMP_New_Customer_Onboarding_1359,CUST_0396,New_Customer_Onboarding,2022-05-27,Webinar,Opened,False,105,0
+CAMP_Threat_Intelligence_Demo_4127,CUST_0396,Threat_Intelligence_Demo,2022-03-07,Direct Mail,Registered,False,104,0
+CAMP_Renewal_Campaign_6948,CUST_0396,Renewal_Campaign,2023-02-11,Direct Mail,Opened,False,453,0
+CAMP_Q2_2024_Feature_Launch_2787,CUST_0397,Q2_2024_Feature_Launch,2022-11-17,Email,Opened,False,113,3667
+CAMP_New_Customer_Onboarding_6212,CUST_0397,New_Customer_Onboarding,2022-11-16,Webinar,Clicked,False,459,0
+CAMP_Q1_2024_Security_Awareness_4016,CUST_0397,Q1_2024_Security_Awareness,2022-05-07,Direct Mail,Registered,False,66,0
+CAMP_Upsell_Enterprise_Features_6341,CUST_0397,Upsell_Enterprise_Features,2024-03-10,Direct Mail,No Response,False,365,0
+CAMP_Email_Security_Webinar_Series_2378,CUST_0397,Email_Security_Webinar_Series,2023-04-02,LinkedIn,Opened,False,301,0
+CAMP_Threat_Intelligence_Demo_1205,CUST_0398,Threat_Intelligence_Demo,2023-12-25,LinkedIn,No Response,False,150,0
+CAMP_Email_Security_Webinar_Series_4565,CUST_0398,Email_Security_Webinar_Series,2024-05-01,Webinar,Opened,False,59,1853
+CAMP_Upsell_Enterprise_Features_4671,CUST_0398,Upsell_Enterprise_Features,2023-11-16,LinkedIn,Clicked,False,457,2004
+CAMP_Upsell_Enterprise_Features_8791,CUST_0399,Upsell_Enterprise_Features,2022-12-29,Email,No Response,True,339,1705
+CAMP_Email_Security_Webinar_Series_4472,CUST_0400,Email_Security_Webinar_Series,2023-06-12,Email,Opened,False,85,4357
+CAMP_Q3_2024_Compliance_Focus_2852,CUST_0400,Q3_2024_Compliance_Focus,2024-07-23,Direct Mail,Clicked,False,310,0
+CAMP_Q2_2024_Feature_Launch_4315,CUST_0400,Q2_2024_Feature_Launch,2022-09-01,Email,Clicked,False,477,0
+CAMP_Q1_2024_Security_Awareness_5894,CUST_0401,Q1_2024_Security_Awareness,2023-08-23,Webinar,Clicked,True,345,0
+CAMP_Q3_2024_Compliance_Focus_5744,CUST_0402,Q3_2024_Compliance_Focus,2022-04-28,Email,Opened,False,135,0
+CAMP_Q3_2024_Compliance_Focus_3202,CUST_0403,Q3_2024_Compliance_Focus,2023-12-23,LinkedIn,Opened,False,63,0
+CAMP_Archive_Upgrade_Campaign_7504,CUST_0403,Archive_Upgrade_Campaign,2023-12-03,Phone,Registered,True,496,0
+CAMP_Renewal_Campaign_9284,CUST_0403,Renewal_Campaign,2023-09-27,Direct Mail,Clicked,False,486,0
+CAMP_Upsell_Enterprise_Features_8703,CUST_0404,Upsell_Enterprise_Features,2022-06-20,Webinar,No Response,False,186,0
+CAMP_Archive_Upgrade_Campaign_9449,CUST_0405,Archive_Upgrade_Campaign,2024-02-29,Email,Opened,False,82,0
+CAMP_Upsell_Enterprise_Features_9984,CUST_0405,Upsell_Enterprise_Features,2022-09-01,Webinar,Clicked,False,370,3844
+CAMP_Q1_2024_Security_Awareness_2000,CUST_0405,Q1_2024_Security_Awareness,2022-04-20,Phone,Opened,False,224,0
+CAMP_Threat_Intelligence_Demo_5031,CUST_0407,Threat_Intelligence_Demo,2022-06-17,LinkedIn,Clicked,False,188,0
+CAMP_Threat_Intelligence_Demo_8476,CUST_0408,Threat_Intelligence_Demo,2022-10-27,Direct Mail,Opened,False,309,0
+CAMP_Q3_2024_Compliance_Focus_3357,CUST_0408,Q3_2024_Compliance_Focus,2024-03-22,Webinar,No Response,False,397,4033
+CAMP_Q1_2024_Security_Awareness_5232,CUST_0408,Q1_2024_Security_Awareness,2022-12-08,Webinar,No Response,False,301,0
+CAMP_Q3_2024_Compliance_Focus_9691,CUST_0410,Q3_2024_Compliance_Focus,2022-03-20,Phone,Opened,False,132,0
+CAMP_Upsell_Enterprise_Features_6060,CUST_0410,Upsell_Enterprise_Features,2023-03-15,LinkedIn,Opened,False,353,0
+CAMP_Q2_2024_Feature_Launch_1986,CUST_0410,Q2_2024_Feature_Launch,2024-04-10,Webinar,Opened,True,193,0
+CAMP_Q1_2024_Security_Awareness_7475,CUST_0410,Q1_2024_Security_Awareness,2024-05-03,Webinar,Opened,False,432,0
+CAMP_New_Customer_Onboarding_8128,CUST_0410,New_Customer_Onboarding,2022-02-09,Email,Clicked,False,411,0
+CAMP_Renewal_Campaign_7975,CUST_0411,Renewal_Campaign,2023-08-02,Direct Mail,No Response,False,336,3617
+CAMP_Q3_2024_Compliance_Focus_4462,CUST_0412,Q3_2024_Compliance_Focus,2023-02-16,Direct Mail,Registered,False,322,0
+CAMP_Archive_Upgrade_Campaign_7483,CUST_0412,Archive_Upgrade_Campaign,2023-10-02,Email,Registered,False,439,0
+CAMP_Q1_2024_Security_Awareness_5231,CUST_0412,Q1_2024_Security_Awareness,2023-12-05,LinkedIn,Clicked,False,172,0
+CAMP_New_Customer_Onboarding_1442,CUST_0412,New_Customer_Onboarding,2023-12-20,LinkedIn,Clicked,False,183,0
+CAMP_Q1_2024_Security_Awareness_6959,CUST_0414,Q1_2024_Security_Awareness,2023-02-28,Email,Clicked,False,261,0
+CAMP_Threat_Intelligence_Demo_1231,CUST_0415,Threat_Intelligence_Demo,2022-10-14,Webinar,Clicked,False,185,0
+CAMP_Q1_2024_Security_Awareness_7916,CUST_0417,Q1_2024_Security_Awareness,2024-01-15,Webinar,Registered,False,455,0
+CAMP_Q2_2024_Feature_Launch_8311,CUST_0417,Q2_2024_Feature_Launch,2024-02-09,Webinar,Clicked,False,86,0
+CAMP_Archive_Upgrade_Campaign_2953,CUST_0417,Archive_Upgrade_Campaign,2023-03-17,Phone,Opened,False,259,0
+CAMP_Email_Security_Webinar_Series_2179,CUST_0417,Email_Security_Webinar_Series,2024-01-14,LinkedIn,Opened,True,323,0
+CAMP_Q3_2024_Compliance_Focus_5802,CUST_0417,Q3_2024_Compliance_Focus,2023-01-24,Webinar,Clicked,False,236,0
+CAMP_New_Customer_Onboarding_5529,CUST_0418,New_Customer_Onboarding,2024-01-03,LinkedIn,Opened,False,495,0
+CAMP_Email_Security_Webinar_Series_1929,CUST_0418,Email_Security_Webinar_Series,2022-07-08,Email,Opened,False,437,40
+CAMP_Q1_2024_Security_Awareness_3974,CUST_0418,Q1_2024_Security_Awareness,2022-08-17,Direct Mail,Clicked,False,402,0
+CAMP_Archive_Upgrade_Campaign_9705,CUST_0419,Archive_Upgrade_Campaign,2022-06-12,Direct Mail,Opened,False,397,0
+CAMP_New_Customer_Onboarding_3516,CUST_0419,New_Customer_Onboarding,2023-01-28,Direct Mail,Opened,True,397,0
+CAMP_Q3_2024_Compliance_Focus_8997,CUST_0419,Q3_2024_Compliance_Focus,2022-04-22,Email,No Response,False,142,0
+CAMP_Renewal_Campaign_2331,CUST_0420,Renewal_Campaign,2022-01-28,Direct Mail,Registered,False,84,1685
+CAMP_Email_Security_Webinar_Series_1300,CUST_0420,Email_Security_Webinar_Series,2022-08-20,LinkedIn,No Response,True,386,0
+CAMP_New_Customer_Onboarding_1391,CUST_0420,New_Customer_Onboarding,2024-04-18,Webinar,Clicked,False,454,0
+CAMP_New_Customer_Onboarding_3050,CUST_0421,New_Customer_Onboarding,2024-05-27,Webinar,Clicked,False,68,0
+CAMP_Email_Security_Webinar_Series_2334,CUST_0422,Email_Security_Webinar_Series,2022-05-28,Email,Registered,True,382,0
+CAMP_Threat_Intelligence_Demo_9120,CUST_0423,Threat_Intelligence_Demo,2023-08-15,Phone,Opened,False,181,0
+CAMP_Q3_2024_Compliance_Focus_5053,CUST_0423,Q3_2024_Compliance_Focus,2023-06-12,LinkedIn,Opened,False,181,0
+CAMP_Q1_2024_Security_Awareness_1914,CUST_0423,Q1_2024_Security_Awareness,2023-03-20,Email,Clicked,False,400,0
+CAMP_Renewal_Campaign_8299,CUST_0423,Renewal_Campaign,2022-05-07,Direct Mail,Opened,True,237,0
+CAMP_Archive_Upgrade_Campaign_7469,CUST_0424,Archive_Upgrade_Campaign,2023-01-22,Webinar,Registered,False,496,0
+CAMP_New_Customer_Onboarding_1309,CUST_0424,New_Customer_Onboarding,2022-04-17,Phone,Opened,True,406,0
+CAMP_Q1_2024_Security_Awareness_7794,CUST_0425,Q1_2024_Security_Awareness,2024-05-31,Phone,Opened,False,52,0
+CAMP_Threat_Intelligence_Demo_2942,CUST_0426,Threat_Intelligence_Demo,2022-01-10,Webinar,Clicked,False,130,0
+CAMP_Renewal_Campaign_7752,CUST_0426,Renewal_Campaign,2024-01-11,Direct Mail,Opened,False,447,0
+CAMP_Email_Security_Webinar_Series_1955,CUST_0427,Email_Security_Webinar_Series,2024-06-04,Phone,Opened,False,358,0
+CAMP_Renewal_Campaign_4764,CUST_0428,Renewal_Campaign,2023-01-08,Direct Mail,Clicked,False,477,3064
+CAMP_Archive_Upgrade_Campaign_9770,CUST_0428,Archive_Upgrade_Campaign,2022-01-05,Direct Mail,No Response,False,244,0
+CAMP_Threat_Intelligence_Demo_2444,CUST_0429,Threat_Intelligence_Demo,2023-06-29,Email,Clicked,False,174,0
+CAMP_Email_Security_Webinar_Series_7018,CUST_0429,Email_Security_Webinar_Series,2023-06-28,Email,Opened,False,61,0
+CAMP_Q1_2024_Security_Awareness_2459,CUST_0430,Q1_2024_Security_Awareness,2022-03-10,Direct Mail,Registered,False,334,0
+CAMP_Upsell_Enterprise_Features_1960,CUST_0431,Upsell_Enterprise_Features,2023-11-08,LinkedIn,Opened,False,138,0
+CAMP_New_Customer_Onboarding_4493,CUST_0431,New_Customer_Onboarding,2024-03-12,Direct Mail,Registered,False,396,0
+CAMP_New_Customer_Onboarding_4530,CUST_0432,New_Customer_Onboarding,2023-10-05,Phone,Opened,False,326,2630
+CAMP_Upsell_Enterprise_Features_8321,CUST_0433,Upsell_Enterprise_Features,2022-10-25,Phone,Clicked,False,63,0
+CAMP_Q1_2024_Security_Awareness_4829,CUST_0433,Q1_2024_Security_Awareness,2024-03-05,Direct Mail,No Response,False,151,0
+CAMP_Email_Security_Webinar_Series_1012,CUST_0434,Email_Security_Webinar_Series,2022-12-03,Webinar,Clicked,True,453,0
+CAMP_Threat_Intelligence_Demo_6825,CUST_0434,Threat_Intelligence_Demo,2023-03-21,Direct Mail,Registered,False,446,0
+CAMP_Archive_Upgrade_Campaign_8999,CUST_0434,Archive_Upgrade_Campaign,2022-12-04,Direct Mail,No Response,False,457,4445
+CAMP_New_Customer_Onboarding_9390,CUST_0434,New_Customer_Onboarding,2022-07-26,Email,No Response,False,69,0
+CAMP_Renewal_Campaign_5997,CUST_0434,Renewal_Campaign,2024-05-06,Webinar,No Response,False,139,0
+CAMP_Q2_2024_Feature_Launch_3308,CUST_0435,Q2_2024_Feature_Launch,2022-10-24,Email,No Response,False,344,0
+CAMP_Q2_2024_Feature_Launch_8656,CUST_0436,Q2_2024_Feature_Launch,2022-02-05,Direct Mail,Opened,False,336,0
+CAMP_New_Customer_Onboarding_5626,CUST_0437,New_Customer_Onboarding,2024-04-19,Phone,Clicked,True,483,0
+CAMP_Q3_2024_Compliance_Focus_7536,CUST_0437,Q3_2024_Compliance_Focus,2024-03-28,LinkedIn,Opened,False,97,0
+CAMP_Threat_Intelligence_Demo_7893,CUST_0437,Threat_Intelligence_Demo,2022-09-05,Email,Clicked,True,371,0
+CAMP_Q2_2024_Feature_Launch_4753,CUST_0438,Q2_2024_Feature_Launch,2022-09-10,Email,Registered,False,308,0
+CAMP_Q3_2024_Compliance_Focus_6590,CUST_0438,Q3_2024_Compliance_Focus,2023-11-10,Phone,Registered,False,414,1334
+CAMP_New_Customer_Onboarding_3759,CUST_0438,New_Customer_Onboarding,2022-12-02,Phone,Opened,False,116,0
+CAMP_Threat_Intelligence_Demo_8721,CUST_0438,Threat_Intelligence_Demo,2024-05-24,Direct Mail,Opened,False,389,0
+CAMP_Q2_2024_Feature_Launch_1121,CUST_0439,Q2_2024_Feature_Launch,2024-02-07,Phone,Clicked,False,206,0
+CAMP_Renewal_Campaign_5652,CUST_0439,Renewal_Campaign,2022-02-26,LinkedIn,Opened,False,389,572
+CAMP_Q3_2024_Compliance_Focus_5531,CUST_0440,Q3_2024_Compliance_Focus,2023-04-30,Webinar,No Response,False,80,0
+CAMP_Q2_2024_Feature_Launch_9596,CUST_0441,Q2_2024_Feature_Launch,2024-04-09,Email,Clicked,False,247,3249
+CAMP_Renewal_Campaign_5747,CUST_0441,Renewal_Campaign,2022-03-30,Direct Mail,Clicked,True,248,0
+CAMP_Q3_2024_Compliance_Focus_8730,CUST_0441,Q3_2024_Compliance_Focus,2023-06-23,Webinar,Opened,False,439,0
+CAMP_Upsell_Enterprise_Features_2687,CUST_0443,Upsell_Enterprise_Features,2022-01-26,Direct Mail,Clicked,False,309,0
+CAMP_Threat_Intelligence_Demo_4570,CUST_0443,Threat_Intelligence_Demo,2022-07-30,Phone,Registered,False,307,0
+CAMP_Email_Security_Webinar_Series_7185,CUST_0443,Email_Security_Webinar_Series,2022-09-18,Webinar,Clicked,False,132,0
+CAMP_Archive_Upgrade_Campaign_8199,CUST_0444,Archive_Upgrade_Campaign,2022-07-03,Webinar,No Response,True,52,604
+CAMP_Email_Security_Webinar_Series_5947,CUST_0444,Email_Security_Webinar_Series,2022-12-15,Phone,Clicked,False,76,0
+CAMP_New_Customer_Onboarding_2500,CUST_0444,New_Customer_Onboarding,2023-10-05,Direct Mail,Opened,False,449,0
+CAMP_Upsell_Enterprise_Features_8134,CUST_0444,Upsell_Enterprise_Features,2022-09-02,Phone,Opened,False,223,527
+CAMP_Email_Security_Webinar_Series_2461,CUST_0445,Email_Security_Webinar_Series,2023-01-18,Email,Opened,False,178,0
+CAMP_New_Customer_Onboarding_4518,CUST_0446,New_Customer_Onboarding,2022-05-17,Email,Clicked,True,485,4493
+CAMP_Archive_Upgrade_Campaign_7669,CUST_0446,Archive_Upgrade_Campaign,2024-04-21,Email,Registered,False,324,1272
+CAMP_Threat_Intelligence_Demo_9460,CUST_0446,Threat_Intelligence_Demo,2023-04-18,Direct Mail,No Response,False,183,0
+CAMP_Threat_Intelligence_Demo_9994,CUST_0447,Threat_Intelligence_Demo,2023-01-09,LinkedIn,Opened,False,232,0
+CAMP_Upsell_Enterprise_Features_1306,CUST_0447,Upsell_Enterprise_Features,2023-02-26,LinkedIn,Clicked,False,358,0
+CAMP_Email_Security_Webinar_Series_6723,CUST_0447,Email_Security_Webinar_Series,2023-11-13,Direct Mail,Registered,False,243,0
+CAMP_Archive_Upgrade_Campaign_5145,CUST_0447,Archive_Upgrade_Campaign,2024-01-08,Webinar,Opened,False,62,0
+CAMP_Archive_Upgrade_Campaign_5120,CUST_0448,Archive_Upgrade_Campaign,2023-03-28,Direct Mail,Registered,False,81,0
+CAMP_Threat_Intelligence_Demo_6977,CUST_0448,Threat_Intelligence_Demo,2023-08-02,Direct Mail,Registered,False,476,4027
+CAMP_Upsell_Enterprise_Features_9817,CUST_0448,Upsell_Enterprise_Features,2022-05-26,Webinar,Opened,False,149,0
+CAMP_Q1_2024_Security_Awareness_3041,CUST_0449,Q1_2024_Security_Awareness,2024-04-07,Direct Mail,Clicked,False,387,0
+CAMP_Renewal_Campaign_1768,CUST_0449,Renewal_Campaign,2024-01-24,Webinar,Opened,False,426,0
+CAMP_Archive_Upgrade_Campaign_3112,CUST_0450,Archive_Upgrade_Campaign,2022-03-30,Phone,Clicked,True,495,0
+CAMP_Threat_Intelligence_Demo_3324,CUST_0450,Threat_Intelligence_Demo,2022-04-08,Phone,Clicked,True,87,0
+CAMP_Upsell_Enterprise_Features_1449,CUST_0452,Upsell_Enterprise_Features,2023-04-11,Phone,Clicked,False,217,0
+CAMP_Q3_2024_Compliance_Focus_7395,CUST_0452,Q3_2024_Compliance_Focus,2024-05-10,Webinar,No Response,False,323,0
+CAMP_Archive_Upgrade_Campaign_8771,CUST_0453,Archive_Upgrade_Campaign,2023-10-26,Email,No Response,True,369,2259
+CAMP_Threat_Intelligence_Demo_3435,CUST_0453,Threat_Intelligence_Demo,2024-01-06,Direct Mail,Clicked,True,404,0
+CAMP_Email_Security_Webinar_Series_6440,CUST_0454,Email_Security_Webinar_Series,2023-05-10,Email,Registered,False,133,0
+CAMP_Q2_2024_Feature_Launch_8397,CUST_0454,Q2_2024_Feature_Launch,2022-01-01,Direct Mail,No Response,True,182,0
+CAMP_Q2_2024_Feature_Launch_3427,CUST_0455,Q2_2024_Feature_Launch,2023-03-27,Phone,Opened,True,388,0
+CAMP_New_Customer_Onboarding_6860,CUST_0455,New_Customer_Onboarding,2023-12-21,Webinar,Opened,False,340,0
+CAMP_Threat_Intelligence_Demo_5979,CUST_0455,Threat_Intelligence_Demo,2023-09-19,Webinar,Opened,False,202,0
+CAMP_Q1_2024_Security_Awareness_4433,CUST_0456,Q1_2024_Security_Awareness,2023-12-08,Phone,Opened,False,203,0
+CAMP_Q2_2024_Feature_Launch_1981,CUST_0456,Q2_2024_Feature_Launch,2023-04-06,LinkedIn,Opened,False,469,4161
+CAMP_Q3_2024_Compliance_Focus_5546,CUST_0457,Q3_2024_Compliance_Focus,2023-11-04,Phone,Opened,False,500,0
+CAMP_Email_Security_Webinar_Series_6037,CUST_0457,Email_Security_Webinar_Series,2024-06-26,Direct Mail,No Response,True,433,0
+CAMP_Threat_Intelligence_Demo_5293,CUST_0457,Threat_Intelligence_Demo,2024-05-14,LinkedIn,Registered,True,427,0
+CAMP_Q2_2024_Feature_Launch_6944,CUST_0457,Q2_2024_Feature_Launch,2023-09-22,LinkedIn,Opened,False,91,0
+CAMP_Renewal_Campaign_5900,CUST_0457,Renewal_Campaign,2022-05-31,Webinar,Opened,False,307,0
+CAMP_Email_Security_Webinar_Series_7756,CUST_0458,Email_Security_Webinar_Series,2024-03-17,Webinar,Clicked,False,105,3784
+CAMP_Q1_2024_Security_Awareness_9794,CUST_0458,Q1_2024_Security_Awareness,2023-06-19,Direct Mail,Opened,False,316,0
+CAMP_Upsell_Enterprise_Features_2829,CUST_0458,Upsell_Enterprise_Features,2023-02-27,Direct Mail,No Response,False,103,0
+CAMP_Archive_Upgrade_Campaign_9300,CUST_0458,Archive_Upgrade_Campaign,2024-07-27,Phone,Clicked,False,235,0
+CAMP_New_Customer_Onboarding_5773,CUST_0458,New_Customer_Onboarding,2023-10-25,Webinar,Clicked,False,408,0
+CAMP_Q2_2024_Feature_Launch_9020,CUST_0459,Q2_2024_Feature_Launch,2023-09-21,Direct Mail,Clicked,False,133,0
+CAMP_Upsell_Enterprise_Features_2363,CUST_0460,Upsell_Enterprise_Features,2023-05-27,Direct Mail,Registered,False,128,0
+CAMP_Archive_Upgrade_Campaign_5823,CUST_0460,Archive_Upgrade_Campaign,2023-03-29,Phone,Opened,True,458,0
+CAMP_Renewal_Campaign_2800,CUST_0460,Renewal_Campaign,2022-08-29,Phone,Clicked,True,491,0
+CAMP_Q3_2024_Compliance_Focus_6047,CUST_0461,Q3_2024_Compliance_Focus,2023-08-22,Webinar,No Response,False,220,0
+CAMP_Threat_Intelligence_Demo_8784,CUST_0462,Threat_Intelligence_Demo,2022-11-01,Direct Mail,No Response,False,64,0
+CAMP_Email_Security_Webinar_Series_8217,CUST_0462,Email_Security_Webinar_Series,2024-02-16,Email,Clicked,False,87,0
+CAMP_Threat_Intelligence_Demo_2438,CUST_0463,Threat_Intelligence_Demo,2023-06-11,Phone,Clicked,False,341,0
+CAMP_Email_Security_Webinar_Series_8276,CUST_0463,Email_Security_Webinar_Series,2024-01-24,Webinar,Clicked,False,425,0
+CAMP_Q3_2024_Compliance_Focus_5830,CUST_0463,Q3_2024_Compliance_Focus,2024-03-24,Direct Mail,Opened,False,246,0
+CAMP_Q3_2024_Compliance_Focus_8647,CUST_0464,Q3_2024_Compliance_Focus,2023-12-19,Webinar,Registered,False,420,4736
+CAMP_Email_Security_Webinar_Series_4860,CUST_0465,Email_Security_Webinar_Series,2022-09-09,Direct Mail,Clicked,True,266,0
+CAMP_Q3_2024_Compliance_Focus_4575,CUST_0465,Q3_2024_Compliance_Focus,2022-06-14,Webinar,Opened,False,105,0
+CAMP_Upsell_Enterprise_Features_5769,CUST_0467,Upsell_Enterprise_Features,2022-08-09,Direct Mail,No Response,False,222,0
+CAMP_Email_Security_Webinar_Series_9644,CUST_0467,Email_Security_Webinar_Series,2022-09-12,Direct Mail,Opened,False,269,0
+CAMP_Renewal_Campaign_5834,CUST_0468,Renewal_Campaign,2024-07-30,Phone,Opened,False,231,0
+CAMP_Threat_Intelligence_Demo_2000,CUST_0468,Threat_Intelligence_Demo,2022-11-23,Email,Clicked,False,318,0
+CAMP_Archive_Upgrade_Campaign_8175,CUST_0469,Archive_Upgrade_Campaign,2024-05-20,Email,No Response,False,108,816
+CAMP_Upsell_Enterprise_Features_5565,CUST_0470,Upsell_Enterprise_Features,2023-03-30,LinkedIn,Clicked,True,166,0
+CAMP_Archive_Upgrade_Campaign_7067,CUST_0471,Archive_Upgrade_Campaign,2022-06-21,Webinar,Opened,True,66,0
+CAMP_Q1_2024_Security_Awareness_8253,CUST_0471,Q1_2024_Security_Awareness,2023-09-05,Webinar,Opened,False,471,0
+CAMP_Threat_Intelligence_Demo_4222,CUST_0471,Threat_Intelligence_Demo,2024-06-07,Email,Registered,False,272,0
+CAMP_Q2_2024_Feature_Launch_7921,CUST_0472,Q2_2024_Feature_Launch,2023-06-19,Webinar,Opened,False,320,0
+CAMP_Renewal_Campaign_8113,CUST_0473,Renewal_Campaign,2022-11-13,LinkedIn,Opened,True,442,0
+CAMP_Q1_2024_Security_Awareness_6089,CUST_0473,Q1_2024_Security_Awareness,2024-06-10,Phone,Clicked,False,434,0
+CAMP_Q2_2024_Feature_Launch_1044,CUST_0473,Q2_2024_Feature_Launch,2023-07-22,Email,Clicked,False,71,0
+CAMP_Email_Security_Webinar_Series_6992,CUST_0474,Email_Security_Webinar_Series,2023-02-22,Webinar,Opened,False,140,0
+CAMP_Archive_Upgrade_Campaign_1470,CUST_0474,Archive_Upgrade_Campaign,2022-09-17,LinkedIn,Opened,False,92,0
+CAMP_Q1_2024_Security_Awareness_9045,CUST_0475,Q1_2024_Security_Awareness,2024-04-03,Webinar,Opened,True,71,0
+CAMP_Archive_Upgrade_Campaign_4898,CUST_0475,Archive_Upgrade_Campaign,2023-02-20,Webinar,Registered,False,424,0
+CAMP_Q3_2024_Compliance_Focus_6193,CUST_0476,Q3_2024_Compliance_Focus,2023-09-04,Phone,Opened,True,348,0
+CAMP_Q3_2024_Compliance_Focus_6418,CUST_0477,Q3_2024_Compliance_Focus,2022-04-14,Email,Clicked,False,119,0
+CAMP_Q1_2024_Security_Awareness_1366,CUST_0477,Q1_2024_Security_Awareness,2023-06-12,Phone,No Response,False,430,0
+CAMP_Q3_2024_Compliance_Focus_6063,CUST_0479,Q3_2024_Compliance_Focus,2022-06-04,LinkedIn,Registered,True,145,0
+CAMP_Threat_Intelligence_Demo_3557,CUST_0482,Threat_Intelligence_Demo,2022-10-03,Phone,Clicked,False,382,4113
+CAMP_New_Customer_Onboarding_5209,CUST_0483,New_Customer_Onboarding,2023-10-05,Email,Opened,False,119,0
+CAMP_Q3_2024_Compliance_Focus_6407,CUST_0483,Q3_2024_Compliance_Focus,2023-09-29,Direct Mail,Registered,True,498,0
+CAMP_Email_Security_Webinar_Series_3367,CUST_0485,Email_Security_Webinar_Series,2024-03-25,Phone,No Response,False,257,0
+CAMP_Threat_Intelligence_Demo_9100,CUST_0485,Threat_Intelligence_Demo,2022-03-27,Webinar,Clicked,False,449,0
+CAMP_Renewal_Campaign_5752,CUST_0485,Renewal_Campaign,2023-04-26,Email,No Response,True,85,0
+CAMP_Q1_2024_Security_Awareness_8098,CUST_0486,Q1_2024_Security_Awareness,2022-01-28,Direct Mail,Opened,False,318,0
+CAMP_New_Customer_Onboarding_1067,CUST_0486,New_Customer_Onboarding,2023-03-10,Phone,Clicked,False,190,0
+CAMP_Q3_2024_Compliance_Focus_4685,CUST_0487,Q3_2024_Compliance_Focus,2022-05-02,Direct Mail,Opened,True,356,0
+CAMP_Q2_2024_Feature_Launch_9655,CUST_0487,Q2_2024_Feature_Launch,2024-04-04,Email,Opened,False,447,0
+CAMP_Threat_Intelligence_Demo_6910,CUST_0487,Threat_Intelligence_Demo,2023-04-04,Webinar,No Response,False,438,0
+CAMP_Q1_2024_Security_Awareness_1481,CUST_0489,Q1_2024_Security_Awareness,2023-05-26,LinkedIn,Clicked,False,499,0
+CAMP_New_Customer_Onboarding_9589,CUST_0489,New_Customer_Onboarding,2024-05-22,Webinar,Clicked,False,149,0
+CAMP_Threat_Intelligence_Demo_4055,CUST_0490,Threat_Intelligence_Demo,2024-01-13,LinkedIn,No Response,False,127,0
+CAMP_Archive_Upgrade_Campaign_4857,CUST_0491,Archive_Upgrade_Campaign,2023-02-12,LinkedIn,Registered,True,69,0
+CAMP_Email_Security_Webinar_Series_3957,CUST_0491,Email_Security_Webinar_Series,2022-09-10,Direct Mail,Clicked,False,410,0
+CAMP_Renewal_Campaign_5540,CUST_0491,Renewal_Campaign,2024-04-04,Webinar,Clicked,True,269,0
+CAMP_New_Customer_Onboarding_3065,CUST_0492,New_Customer_Onboarding,2022-04-25,LinkedIn,Opened,False,50,0
+CAMP_Q2_2024_Feature_Launch_6397,CUST_0493,Q2_2024_Feature_Launch,2024-01-21,Phone,Opened,False,230,3562
+CAMP_Renewal_Campaign_7985,CUST_0493,Renewal_Campaign,2023-08-01,Email,Clicked,True,394,0
+CAMP_Q1_2024_Security_Awareness_8015,CUST_0494,Q1_2024_Security_Awareness,2022-10-25,Phone,Opened,False,356,1448
+CAMP_Renewal_Campaign_5955,CUST_0494,Renewal_Campaign,2022-09-26,Phone,Registered,False,435,0
+CAMP_Q2_2024_Feature_Launch_1008,CUST_0494,Q2_2024_Feature_Launch,2022-06-11,Email,No Response,False,499,0
+CAMP_Renewal_Campaign_7085,CUST_0495,Renewal_Campaign,2024-01-20,Webinar,Registered,False,440,0
+CAMP_Q2_2024_Feature_Launch_9613,CUST_0495,Q2_2024_Feature_Launch,2022-07-25,LinkedIn,Clicked,False,359,0
+CAMP_Email_Security_Webinar_Series_8703,CUST_0495,Email_Security_Webinar_Series,2023-09-19,Direct Mail,Registered,False,268,0
+CAMP_Q1_2024_Security_Awareness_6276,CUST_0495,Q1_2024_Security_Awareness,2024-02-08,Webinar,Clicked,False,116,0
+CAMP_Archive_Upgrade_Campaign_4169,CUST_0496,Archive_Upgrade_Campaign,2022-01-05,Phone,Opened,False,143,0
+CAMP_Upsell_Enterprise_Features_8502,CUST_0498,Upsell_Enterprise_Features,2023-05-13,Email,Opened,False,486,0
+CAMP_Threat_Intelligence_Demo_4979,CUST_0498,Threat_Intelligence_Demo,2022-03-28,LinkedIn,No Response,False,484,0
+CAMP_Q3_2024_Compliance_Focus_3494,CUST_0499,Q3_2024_Compliance_Focus,2024-06-05,Webinar,Registered,False,54,0
+CAMP_Threat_Intelligence_Demo_2646,CUST_0499,Threat_Intelligence_Demo,2022-09-08,Email,Opened,True,154,0
+CAMP_Q2_2024_Feature_Launch_7269,CUST_0500,Q2_2024_Feature_Launch,2023-04-10,Webinar,Clicked,True,332,0
