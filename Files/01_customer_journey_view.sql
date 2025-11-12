@@ -1,4 +1,5 @@
 CREATE OR REPLACE VIEW mimecast.customer_journey AS
+-- Unique List of customers
 WITH all_customers AS (
     SELECT customer_id FROM mimecast.customer_subscriptions
     UNION
@@ -10,6 +11,7 @@ WITH all_customers AS (
     UNION
     SELECT customer_id FROM mimecast.marketing_campaigns
 ),
+	
 
 journey AS (
     SELECT
@@ -98,8 +100,7 @@ dim AS (
         MAX(cs.start_date) AS last_sub_activated,
 			
         COUNT(DISTINCT cs.subscription_id) AS subscription_count
-        
-        
+          
     FROM all_customers ac
     LEFT JOIN mimecast.customer_subscriptions cs ON ac.customer_id = cs.customer_id
     LEFT JOIN journey j ON ac.customer_id = j.customer_id
@@ -163,110 +164,43 @@ SELECT
 	d.subscription_count,
     ts.upgraded_tilldate,
     ts.downgraded_tilldate,
-    
     d.last_sub_activated,
-
-   
-
-    -- marketing_campaigns
-    
-	mc.total_campaigns_exposed,
+	-- marketing_campaigns
+    mc.total_campaigns_exposed,
     mc.ROI_per,
 	mc.conversion_rate_per, 
-    
-    -- Health score inputs
-    
     -- s.avg_satisfaction AS ticket_satisfaction,
     e.avg_usage_pct,
     e.avg_login_freq,
     ts.avg_days_per_sub,
     ts.status_score,
+	ROUND(LEAST(((
+                (COALESCE(e.avg_usage_pct, 0) + (COALESCE(e.avg_login_freq, 0) / 2)) / 2 * 0.35) +          -- Engagement (35%)
+            	(LEAST(COALESCE(ts.avg_days_per_sub, 0) / 365, 1) * 25) +         -- Tenure (25%)
+            	(COALESCE(ts.status_score, 0) * 0.05) +                           -- Status (5%)
+            	(LEAST(GREATEST(COALESCE(ts.upgraded_tilldate, 0) - COALESCE(ts.downgraded_tilldate, 0),0 ),10) * 1.5 ) +         -- Net Expansion (15%)
+            	(LEAST(COALESCE(mc.ROI_per, 0) / 100, 1) * 20)                    -- ROI (20%)
+        		),100), 2) AS health_score,
 
-    -- Final health score
-   
-
-ROUND(
-    LEAST(
-        (
-            (
-                (COALESCE(e.avg_usage_pct, 0) + (COALESCE(e.avg_login_freq, 0) / 2)) / 2 * 0.35
-            ) +                                                               -- Engagement (35%)
-            (LEAST(COALESCE(ts.avg_days_per_sub, 0) / 365, 1) * 25) +         -- Tenure (25%)
-            (COALESCE(ts.status_score, 0) * 0.05) +                           -- Status (5%)
-            (
-                LEAST(
-                    GREATEST(
-                        COALESCE(ts.upgraded_tilldate, 0) - COALESCE(ts.downgraded_tilldate, 0),
-                        0
-                    ),
-                    10
-                ) * 1.5
-            ) +                                                               -- Net Expansion (15%)
-            (LEAST(COALESCE(mc.ROI_per, 0) / 100, 1) * 20)                    -- ROI (20%)
-        ),
-        100
-    ),
-    2
-) AS health_score,
-
-CASE 
-  when   d.current_status = "Churned" then "Churned"
+	CASE 
+  	when   d.current_status = "Churned" then "Churned"
+    WHEN (ROUND(LEAST(((
+                (COALESCE(e.avg_usage_pct, 0) + (COALESCE(e.avg_login_freq, 0) / 2)) / 2 * 0.35) +          -- Engagement (35%)
+            	(LEAST(COALESCE(ts.avg_days_per_sub, 0) / 365, 1) * 25) +         -- Tenure (25%)
+            	(COALESCE(ts.status_score, 0) * 0.05) +                           -- Status (5%)
+            	(LEAST(GREATEST(COALESCE(ts.upgraded_tilldate, 0) - COALESCE(ts.downgraded_tilldate, 0),0 ),10) * 1.5 ) +         -- Net Expansion (15%)
+            	(LEAST(COALESCE(mc.ROI_per, 0) / 100, 1) * 20)                    -- ROI (20%)
+        		),100), 2)) > 40 THEN 'Healthy'
     WHEN (
-        ROUND(
-            LEAST(
-                (
-                    (
-                        (COALESCE(e.avg_usage_pct, 0) + (COALESCE(e.avg_login_freq, 0) / 2)) / 2 * 0.35
-                    ) +
-                    (LEAST(COALESCE(ts.avg_days_per_sub, 0) / 365, 1) * 25) +
-                    (COALESCE(ts.status_score, 0) * 0.05) +
-                    (
-                        LEAST(
-                            GREATEST(
-                                COALESCE(ts.upgraded_tilldate, 0) - COALESCE(ts.downgraded_tilldate, 0),
-                                0
-                            ),
-                            10
-                        ) * 1.5
-                    ) +
-                    (LEAST(COALESCE(mc.ROI_per, 0) / 100, 1) * 20)
-                ),
-                100
-            ),
-            2
-        )
-    ) > 40 THEN 'Healthy'
-    WHEN (
-        ROUND(
-            LEAST(
-                (
-                    (
-                        (COALESCE(e.avg_usage_pct, 0) + (COALESCE(e.avg_login_freq, 0) / 2)) / 2 * 0.35
-                    ) +
-                    (LEAST(COALESCE(ts.avg_days_per_sub, 0) / 365, 1) * 25) +
-                    (COALESCE(ts.status_score, 0) * 0.05) +
-                    (
-                        LEAST(
-                            GREATEST(
-                                COALESCE(ts.upgraded_tilldate, 0) - COALESCE(ts.downgraded_tilldate, 0),
-                                0
-                            ),
-                            10
-                        ) * 1.5
-                    ) +
-                    (LEAST(COALESCE(mc.ROI_per, 0) / 100, 1) * 20)
-                ),
-                100
-            ),
-            2
-        )
-    ) > 20 THEN 'Monitor'
+        ROUND(LEAST(((
+                (COALESCE(e.avg_usage_pct, 0) + (COALESCE(e.avg_login_freq, 0) / 2)) / 2 * 0.35) +          -- Engagement (35%)
+            	(LEAST(COALESCE(ts.avg_days_per_sub, 0) / 365, 1) * 25) +         -- Tenure (25%)
+            	(COALESCE(ts.status_score, 0) * 0.05) +                           -- Status (5%)
+            	(LEAST(GREATEST(COALESCE(ts.upgraded_tilldate, 0) - COALESCE(ts.downgraded_tilldate, 0),0 ),10) * 1.5 ) +         -- Net Expansion (15%)
+            	(LEAST(COALESCE(mc.ROI_per, 0) / 100, 1) * 20)                    -- ROI (20%)
+        		),100), 2)) > 20 THEN 'Monitor'
     ELSE 'At-Risk'
-END AS health_bucket
-
-
-
-
+	END AS health_bucket
 FROM dim d
 -- LEFT JOIN satisfaction s ON d.customer_id = s.customer_id
 LEFT JOIN engagement e ON d.customer_id = e.customer_id
